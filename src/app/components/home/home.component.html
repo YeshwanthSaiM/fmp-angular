@@ -1,0 +1,67 @@
+<section class="home">
+    <div class="home__text">
+        <div class="title">
+            <img id="headerlogo" [routerLink]="['/']" src="../../../assets/findmyproperties logo with name.png"
+                alt="Find my properties - Leading Real Estate in Hyderabad logo" />
+        </div>
+        <h2>WELCOME TO FIND MY PROPERTIES</h2>
+        <h3>Next generation real estate marketplace</h3>
+    </div>
+    <a-scene class="home__sky">
+        <a-sky src="../../../assets/360 images/open land.jpg">
+            <a-animation attribute="rotation" fill="forwards" easing="linear" dur="150000" from="0 0 0" to="0 360 0"
+                repeat="indefinite"></a-animation>
+        </a-sky>
+        <!-- <a-text color="#0d0d0d" font="kelsonsans" value="WELCOME TO FIND MY PROPERTIES" width="3" position="-1.999 2.640 -1.800"></a-text>
+          <a-text color="#0d0d0d" font="kelsonsans" value="Next generation real estate marketplace" width="3" position="-1.85 1.940 -1.800"></a-text> -->
+        <!-- <a-camera  look-controls="enabled:false"></a-camera> -->
+    </a-scene>
+    <div class="home__vision">
+        <div class="home__vision__left">
+            <img src="../../../assets/Real-Estate.jpg"
+                alt="Find my properties - Leading Real Estate in Hyderabad logo" />
+        </div>
+        <div class="home__vision__right">
+            <div class="flex-column">
+                <h4>BUY - Properties</h4>
+                <p>
+                    We simplify the decision making and easy buying property 3D tours and legal support.
+                    For property owners we make it easy to sell out properties at ease. FMP is a one stop
+                    destination for all marketing and sales needs. There are around one lakh agent in hyderabad,
+                    We provide with never before opportunity to earn with no prior commitments.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="home__slides">
+        <h2>Best Properties</h2>
+        <div>
+            <mat-carousel timings="250ms ease-in" [autoplay]="true" [interval]=5000 color="accent" maxWidth="auto"
+                [proportion]=25 [slides]=4 [loop]="true" [hideArrows]="false" [hideIndicators]="false"
+                [useKeyboard]="true" [useMouseWheel]="false" orientation="ltr">
+                <mat-carousel-slide #matCarouselSlide *ngFor="let slide of bestProperties; let i = index"
+                    [image]="slide" overlayColor="#00000040" [hideOverlay]="false"></mat-carousel-slide>
+            </mat-carousel>
+        </div>
+    </div>
+    <div class="home__vision reverse">
+        <div class="home__vision__left">
+            <img src="../../../assets/earn money.jpg"
+                alt="Find my properties - Leading Real Estate in Hyderabad logo" />
+        </div>
+        <div class="home__vision__right">
+            <div class="flex-column">
+                <h4>SELL - Properties</h4>
+                <ul>
+                    <li>Just follow these instructions.</li>
+                    <li>Open the website findmyproperties.in</li>
+                    <li>Register yourself as agent by clicking on.</li>
+                    <li>Login into agent page.</li>
+                    <li>Get the customer leads.</li>
+                    <li>Proceed with your skills. Make a deal. Simple right !</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <app-footer></app-footer>
+</section>
