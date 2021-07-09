@@ -5,9 +5,10 @@
         <mat-icon>home</mat-icon>
         <span>Home</span>
       </a>
-      <a mat-list-item routerLink="/login" (click)="onToggleClose()">
+      <a mat-list-item (click)="onToggleClose();openDialog()">
         <mat-icon>input</mat-icon>
-        <span>Login</span>
+        <span >Login</span>
+
       </a>
       <a mat-list-item routerLink="/about" (click)="onToggleClose()">
         <mat-icon>account_circle</mat-icon>

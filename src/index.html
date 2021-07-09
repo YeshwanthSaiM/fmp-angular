@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <title>Findmyproperties</title>
@@ -9,10 +10,28 @@
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <style scope="df-messenger">
+    df-messenger {
+      --df-messenger-bot-message: #db810acb;
+      --df-messenger-user-message: #2c70d6;
+      --df-messenger-font-color: rgb(255, 255, 255);
+      --df-messenger-minimized-chat-close-icon-color: "red";
+      --df-messenger-button-titlebar-color: white;
+      --df-messenger-chat-background-color: #fafafa;
+      --df-messenger-send-icon: #2c70d6;
+      --df-messenger-button-titlebar-font-color: rgb(17, 18, 20);
+    }
+  </style>
 </head>
+
 <body class="mat-typography">
+  <df-messenger intent="WELCOME" chat-title="Lara - The Virtual Assistant"
+    chat-icon="https://cdn3.iconfinder.com/data/icons/flat-rounded-7/50/626-512.png"
+    agent-id="a3f3bf11-b496-43c5-9fb7-376896ed8b1b" language-code="en"></df-messenger>
   <script src="assets/lib/aframe/dist/aframe-master.js"></script>
   <script src="assets/lib/aframe-extras/dist/aframe-extras.min.js"></script>
+
   <app-root></app-root>
 </body>
+
 </html>

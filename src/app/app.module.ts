@@ -19,7 +19,13 @@ import { LoginComponent } from './components/login/login.component';
 import { RegisterComponent } from './components/register/register.component';
 import { HttpClientModule } from '@angular/common/http';
 import { MatCarouselModule } from '@ngbmodule/material-carousel';
+import {MatDialogModule} from '@angular/material/dialog';
+import {MatCardModule} from '@angular/material/card';
+import {MatTabsModule} from '@angular/material/tabs';
+import {MatFormFieldModule } from '@angular/material/form-field';
+import { MatInputModule } from '@angular/material/input';
 import { PropertyListComponent } from './components/property-list/property-list.component';
+import {MatDividerModule} from '@angular/material/divider';
 
 @NgModule({
   declarations: [
@@ -37,12 +43,18 @@ import { PropertyListComponent } from './components/property-list/property-list.
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
+    MatInputModule ,
+    MatDividerModule,
     LayoutModule,
+    MatTabsModule,
+    MatFormFieldModule,
     MatToolbarModule,
     MatButtonModule,
     MatSidenavModule,
     MatIconModule,
+    MatCardModule,
     MatListModule,
+    MatDialogModule,
     HttpClientModule,
     MatCarouselModule.forRoot()
   ],
