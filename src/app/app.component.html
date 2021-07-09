@@ -1,24 +1,24 @@
 <mat-sidenav-container class="sidenav-container">
   <mat-sidenav #sidenav class="sidenav">
-    <mat-nav-list class="sidenav-list">
-      <a mat-list-item routerLink="" (click)="onToggleClose()">
+    <mat-nav-list  class="sidenav-list">
+      <a mat-list-item routerLink="" (click)="sidenav.toggle()">
         <mat-icon>home</mat-icon>
         <span>Home</span>
       </a>
-      <a mat-list-item (click)="onToggleClose();openDialog()">
+      <a mat-list-item (click)="sidenav.toggle();openDialog()">
         <mat-icon>input</mat-icon>
         <span >Login</span>
 
       </a>
-      <a mat-list-item routerLink="/about" (click)="onToggleClose()">
+      <a mat-list-item routerLink="/about" (click)="sidenav.toggle()">
         <mat-icon>account_circle</mat-icon>
         <span>About</span>
       </a>
-      <a mat-list-item routerLink="/contact" (click)="onToggleClose()">
+      <a mat-list-item routerLink="/contact" (click)="sidenav.toggle()">
         <mat-icon>phone</mat-icon>
         <span>Contact</span>
       </a>
-      <a mat-list-item routerLink="/blog" (click)="onToggleClose()">
+      <a mat-list-item routerLink="/blog" (click)="sidenav.toggle()">
         <mat-icon>book</mat-icon>
         <span>Blog</span>
       </a>

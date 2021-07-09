@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import {MatDialog} from '@angular/material/dialog';
-import {MatFormFieldControl}from '@angular/material/form-field';
 
 @Component({
   selector: 'app-login',
