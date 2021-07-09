@@ -1,7 +1,65 @@
+<mat-tab-group mat-align-tabs="center">
+    <mat-tab label="RESIDENTIAL">
+        <mat-card *ngFor="let project of projects">
+            <mat-card-header>
 
+                <div class="address">
 
-<mat-tab-group  mat-align-tabs="center">
-    <mat-tab label="RESIDENTIAL"> Content 1 </mat-tab>
+                    <span> {{project.location.locality}}, {{project.location.city}}<br>
+                        <span mat-icon-button style="color:gold" *ngFor="let ratingId of ratingArr;index as i" [id]="'star_'+i" (click)="onClick(i+1)"  matTooltipPosition="above">
+                            <mat-icon>
+                              {{showIcon(i)}}
+                            </mat-icon>
+                        </span>
+                    </span>
+
+                </div>
+                <mat-card-title>
+                    <div>
+                        <span>{{project.projectName}}</span>
+                    </div>
+                </mat-card-title>
+                <mat-card-subtitle>{{project.promoterName}}</mat-card-subtitle>
+            </mat-card-header>
+
+            <mat-card-content>
+                <div class="main-content">
+                    <div class="main-content">
+                        <img class="image" [src]="project.projectImageUrl">
+                        <iframe frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen="" class="iframe" title="https://www.youtube.com/embed/3KKK2ufykos"
+                            src="https://www.youtube.com/embed/3KKK2ufykos"></iframe>
+                        <div class="content">
+                            <div class="details" *ngFor="let property of project.properties">
+                                <h4>{{property.unit}}</h4>
+                                <h4>Size : {{property.size}} sft </h4>
+                                <h4> Price : {{property.totalPrice / 100000 | number:'1.0-0'}} Lacs</h4>
+                            </div>
+                            <div>
+                                <div><b>
+                                        <h4>Location Highlights:</h4>
+                                    </b> </div>
+                                <ul *ngFor="let highlight of project.locationHighlights">
+                                    <li>{{highlight}}</li>
+                                </ul>
+                            </div>
+
+                            <p>Description: {{project.description.substring(0,250)}}... Know more.
+                            </p>
+                            <div class="actions">
+
+                                <button mat-stroked-button color="primary" mat-button>CALL AGENT</button>
+                                <button mat-stroked-button color="primary" mat-button>BUY</button>
+                                <button mat-stroked-button color="primary" (click)='details(project)' mat-button>DETAILS</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </mat-card-content>
+        </mat-card>
+
+    </mat-tab>
     <mat-tab label="OPEN LAND"> Content 2 </mat-tab>
     <mat-tab label="COMMERCIAL"> Content 3 </mat-tab>
 </mat-tab-group>

@@ -26,7 +26,12 @@ import {MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 import { PropertyListComponent } from './components/property-list/property-list.component';
 import {MatDividerModule} from '@angular/material/divider';
+import {MatSnackBarModule} from '@angular/material/snack-bar';
+import { DetailsComponent } from './components/details/details.component';
 
+import {MatSlideToggleModule} from '@angular/material/slide-toggle';
+
+import { Routes, RouterModule } from '@angular/router';
 @NgModule({
   declarations: [
     AppComponent,
@@ -38,15 +43,19 @@ import {MatDividerModule} from '@angular/material/divider';
     LoginComponent,
     RegisterComponent,
     PropertyListComponent,
+    DetailsComponent,
   ],
   imports: [
     BrowserModule,
+    MatSnackBarModule,
     AppRoutingModule,
     BrowserAnimationsModule,
     MatInputModule ,
     MatDividerModule,
     LayoutModule,
+    MatSlideToggleModule,
     MatTabsModule,
+    RouterModule,
     MatFormFieldModule,
     MatToolbarModule,
     MatButtonModule,

@@ -1,7 +1,41 @@
-.mat-tab-labels {
-    justify-content: space-around !important;
+.actions {
+    justify-content: space-around;
+    display        : flex;
 }
-.mat-tab-label
-{
-    width: 50%;
+
+
+.main-content {
+    display: flex;
+    place-items: center;
+    .image,
+    iframe {
+        width    : 25%;
+        height   : 200px;
+        max-width: 300px;
+        min-width: 300px;
+        padding  : 10px;
+    }
+
+    .content {
+        padding: 10px;
+    }
+
+    .details {
+        display        : flex;
+        justify-content: space-around;
+    }
+}
+
+.address {
+    width         : 70%;
+    display       : flex;
+    flex-direction: row-reverse;
+}
+
+@media only screen and (max-width: 600px) {
+    .main-content {
+        place-items: center;
+        display: grid;
+
+    }
 }

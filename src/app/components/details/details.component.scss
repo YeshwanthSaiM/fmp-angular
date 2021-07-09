@@ -1,0 +1,25 @@
+.property__details{
+    display: flex;
+    padding: 0 16px;
+    font-size: 10px;
+    .facts{
+        width: 50%;
+    }
+}
+
+.property-address{
+    padding: 0 16px;
+}
+
+.map-label{
+    padding:16px 0;
+    span{
+        font-size: 20px;
+        font-weight: 500;
+        
+    }
+}
+
+.map-view{
+    padding: 20px;
+}
