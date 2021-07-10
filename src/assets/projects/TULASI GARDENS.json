@@ -1,0 +1,53 @@
+{
+    "projectName": "TULASI GARDENS",
+    "promoterName": "NAVYA DEVELOPERS",
+    "tsrera": "P01100000008",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "INDRESHAM VILLAGE",
+        "district": "Sangareddy District",
+        "Mandal": "PATANCHERU",
+        "colony": "INDRESHAM VILLAGE",
+        "pincode": 502319
+    },
+    "locationHighlights": [
+        "2Kms from TRR General Hospital"
+    ],
+    "amenities": [
+        "Children Play Area",
+        "Power Backup",
+        "Sewage Treatment Plant",
+        "Landscaped Garden"
+    ],
+    "description": "This project is developed by Navya developers and it is spread across acres of green lands where you will experience the feeling of living amongst nature. It is 32 km from Hyderabad City centre via the Old Road. The project possesses all the necessary features that one wishes for a comfortable living. And the basic amenities would be easily available if you do choose to live here. This place is located just off the Hyderabad highway and is suitably connected via rail and by road. It enjoys the services of public and private buses to all major areas nearby. The airport is located at a distance of 50 km only and can be accessed quite easily from here. Visit the site today in order to make your choice.",
+    "projectImageUrl": "https://is1-2.housingcdn.com/4f2250e8/c8ee8cfeffe01ffee4ce1a691cb2d1a0/v0/large/navya_tulasi_gardens-patancheru-hyderabad-navya_developers.jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/eAfWwbeJrvg",
+    "noOfFloors": 0,
+    "type":"open land",
+    "properties": [
+        {
+            "type": "open land",
+            "unit": "open land",
+            "size": 1097,
+            "sizeType": "sft",
+            "sizes": [
+                1097,
+                3380
+            ],
+            "unitPrice": 2780,
+            "totalPrice": 3000000,
+            "imageUrls": [
+                "https://is1-2.housingcdn.com/4f2250e8/c8ee8cfeffe01ffee4ce1a691cb2d1a0/v0/large/navya_tulasi_gardens-patancheru-hyderabad-navya_developers.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/c0ae1831f8771f7f1a0120265484906f/v0/fs/navya_tulasi_gardens-patancheru-hyderabad-navya_developers.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/11ac752389251fa1ad28567e4285c681/v0/fs-large/navya_tulasi_gardens-patancheru-hyderabad-navya_developers.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/eAfWwbeJrvg"
+            ],
+            "otherDetails": {
+                "possessionDate": "JUL-2021"
+            }
+        }
+    ]
+}

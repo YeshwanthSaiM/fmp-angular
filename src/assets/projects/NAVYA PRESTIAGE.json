@@ -1,0 +1,53 @@
+{
+    "projectName": "NAVYA PRESTIAGE",
+    "promoterName": "NAVYA DEVELOPERS",
+    "tsrera": "P01100000087",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "INDRESHAM",
+        "district": "Sangareddy District",
+        "Mandal": "PATANCHERU",
+        "colony": "INDRESHAM",
+        "pincode": 502319
+    },
+    "locationHighlights": [
+        "Near to many bank ATMs",
+        "2 kms from TRR General Hospital"
+    ],
+    "amenities": [
+        "Well built road"
+    ],
+    "description": "Dreaming of buying a flat in Hyderabad was once only a dream but now, you can make this a reality with Prestiage apartments. Built by the Navya Developers this project brings to you the best of luxurious and spacious homes. Located in the Popham region of Hyderabad this apartment is well planned and has all the necessary facilities required in recent times.",
+    "projectImageUrl": "https://is1-2.housingcdn.com/4f2250e8/66ec32fd822066b65c3ecfd83d7c3987/v0/large/navya_prestiage-indresham-hyderabad-navya_developers.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/eAfWwbeJrvg",
+    "noOfFloors": 0,
+    "type":"open land",
+    "properties": [
+        {
+            "type": "open land",
+            "unit": "open land",
+            "size": 1486,
+            "sizeType": "sft",
+            "sizes": [
+                1486,
+                9771
+            ],
+            "unitPrice": 2200,
+            "totalPrice": 3000000,
+            "imageUrls": [
+                "https://is1-2.housingcdn.com/4f2250e8/66ec32fd822066b65c3ecfd83d7c3987/v0/large/navya_prestiage-indresham-hyderabad-navya_developers.jpg",
+                "https://is1-3.housingcdn.com/012c1500/a37ca20374363cae58d5f661c1606e9f/v0/fs/navya_prestiage-indresham-hyderabad-navya_developers.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/e30610c3a5f1d53d9ca3438e87f81fc9/v0/fs/navya_prestiage-indresham-hyderabad-navya_developers.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/7a07e92c5a26da097aec55ecf8d77be2/v0/fs/navya_prestiage-indresham-hyderabad-navya_developers.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/d4a706187b320a0dfa05af0c77ec1f9a/v0/fs/navya_prestiage-indresham-hyderabad-navya_developers.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/eAfWwbeJrvg"
+            ],
+            "otherDetails": {
+                "possessionDate": "JAN-2021"
+            }
+        }
+    ]
+}

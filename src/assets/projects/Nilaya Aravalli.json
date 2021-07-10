@@ -1,0 +1,53 @@
+{
+    "projectName": "Nilaya Aravalli",
+    "promoterName": "Nilaya Property Developers",
+    "tsrera": "P02500000179",
+    "type":"residential",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Kondapur",
+        "district": "Hyderabad District",
+        "Mandal": "Kondapur",
+        "colony": "Kondapur",
+        "pincode": 500084
+    },
+    "locationHighlights": [
+        "Amb Cinemas (Sarath City Capital Mall) 1.2 kms",
+        "Botanical Garden 1 km",
+        "Gachibowli Central 2 kms"
+    ],
+    "amenities": [
+        "Children Play Area",
+        "Power Backup",
+        "Lift",
+        "24Hrs Water Supply",
+        "Covered Car Parking"
+    ],
+    "description": "Project Introduction:. Nilaya Aravalli is an unmatched Residential property located in Kondapur, Hyderabad. The project offers plenty of benefits that includes prime location, comfortable and lavish lifestyle, great amenities, healthy surroundings and high return. Location Advantages:. Nilaya Aravalli is strategically located and provides direct connectivity to nearly all other major points in and around Hyderabad. It is one of the most reputable address of the city with easy access to many famed schools, shopping areas, hospitals, recreational areas, public gardens and several other public amenities.",
+    "projectImageUrl": "https://is1-3.housingcdn.com/4f2250e8/964a8bdc95c6f0d05bd0e9857ef0d711/v0/large/nilaya_aravalli-kondapur_hyderabad-hyderabad-nilaya_developers.jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/-04J_XPL2G4",
+    "noOfFloors": 5,
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "2, 3 BHK",
+            "size": 1036,
+            "sizeType": "sft",
+            "sizes": [
+                1036,
+                1414
+            ],
+            "unitPrice": 5500,
+            "totalPrice": 5700000,
+            "imageUrls": [
+                "https://is1-3.housingcdn.com/012c1500/1599c590d768779c876d68b2a6c585fb/v0/fs/nilaya_aravalli-kondapur_hyderabad-hyderabad-nilaya_developers.jpeg",
+                "https://is1-3.housingcdn.com/4f2250e8/964a8bdc95c6f0d05bd0e9857ef0d711/v0/large/nilaya_aravalli-kondapur_hyderabad-hyderabad-nilaya_developers.jpeg"
+            ],
+            "videoUrls": ["https://www.youtube.com/embed/-04J_XPL2G4"],
+            "otherDetails": {
+                "possessionDate": "APR-2023"
+            }
+        }
+    ]
+}

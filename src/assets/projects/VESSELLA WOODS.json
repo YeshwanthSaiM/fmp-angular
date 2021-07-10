@@ -1,0 +1,71 @@
+{
+    "projectName": "VESSELLA WOODS",
+    "promoterName": "VESSELLA WOODS",
+    "tsrera": "P02400000018",
+    "type": "residential",
+    "locationHighlights": [
+        "close to sarath city capital mall"
+    ],
+    "amenities": [
+        "Internal Roads & Footpaths",
+        "Water Supply",
+        "Sewerage (Chamber, Lines, Septic Tank , STP)",
+        "Storm Water Drains",
+        "Green Strip/TOT LOT/Park",
+        "Street Lighting",
+        "Community Buildings",
+        "Treatment And Disposal Of Sewage And Sullage Water ",
+        "Solid Waste Management And Disposal",
+        "Water Conservation, Rain water Harvesting",
+        "Energy management",
+        "Fire Protection And Fire Safety Requirements",
+        "Electrical Meter Room, Sub-Station, Receiving Station",
+        "Aggregate area of recreational Open Space"
+    ],
+    "location": {
+        "state": "Telangana",
+        "city": "Madina Guda",
+        "locality": "KONDAPUR",
+        "district": "RANGA REDDY",
+        "Mandal": "Serilingampally",
+        "colony": "KONDAPUR",
+        "pincode": 500078
+    },
+    "description": "Vessella Woods offers a host of facilities for residents. This includes Gymnasium, Power Backup. For families with kids, there is Children's Play Area, nearby apart from Indoor Game Room - Billiards/Snooker Table, Carom Board, Table Tennis, Foosball Table, Swimming Pool. Sportsies can use Tennis Court, Squash Court, Basketball Court. These amenities in Vessella Woods are those that every homebuyer aspires for!.",
+    "projectImageUrl": "https://is1-3.housingcdn.com/4f2250e8/23c2f576765edfe8e85386a1e03fd460/v2/fs/vessella_woods-serilingampally-hyderabad-vessella_group.jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/VdQLvI8eds0",
+    "noOfFloors": 1,
+    "properties": [
+        {
+            "type": "residential villas",
+            "unit": "4 BHK",
+            "size": 3584,
+            "sizeType": "sft",
+            "sizeRange": [
+                3584,
+                4259
+            ],
+            "sizes": [
+                3584,
+                3610,
+                3693,
+                4240,
+                4259
+            ],
+            "unitPrice": 15000,
+            "totalPrice": 53760000,
+            "imageUrls": [
+                "https://is1-3.housingcdn.com/012c1500/407c105f121635910d3407616abdee49/v2/fs.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/a38bd49316bf26f24efbcf28114e408a/v2/fs.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/be6fcd6ff08b4c2a62e44be822de11dc/v2/fs.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/03f885078cdf9c834e77381a53a80251/v2/fs.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/fOIG44lPxSM"
+            ],
+            "otherDetails": {
+                "possessionDate": "JAN-2024"
+            }
+        }
+    ]
+}

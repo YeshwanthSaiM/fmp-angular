@@ -1,6 +1,6 @@
 <div>
-    <h3 style="text-align: center;">{{project.projectName}}</h3>
-    <div>
+    <h3 style="text-align: center; margin: 10px;">{{project.projectName}}</h3>
+    <div style="margin: 35px;">
         <span mat-icon-button style="color:gold" *ngFor="let ratingId of ratingArr;index as i" [id]="'star_'+i"
             (click)="onClick(i+1)" matTooltipPosition="above">
             <mat-icon>
@@ -8,11 +8,11 @@
             </mat-icon>
         </span>
         <span style="float: right;">
-            <button mat-raised-button color="primary">3D Tour</button>
+            <button (click)="openGallery(project?.projectName)" mat-raised-button color="primary">3D Tour</button>
         </span>
 
     </div>
-    <div [style.height]="'auto'">
+    <div style="margin: 35px;">
         <mat-carousel timings="250ms ease-in" [autoplay]="true" [loop]="true" [hideArrows]="false"
             [hideIndicators]="false" [useKeyboard]="true" [useMouseWheel]="false" orientation="ltr">
             <mat-carousel-slide #matCarouselSlide *ngFor="let slide of project.properties[0].imageUrls; let i = index"

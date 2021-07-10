@@ -1,0 +1,79 @@
+{
+    "projectName": "Manbhum Around the Grove",
+    "promoterName": "MANBHUM CONSTRUCTION COMPANY PRIVATE LIMITED",
+    "tsrera": "P02400000354",
+    "type": "residential",
+    "locationHighlights": [
+        "CHIREC, Oakridge, Keystone, Meridian, Pioneer International- within 3 kms radius",
+        "KIMS (kondapur) – 1.2km",
+        "Apollo Hospitals – 400 m",
+        "IKEA 3.8KM"
+    ],
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Whitefields",
+        "district": "RANGA REDDY",
+        "Mandal": "Serilingampally",
+        "colony": "Kondapur Village",
+        "pincode": 500084
+    },
+    "amenities": [
+        "Internal Roads & Footpaths",
+        "Water Supply",
+        "Sewerage (Chamber, Lines, Septic Tank , STP)",
+        "Storm Water Drains",
+        "Green Strip/TOT LOT/Park",
+        "Street Lighting",
+        "Community Buildings",
+        "Treatment And Disposal Of Sewage And Sullage Water ",
+        "Solid Waste Management And Disposal",
+        "Water Conservation, Rain water Harvesting",
+        "Energy management",
+        "Fire Protection And Fire Safety Requirements",
+        "Electrical Meter Room, Sub-Station, Receiving Station",
+        "Aggregate area of recreational Open Space"
+    ],
+    "description": "Presenting 'Around the Grove' - 3 & 4 BHK Nature Conscious Residences in the heart of Hitec City, built around 150 trees standing sky tall at 30-60 feet. Spaces where you forget to keep a tab on the outside world and its happenings. Spaces that allow you to enjoy the simple pleasure of life, in each other’s company. Spaces that let you be",
+    "projectImageUrl": "http://manbhum.com/around-the-grove/img/lone.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/zW5t1jm84is",
+    "noOfFloors": 10,
+    "properties": [
+        {
+            "type": "residential apartments",
+            "unit": "3, 4 BHK",
+            "size": 11890,
+            "sizeType": "sft",
+            "sizes": [
+                1890,
+                1870,
+                1885,
+                1935,
+                1960,
+                1980,
+                2195,
+                2200,
+                2045,
+                2260,
+                2290,
+                2860,
+                2965
+            ],
+            "unitPrice": 6500,
+            "totalPrice": 12285000,
+            "imageUrls": [
+                "https://im.proptiger.com/1/1718663/6/around-the-grove-images-for-elevation-of-manbhum-around-the-grove-20129799.jpeg",
+                "https://im.proptiger.com/1/1718663/6/around-the-grove-images-for-elevation-of-manbhum-around-the-grove-20129797.jpeg",
+                "https://im.proptiger.com/1/1718663/6/around-the-grove-images-for-elevation-of-manbhum-around-the-grove-20129798.jpeg",
+                "https://im.proptiger.com/1/1718663/80/around-the-grove-images-for-amenities-of-manbhum-around-the-grove-20130078.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/zW5t1jm84is",
+                "https://www.youtube.com/embed/5DflN7hkRmI"
+            ],
+            "otherDetails": {
+                "possessionDate": "JUN-2021"
+            }
+        }
+    ]
+}

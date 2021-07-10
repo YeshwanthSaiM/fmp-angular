@@ -1,0 +1,118 @@
+{
+    "projectName": "SOLITAIRE HEIGHTS",
+    "promoterName": "SRAVANTHI CONSTRUCTIONS PRIVATE LIMITED",
+    "tsrera": "P02500000103",
+    "type": "residential",
+    "locationHighlights": [
+        "Near Begumpet Railway Station",
+        "Near Image hospital Ameerpet"
+    ],
+    "amenities": [
+        "Jogging and Strolling Track",
+        "Barbeque Pit",
+        "Power Back Up",
+        "Swimming Pool",
+        "Lift",
+        "Security Park",
+        "Reserved Parking",
+        "Banquet Hall",
+        "Gymnasium",
+        "Kids Play Area",
+        "Flower Gardens",
+        "Rain Water Harvesting",
+        "Water Storage",
+        "Indoor Squash",
+        "Badminton Courts",
+        "Vaastu Compliant",
+        "Internet/Wi-Fi",
+        "Connectivity Event Space"
+    ],
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "YELLAREDDYGUDA",
+        "district": "Ranga Reddy",
+        "Mandal": "Maheswaram",
+        "colony": "NAGARJUNA NAGAR COLONY",
+        "pincode": 500073
+    },
+    "description": "Sravanthi Solitaire Heights is a residential project developed by Sravanthi Constructions Pvt Ltd at Ameerpet in North Hyderabad. The project aims to offer a comfortable living condition to the residents by encompassing , adding to its existing many facilities.",
+    "projectImageUrl": "https://thevasavigroup.com/wp-content/uploads/2019/07/solitaire-768x593.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/eWwVdfck1o4",
+    "noOfFloors": 11,
+    "properties": [
+        {
+            "type": "residential apartment",
+            "unit": "3 BHK",
+            "size": 1875,
+            "sizeType": "sft",
+            "sizeRange": [
+                1875
+            ],
+            "sizes": [],
+            "unitPrice": 10000,
+            "totalPrice": 18750000,
+            "estimatedEmi": 150000,
+            "noOfFloors": 11,
+            "amenities": [
+                "24Hrs Backup Electricity",
+                "Covered Car Parking",
+                "Gym",
+                "Indoor Games",
+                "Jogging Track",
+                "Landscaped Garden",
+                "Lift Party Area",
+                "Play Area",
+                "Rain Water Harvesting",
+                "Security",
+                "Solar Water Heating",
+                "Swimming Pool",
+                "Table Tennis"
+            ],
+            "images": [
+                "Vasavi Solitaire Heights"
+            ],
+            "videos": [
+                "https://www.youtube.com/embed/lOdS5jizkT0",
+                "https://www.youtube.com/watch?v=5agbZrlH3nY&ab_channel=Zricks.com"
+            ],
+            "otherDetails": {
+                "possessionDate": "Dec-2021",
+                "approvals": [
+                    "HMDA",
+                    "Rera"
+                ]
+            },
+            "description": "Solitaire Heights built with style and flamboyance, luxury and refinement, quality and craftsmanship is located in the heart of the city \u00e2\u20ac\u201c A Jewel in Ameerpet. These elegantly built apartments are based in the middle of the city, where convenience is a virtue."
+        },
+        {
+            "type": "residential apartment",
+            "unit": "2, 3 BHK",
+            "size": 1212,
+            "sizeType": "sft",
+            "sizes": [
+                1212,
+                1761,
+                1875,
+                1763,
+                2047,
+                2249,
+                2315
+            ],
+            "unitPrice": 10000,
+            "totalPrice": 1212000,
+            "imageUrls": [
+                "https://is1-3.housingcdn.com/4f2250e8/8e6d36689f59d565dd98904b7b7531dc/v0/fs/sravanthi_solitaire_heights-ameerpet-hyderabad-sravanthi_constructions_pvt_ltd.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/f338f0d59d8f29c2460e20766020622d/v0/fs/sravanthi_solitaire_heights-ameerpet-hyderabad-sravanthi_constructions_pvt_ltd.jpg",
+                "https://is1-2.housingcdn.com/012c1500/c929186e352e4a9fd4910173f521c396/v0/fs/sravanthi_solitaire_heights-ameerpet-hyderabad-sravanthi_constructions_pvt_ltd.jpg",
+                "https://is1-3.housingcdn.com/012c1500/19dd2eed1310edb931266e22cea34ebd/v0/fs/sravanthi_solitaire_heights-ameerpet-hyderabad-sravanthi_constructions_pvt_ltd.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/08-X7QxxbwM"
+            ],
+            "otherDetails": {
+                "possessionDate": "DEC-2021"
+            }
+        }
+    ]
+}

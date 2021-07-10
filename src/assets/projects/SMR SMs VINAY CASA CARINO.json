@@ -1,0 +1,69 @@
+{
+    "projectName": "SMR SMs VINAY CASA CARINO",
+    "promoterName": "SMR SM ESTATES",
+    "tsrera": " P02400000052",
+    "type": "residential",
+    "locationHighlights": [
+        "close to bandlaguda jagir muncipal office"
+    ],
+    "amenities": [
+        "Internal Roads & Footpaths",
+        "Water Supply",
+        "Sewerage (Chamber, Lines, Septic Tank , STP)",
+        "Storm Water Drains",
+        "Green Strip/TOT LOT/Park",
+        "Street Lighting",
+        "Community Buildings",
+        "Treatment And Disposal Of Sewage And Sullage Water ",
+        "Solid Waste Management And Disposal",
+        "Water Conservation, Rain water Harvesting",
+        "Energy management",
+        "Electrical Meter Room, Sub-Station, Receiving Station",
+        "Aggregate area of recreational Open Space"
+    ],
+    "location": {
+        "state": "Telangana",
+        "city": "Bandlaguda",
+        "locality": "Bandlaguda Jagir Village",
+        "district": "RANGA REDDY",
+        "Mandal": "Gandipet",
+        "colony": "Kismatpur Main Road",
+        "pincode": 500084
+    },
+    "description": "SMR SMS Vinay Casa Carino is a residential project by SMR Holdings located at Bandlaguda in Sikanderguda. The key amenities of the project include Indoor Game Room Billiards/Snooker Table, Carom Board, Table Tennis, Foosball Table, Children's Play Area, Basketball Court, Landscaped Garden and Power Backup. Owing to its location, facilities such as schools, hospitals, ATMs, and markets are available at a close distance from SMR SMS Vinay Casa Carino. An extensive network of public transports in the close vicinity makes the project accessible.",
+    "projectImageUrl": "https://is1-2.housingcdn.com/4f2250e8/2389e17b4d3bebe53f8d0e5c0a17bb51/v0/fs/smr_sms_vinay_casa_carino-bandlaguda-hyderabad-smr_holdings.jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/eWwVdfck1o4",
+    "noOfFloors": 1,
+    "properties": [
+        {
+            "type": "residential villas",
+            "unit": "4 BHK",
+            "size": 4310,
+            "sizeType": "sft",
+            "sizes": [
+                4310,
+                4567,
+                4676,
+                4728,
+                4769,
+                4910,
+                4934,
+                5116
+            ],
+            "unitPrice": 11500,
+            "totalPrice": 49565000,
+            "imageUrls": [
+                "https://is1-2.housingcdn.com/012c1500/32ecbdb5146ae486a2bd6205deee804f/v0/fs/smr_sms_vinay_casa_carino-bandlaguda-hyderabad-smr_holdings.png",
+                "https://is1-2.housingcdn.com/012c1500/aaca776c2bb3f030598042a9efb00cfa/v0/fs/smr_sms_vinay_casa_carino-bandlaguda-hyderabad-smr_holdings.png",
+                "https://is1-3.housingcdn.com/012c1500/066af5a8d7310f220a3e7f94c001fd82/v0/fs/smr_sms_vinay_casa_carino-bandlaguda-hyderabad-smr_holdings.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/e10e255d9861d349cb3e03228aaa8e59/v0/fs/smr_sms_vinay_casa_carino-bandlaguda-hyderabad-smr_holdings.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/eWwVdfck1o4"
+            ],
+            "otherDetails": {
+                "possessionDate": "DEC-2023"
+            }
+        }
+    ]
+}

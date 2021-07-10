@@ -1,0 +1,56 @@
+{
+    "projectName": "Sanman Trinity Villas",
+    "promoterName": "Sanman Homes Private Limited",
+    "tsrera": "P02200000324",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Petbasheerabad",
+        "district": "Medchal-Malkajgiri",
+        "Mandal": "Qutballapur",
+        "colony": "Petbasheerabad",
+        "pincode": 500067
+    },
+    "locationHighlights": [],
+    "amenities": [
+        "Water Supply",
+        "CCTV",
+        "Sports Facility",
+        "Car Parking"
+    ],
+    "description": "Wonderful flat",
+    "projectImageUrl": "https://is1-2.housingcdn.com/4f2250e8/b838b216a90bd2678ffbde16f143d5e9/v0/large/sanman_trinity_villas-kompally-hyderabad-sanman_homes.jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/NT8dmYRZFBE",
+    "noOfFloors": 1,
+    "type":"residential",
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "3, 4 BHK Villa",
+            "size": 1322,
+            "sizeType": "sft",
+            "sizes": [
+                1322,
+                1379,
+                1413,
+                1425,
+                1427,
+                2146,
+                3130
+            ],
+            "unitPrice": 6000,
+            "totalPrice": 7900000,
+            "imageUrls": [
+                "https://is1-2.housingcdn.com/012c1500/941ffcd6c2c5a3b9a33f3a8a34cee5d4/v0/fs/sanman_trinity_villas-kompally-hyderabad-sanman_homes.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/3ce4fe273ea310b2ae28dd75d6f737f4/v0/fs/sanman_trinity_villas-kompally-hyderabad-sanman_homes.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/be17e0e9898efcc3698e91cf5ed71a4d/v0/fs/sanman_trinity_villas-kompally-hyderabad-sanman_homes.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/NT8dmYRZFBE"
+            ],
+            "otherDetails": {
+                "possessionDate": "SEP-2020"
+            }
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "projectName": "VASAVI COOPERATE",
+    "promoterName": "SHREEMUKH DEVELOPERS",
+    "tsrera": "P02500000028",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "ROAD NO 12",
+        "district": "Hyderabad",
+        "Mandal": "Hyderabad",
+        "colony": "BANJARA HILLS",
+        "pincode": 500034
+    },
+    "locationHighlights": [
+        "In the city hub in banjara hils"
+    ],
+    "amenities": [
+        "Water Supply",
+        "Electrical Meter Room"
+    ],
+    "description": "Shreemukh Developers is a premier real estate company in Hyderabad with its main focus on providing projects with the highest standards of quality. The company aims to consistently make great strides in fulfilling the dreams of a large number of esteemed customers. It is armed with a team of talented professionals who are very knowledgeable and proficient in the real estate sector and are always ready to deliver more than what has been asked for.",
+    "projectImageUrl": "https://thevasavigroup.com/wp-content/uploads/2020/06/vasavi-corporate1.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/RKkfcTTyKV4",
+    "noOfFloors": 5,
+    "type":"commercial",
+    "properties": [
+        {
+            "type": "commercial",
+            "unit": "office space",
+            "size": 400,
+            "sizeType": "sft",
+            "sizes": [
+                400,
+                600
+            ],
+            "unitPrice": 6000,
+            "totalPrice": 2400000,
+            "imageUrls": [
+                "https://thevasavigroup.com/wp-content/uploads/2020/06/vasavi-corporate.jpg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/RKkfcTTyKV4"
+            ],
+            "otherDetails": {
+                "possessionDate": "JUN-2024"
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "projectName": "G SQUARE",
+    "promoterName": "DEFINATION REALITY LLP",
+    "tsrera": "P02400000777",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "GACHIBOWLI",
+        "district": "Ranga Reddy District",
+        "Mandal": "Serilingampally",
+        "colony": "OLD MUMBAI HIGHWAY",
+        "pincode": 500032
+    },
+    "locationHighlights": [
+        "In the heart of IT Hub Hyderabad"
+    ],
+    "amenities": [
+        "Car parking",
+        "Fully Furnished"
+    ],
+    "description": "G Square IT Tower is a 'A' grade building in Gachibowli  in the heart of IT hub Hyderabad. Offering office space from 1000 to 25000 sqft. Project location connects to outer ring road and other IT parks in the vicinity Project Advantage Very Well Constructed Space For Offices Very Near To Biodiversity Signal Approved by GHMC Maintenance cost - Rs. 8 / Sqft Car parking space - 1 car for 1000 sft. Location Advantages: Gachibowli - 1 Km Outer Ring Road - 1 Km Care Hospital - 1 Km Sunshine Hospital - 400 Metres Ikea - 1.5 Km Inorbit Mall - 3 Km Mindspace Metro - 2 Km Financial District - 2 Km Nanakramguda - 2 Km",
+    "projectImageUrl": "https://cf-cdn.cityinfoservices.com/public/uploads/projectBanner/large/G%20Square%201__1679052924.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/t0GFGBmRT2M",
+    "noOfFloors": 8,
+    "type":"commercial",
+    "properties": [
+        {
+            "type": "commercial",
+            "unit": "office space",
+            "size": 1000,
+            "sizeType": "sft",
+            "sizes": [
+                1000
+            ],
+            "unitPrice": 3000,
+            "totalPrice": 30000000,
+            "imageUrls": [
+                "https://img.staticmb.com/mbimages/project/2020/04/15/Project-Photo-5-G-Square-IT-Tower-Hyderabad-5170293_450_867.jpg",
+                "https://img.staticmb.com/mbimages/project/2020/04/15/Project-Photo-6-G-Square-IT-Tower-Hyderabad-5170293_450_867.jpg",
+                "https://img.staticmb.com/mbimages/project/2020/04/15/Project-Photo-7-G-Square-IT-Tower-Hyderabad-5170293_450_867.jpg",
+                "https://img.staticmb.com/mbimages/project/2020/04/15/Project-Photo-1-G-Square-IT-Tower-Hyderabad-5170293_345_1366.jpg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/t0GFGBmRT2M"
+            ],
+            "otherDetails": {
+                "possessionDate": "JAN-2021"
+            }
+        }
+    ]
+}

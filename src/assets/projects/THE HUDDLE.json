@@ -1,0 +1,60 @@
+{
+    "projectName": "THE HUDDLE",
+    "promoterName": "RAMKY INTEGRATED TOWNSHIP LIMITED",
+    "tsrera": "P02400000023",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "RAMKY DISCOVERY CITY",
+        "district": "Ranga Reddy District",
+        "Mandal": "Maheshwaram",
+        "colony": "SARASWATIGUDA ROAD",
+        "pincode": 501359
+    },
+    "locationHighlights": [
+        "Near Outer Ring Road, Exit 14",
+        "E-City",
+        "Hardware Park",
+        "Near Adibatla - SEZ"
+    ],
+    "amenities": [
+        "Internal Roads & Footpaths",
+        "Water Supply",
+        "Storm Water Drains",
+        "Community Buildings",
+        "RAIN WATER HARVESTING"
+    ],
+    "description": "Part of a large integrated township, Ramky Discovery City, The Huddle is the first cluster villa in Hyderabad, India and is located close to the reserve forest and boast lush green landscapes and open parks",
+    "projectImageUrl": "https://ramkydiscoverycity.com/wp-content/uploads/2020/04/huddle-new-banner.png",
+    "projectVideoUrl": "https://www.youtube.com/embed/01qjedPXVLc",
+    "noOfFloors": 1,
+    "type":"residential",
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "3, 4 BHK Villa",
+            "size": 2038,
+            "sizeType": "sft",
+            "sizes": [
+                2038,
+                2570,
+                3204,
+                3838
+            ],
+            "unitPrice": 5500,
+            "totalPrice": 17000000,
+            "imageUrls": [
+                "https://ramkydiscoverycity.com/wp-content/uploads/2020/10/View-4-scaled.jpg",
+                "https://ramkydiscoverycity.com/wp-content/uploads/2020/03/Balcony-View-scaled.jpg",
+                "https://ramkydiscoverycity.com/wp-content/uploads/2020/03/Park-View-scaled.jpg",
+                "https://ramkydiscoverycity.com/wp-content/uploads/2020/03/Street-View-scaled.jpg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/fWRwiJOhXXI"
+            ],
+            "otherDetails": {
+                "possessionDate": "JAN-2022"
+            }
+        }
+    ]
+}

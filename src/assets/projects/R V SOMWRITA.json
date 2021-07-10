@@ -1,0 +1,69 @@
+{
+    "projectName": "R V SOMWRITA",
+    "promoterName": "R.V. NIRMAAN PVT.LTD",
+    "tsrera": " P02400000002",
+    "type": "residential",
+    "locationHighlights": [
+        "CLOSE TO CBIT"
+    ],
+    "amenities": [
+        "Internal Roads & Footpaths",
+        "Water Supply",
+        "Sewerage (Chamber, Lines, Septic Tank , STP)",
+        "Storm Water Drains",
+        "Green Strip/TOT LOT/Park",
+        "Street Lighting",
+        "Community Buildings",
+        "Treatment And Disposal Of Sewage And Sullage Water ",
+        "Solid Waste Management And Disposal",
+        "Water Conservation, Rain water Harvesting",
+        "Energy management",
+        "Fire Protection And Fire Safety Requirements",
+        "Electrical Meter Room, Sub-Station, Receiving Station",
+        "Aggregate area of recreational Open Space"
+    ],
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "KISMATPUR",
+        "district": "RANGA REDDY",
+        "Mandal": "Gandipet",
+        "colony": "Saibaba NagaR",
+        "pincode": 500030
+    },
+    "description": "RV Nirmaan is a trustworthy name in real estate with more than thirty years of experience and successfully delivering thirteen projects. RV Somwrita spreads in over ten acres which will enclose 118 villas. These villas have a beautiful and spacious design that will include three BHK and three toilets. One can select from 1900 to 2700 sq feet area with a change in price according to it. Car parking, water supply, community buildings are a few facilities it will offer. Commuting to the location is not difficult, and Gandhipet Chowrastha bus stop and Lingampally railway station are landmarks close to it. Be it a shopping mall or schools or hospitals or entertainment point they all exist around the location.",
+    "projectImageUrl": "https://is1-3.housingcdn.com/4f2250e8/2afceaa06c2b22c30e93c26009ab962b/v0/fs/rv_nirmaan_somwrita-kismatpur-hyderabad-r._v._nirmaan_private_limited.png",
+    "projectVideoUrl": "https://www.youtube.com/embed/5vW2A0U1vZY",
+    "noOfFloors": 1,
+    "properties": [
+        {
+            "type": "residential villas",
+            "unit": "3 BHK Villa",
+            "size": 1926,
+            "sizeType": "sft",
+            "sizeRange": [
+                1926,
+                2389
+            ],
+            "sizes": [
+                1926,
+                2314,
+                2389
+            ],
+            "unitPrice": 11680,
+            "totalPrice": 22495680,
+            "imageUrls": [
+                "https://is1-2.housingcdn.com/012c1500/22da64247679ba350d79ece9e176158d/v0/fs/rv_nirmaan_somwrita-kismatpur-hyderabad-r._v._nirmaan_private_limited.png",
+                "https://is1-3.housingcdn.com/012c1500/25c49902bf2500ff4fb1d55eb20a4b61/v0/fs/rv_nirmaan_somwrita-kismatpur-hyderabad-r._v._nirmaan_private_limited.png",
+                "https://is1-2.housingcdn.com/012c1500/421c761ec17c6b09fd79c6032cf84234/v0/fs/rv_nirmaan_somwrita-kismatpur-hyderabad-r._v._nirmaan_private_limited.png",
+                "https://is1-2.housingcdn.com/012c1500/23bdea332c3c2ce58048bbb26fbf7ef1/v0/fs/rv_nirmaan_somwrita-kismatpur-hyderabad-r._v._nirmaan_private_limited.png"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/5vW2A0U1vZY"
+            ],
+            "otherDetails": {
+                "possessionDate": "MAR-2022"
+            }
+        }
+    ]
+}

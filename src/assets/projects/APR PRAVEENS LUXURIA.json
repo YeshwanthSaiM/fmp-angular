@@ -1,0 +1,54 @@
+{
+    "projectName": "APR PRAVEENS LUXURIA",
+    "promoterName": "APR PROJECTS",
+    "tsrera": "P01100000280",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "PATANCHERU",
+        "district": "Sangareddy District",
+        "Mandal": "Patancheru",
+        "colony": "ELLANKI COLLEGE ROAD",
+        "pincode": 502319
+    },
+    "locationHighlights": [
+        "Near to ORR hyderabad"
+    ],
+    "amenities": [
+        "Swimming Pool",
+        "Theater Home",
+        "Solar Lighting",
+        "Wi-Fi Connectivity"
+    ],
+    "description": "APR Praveens Luxuria in Patancheru Mandal, Hyderabad by APR Group is a residential project. The project offers Villa with perfect combination of contemporary architecture and features to provide comfortable living.",
+    "projectImageUrl": "https://newprojects.99acres.com/projects/apr_group/apr_praveens_luxuria/images/opig1gel_optOrig.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/8lnhYf9TJZ0",
+    "noOfFloors": 1,
+    "type":"residential",
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "3 BHK Villa",
+            "size": 1630,
+            "sizeType": "sft",
+            "sizes": [
+                1630,
+                2545
+            ],
+            "unitPrice": 5500,
+            "totalPrice": 9000000,
+            "imageUrls": [
+                "https://newprojects.99acres.com/projects/apr_group/apr_praveens_luxuria/images/4seouimo_optOrig.jpg",
+                "https://newprojects.99acres.com/projects/apr_group/apr_praveens_luxuria/images/yu4ns88w_optOrig.jpg",
+                "https://newprojects.99acres.com/projects/apr_group/apr_praveens_luxuria/maps/sz63bynx.jpg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/yptjPtOzSLo",
+                "https://www.youtube.com/embed/_0jC7bwAIrE"
+            ],
+            "otherDetails": {
+                "possessionDate": "JAN-2020"
+            }
+        }
+    ]
+}

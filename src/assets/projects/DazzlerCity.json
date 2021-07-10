@@ -1,0 +1,72 @@
+{
+    "projectName": "DazzlerCity",
+    "promoterName": "Central City S V Infra",
+    "tsrera": "LRS/SHZ/PLG/HMDA/2008",
+    "type": "open land",
+    "locationHighlights": [
+        "Near to Muknoor",
+        "Near to vijayawada highway",
+        "Walkable distance to Rachakonda",
+        "Near to Sarala Maisamma Temple",
+        "Near ORR",
+        "Near to TCS and Cognizant Technologies"
+    ],
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Mukunoor",
+        "district": "Ranga Reddy",
+        "Mandal": "Ibrahimpatnam",
+        "colony": "Mukunoor",
+        "pincode": 502286
+    },
+    "amenities": [
+        "Internal Roads & Footpaths",
+        "Water Supply",
+        "Sewerage (Chamber, Lines, Septic Tank , STP)",
+        "Storm Water Drains",
+        "Green Strip/TOT LOT/Park",
+        "Street Lighting",
+        "Community Buildings",
+        "Treatment And Disposal Of Sewage And Sullage Water ",
+        "Energy management and power backup",
+        "Fire Protection And Fire Safety Requirements",
+        "Electrical Meter Room, Sub-Station, Receiving Station",
+        "Aggregate area of recreational Open Space"
+    ],
+    "description": "Wonderful investment oppurtunity",
+    "projectImageUrl": "../../assets/dazzlerCity.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/1-cSuXs0Nz0",
+    "noOfFloors": 0,
+    "properties": [
+        {
+            "type": "open land",
+            "unit": "open space",
+            "size": 1350,
+            "sizeType": "sft",
+            "sizeRange": [
+                1350
+            ],
+            "sizes": [
+                792,
+                837,
+                1350,
+                2223,
+                2250
+            ],
+            "unitPrice": 833,
+            "totalPrice": 1100000,
+            "imageUrls": [
+                "https://play-lh.googleusercontent.com/llFuxwe8SJOumhvA1xFsJOw_2fQ3nvtlhR66QQQMlPhSB-vLwZ9ek6huBkBY9gRn_A=w1536-h754-rw",
+                "https://play-lh.googleusercontent.com/r4TJC-tTbAzXLr5jd0g7mUTzT7KazS7AERkIlQadLR_Px2OjbdRjEU-3QHfzYpNioiYq=w1536-h754-rw"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/klQ0A8Mt3sI",
+                "https://www.youtube.com/embed/1-cSuXs0Nz0"
+            ],
+            "otherDetails": {
+                "possessionDate": "JAN-2021"
+            }
+        }
+    ]
+}

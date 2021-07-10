@@ -1,0 +1,55 @@
+{
+    "projectName": "JUBILEE TEMPLE TREE",
+    "promoterName": "M/S. JUBILEE INFRATECH PVT LTD",
+    "tsrera": " P02400000106",
+    "type": "residential",
+    "locationHighlights": [
+        "Near to South India Shopping Mall-Kothapet",
+        "4.4 kms from Musarambagh Metro Station"
+    ],
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "L.B.NAGAR",
+        "district": "RANGA REDDY",
+        "Mandal": "Saroornagar",
+        "colony": "GREEN HILLS COLONY",
+        "pincode": 500035
+    },
+    "description": "47 luxury apartments in the Green hills colony are worth the lifetime savings that a family would invest into their homes. Within the vicinity of Ashtalakshmi Temple, localities believe that owning a house in this radius is a blessed boon. Along with spirituality, this place is also socially beneficial for a family. Located in the midst of shopping malls, commercial hubs and metro station, life becomes easier and accessible to anywhere anytime.",
+    "projectImageUrl": "https://www.jubileeinfra.com/wp-content/uploads/2018/07/treeinnerpage.png",
+    "projectVideoUrl": "https://www.youtube.com/embed/1gvROlSrcns",
+    "noOfFloors": 6,
+    "properties": [
+        {
+            "type": "residential villas",
+            "unit": "3 BHK",
+            "size": 1645,
+            "sizeType": "sft",
+            "sizes": [
+                1645,
+                1730,
+                1740,
+                1755,
+                1945,
+                2000,
+                2090,
+                2100
+            ],
+            "unitPrice": 7800,
+            "totalPrice": 12831000,
+            "imageUrls": [
+                "https://is1-2.housingcdn.com/012c1500/6203909f59db3055d41504d0d5f1b9c2/v0/fs/jubilee_temple_tree-lb_nagar-hyderabad-jubilee_infra.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/863e1a4281841d73a0d2679a0af5d335/v0/fs/jubilee_temple_tree-lb_nagar-hyderabad-jubilee_infra.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/259314d51483318c6aef1ae4ebb34987/v0/fs/jubilee_temple_tree-lb_nagar-hyderabad-jubilee_infra.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/a444f7e4198dc4a7e4b360fed5ba9273/v0/fs/jubilee_temple_tree-lb_nagar-hyderabad-jubilee_infra.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/1gvROlSrcns"
+            ],
+            "otherDetails": {
+                "possessionDate": "DEC-2023"
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "projectName": "MYSCAPEISLE OF SKY",
+    "promoterName": "MYSCAPE PROPERTIES PRIVATE LIMITED",
+    "tsrera": "P02400000003",
+    "type": "residential",
+    "amenities": [
+        "Internal Roads & Footpaths",
+        "Water Supply",
+        "Sewerage (Chamber, Lines, Septic Tank , STP)",
+        "Storm Water Drains",
+        "Green Strip/TOT LOT/Park",
+        "Street Lighting",
+        "Community Buildings",
+        "Treatment And Disposal Of Sewage And Sullage Water ",
+        "Solid Waste Management And Disposal",
+        "Water Conservation, Rain water Harvesting",
+        "Energy management",
+        "Fire Protection And Fire Safety Requirements",
+        "Electrical Meter Room, Sub-Station, Receiving Station",
+        "Aggregate area of recreational Open Space"
+    ],
+    "locationHighlights": [
+        "Financial District"
+    ],
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Q City Rd, Financial District",
+        "district": "Ranga Reddy",
+        "Mandal": "FINANCILA DISTRICT, ",
+        "colony": "MYSCAPE COURTYARD ROAD",
+        "pincode": 500089
+    },
+    "description": "Myscape Properties is ready with its latest real estate development project Isle Of Sky, in Nanakramguda in Hyderabad. This complex is uniquely designed and is a perfect combination of luxury and comfort. The total area utilized in this project is 1.23 acres of land. The developer is offering 1BHK and 4BHK apartments ranging between 3859 sq. ft. to 7718 sq. ft. The project is currently under construction process.",
+    "projectImageUrl": "https://is1-3.housingcdn.com/4f2250e8/6b49bd64b261a699f1f80950b17b7367/v0/large/myscape_isle_of_sky-nanakram_guda-hyderabad-myscape_properties_private_limited.jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/sQyreyOyRGA&t",
+    "noOfFloors": 25,
+    "properties": [
+        {
+            "type": "residential apartment",
+            "unit": "4 BHK",
+            "size": 7700,
+            "sizeType": "sft",
+            "sizeRange": [
+                7700
+            ],
+            "sizes": [
+                7700
+            ],
+            "unitPrice": 6493,
+            "totalPrice": 50000000,
+            "imageUrls": [
+                "https://is1-3.housingcdn.com/012c1500/a747b400b21e315eecb71d9ee1c540f0/v0/fs/myscape_isle_of_sky-nanakram_guda-hyderabad-myscape_properties_private_limited.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/4398b08517069977e76f36bf7101ef6e/v0/fs/myscape_isle_of_sky-nanakram_guda-hyderabad-myscape_properties_private_limited.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/9bc5298ea6bdf386d36b163eb58d74c8/v0/fs/myscape_isle_of_sky-nanakram_guda-hyderabad-myscape_properties_private_limited.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/e5de7a873104a3da9a37b8359870def2/v0/fs/myscape_isle_of_sky-nanakram_guda-hyderabad-myscape_properties_private_limited.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/sQyreyOyRGA"
+            ],
+            "otherDetails": {
+                "possessionDate": "JUN-2021"
+            }
+        }
+    ]
+}

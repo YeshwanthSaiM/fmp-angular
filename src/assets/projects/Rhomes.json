@@ -1,0 +1,63 @@
+{
+    "projectName": "Rhomes",
+    "promoterName": "R J Group",
+    "tsrera": "P02400001798",
+    "type": "open land",
+    "locationHighlights": [
+        "Near to Karamungi"
+    ],
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Nayarankhed",
+        "district": "Sanga Reddy",
+        "Mandal": "Nayarankhed",
+        "colony": "Nayarankhed",
+        "pincode": 502286
+    },
+    "amenities": [
+        "Internal Roads & Footpaths",
+        "Water Supply",
+        "Sewerage (Chamber, Lines, Septic Tank , STP)",
+        "Storm Water Drains",
+        "Green Strip/TOT LOT/Park",
+        "Street Lighting",
+        "Community Buildings",
+        "Treatment And Disposal Of Sewage And Sullage Water ",
+        "Energy management and power backup",
+        "Fire Protection And Fire Safety Requirements",
+        "Electrical Meter Room, Sub-Station, Receiving Station",
+        "Aggregate area of recreational Open Space"
+    ],
+    "description": "Wonderful investment oppurtunity",
+    "projectImageUrl": "https://rei.wlimg.com/proj_images/project32651/proj_img-32651_1.jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/Cu2BrSUexYg",
+    "noOfFloors": 0,
+    "properties": [
+        {
+            "type": "open land",
+            "unit": "open space",
+            "size": 5454,
+            "sizeType": "sft",
+            "sizeRange": [
+                5454
+            ],
+            "sizes": [
+                5454
+            ],
+            "unitPrice": 50,
+            "totalPrice": 275000,
+            "imageUrls": [
+                "https://rei.wlimg.com/proj_images/project32651/proj_img-32651_5.jpg",
+                "https://rei.wlimg.com/proj_images/project32651/proj_img-32651_4.jpg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/Cu2BrSUexYg",
+                "https://www.youtube.com/embed/yVe3d_APHA4"
+            ],
+            "otherDetails": {
+                "possessionDate": "JAN-2021"
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "projectName": "ASHOKA TOWNSHIP",
+    "promoterName": "NAVADURGA BUILDERS AND DEVELOPERS",
+    "tsrera": "P03100000051",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "GOPANPALLE",
+        "district": "Nizamabad",
+        "Mandal": "NIZAMABAD RURAL",
+        "colony": "GOPANPALLE",
+        "pincode": 503001
+    },
+    "locationHighlights": [
+        "Very near to Nizambad tow"
+    ],
+    "amenities": [
+        "24Hrs Water Supply",
+        "CCTV Cameras",
+        "Car parking",
+        "Lift"
+    ],
+    "description": "Ashoka Township - an exclusive gated, secure, impeccably planned Residential build out in Hyderabad where all the residents necessities are within easy walking distance. It comprises of 3 of premium Apartments with the finest textures and finishes. Splendid outdoor and indoor spaces, lush green gardens, sports facilities and super-marts all a short walk away complete the best living experience at Ashoka Township. These marvelous Apartments are situated at Nallagandla. It is spread over an area of 2.23 Acres with 130 number of units.",
+    "projectImageUrl": "https://propertyadviser.in/property-images/s1/ashoka-township-3446-s1.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/-FGzbjG_PivU",
+    "noOfFloors": 30,
+    "type":"residential",
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "3 BHK",
+            "size": 1304,
+            "sizeType": "sft",
+            "sizes": [
+                1304
+            ],
+            "unitPrice": 4500,
+            "totalPrice": 6500000,
+            "imageUrls": [
+                "https://propertyadviser.in/property-images/s1/ashoka-township-elevation-view-2-pe1-3446-s1.jpg",
+                "https://propertyadviser.in/property-images/s1/ashoka-township-3446-s1.jpg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/-FGzbjG_PivU"
+            ],
+            "otherDetails": {
+                "possessionDate": "DEC-2020"
+            }
+        }
+    ]
+}

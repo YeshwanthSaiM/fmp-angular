@@ -1,7 +1,7 @@
 import { Component, OnInit, Input, Output, EventEmitter, ViewEncapsulation } from '@angular/core';
 import { MatSnackBar } from '@angular/material/snack-bar';
 
-import { ActivatedRoute, RouterModule } from '@angular/router';
+import { ActivatedRoute, Router, RouterModule } from '@angular/router';
 
 declare var $: any;
 
@@ -16,11 +16,16 @@ export class DetailsComponent implements OnInit {
   @Input('starCount') private starCount: number = 5;
   @Input('color') private color: string = 'accent';
   @Output() private ratingUpdated = new EventEmitter();
-  constructor(private snackBar: MatSnackBar, private route: ActivatedRoute) { }
+
+  constructor(
+    private snackBar: MatSnackBar,
+    private router: Router
+  ) { }
+
   view = false
   snackBarDuration: number = 2000;
   ratingArr: any
-  project :any
+  project: any
   changeView() {
     this.view = !this.view
     this.mapInit()
@@ -95,6 +100,7 @@ export class DetailsComponent implements OnInit {
     }
     console.log(this.project.properties)
   }
+
   onClick(rating: number) {
     console.log(rating)
     this.snackBar.open('You rated ' + rating + ' / ' + this.starCount, '', {
@@ -283,6 +289,11 @@ export class DetailsComponent implements OnInit {
        `)
 
     })
+  }
+
+  openGallery(projectName: any) {
+    projectName = projectName.split(' ').join('-')
+    this.router.navigate([`/gallery/${projectName}`]);
   }
 
 }

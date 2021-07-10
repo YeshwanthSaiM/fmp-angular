@@ -1,0 +1,51 @@
+{
+    "projectName": "GOWRA FOUNTAINHEAD",
+    "promoterName": "GOWRA VENTURES PVT. LTD",
+    "tsrera": "P02400000019",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Madhapur",
+        "district": "Ranga Reddy District",
+        "Mandal": "Serilingampally",
+        "colony": "Madhapur",
+        "pincode": 500081
+    },
+    "locationHighlights": [
+        "Near to IT hub in Madhapur"
+    ],
+    "amenities": [
+        "Water Supply",
+        "Street Lighting",
+        "Fire safety"
+    ],
+    "description": "This is a commercial project located in Madhapur, Hyderabad. It is developed by Gowra Ventures Private Limited.",
+    "projectImageUrl": "https://newprojects.99acres.com/projects/gowra_ventures/gowra_fountainhead/images/cl6e23bs_optOrig.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/-iUumsAEQp4",
+    "noOfFloors": 13,
+    "type":"commercial",
+    "properties": [
+        {
+            "type": "commercial",
+            "unit": "office spaces",
+            "size": 100,
+            "sizeType": "sft",
+            "sizes": [
+                100,
+                400
+            ],
+            "unitPrice": 5949,
+            "totalPrice": 5000000,
+            "imageUrls": [
+                "https://newprojects.99acres.com/projects/gowra_ventures/gowra_fountainhead/images/jeht32p9_optOrig.jpg",
+                "https://newprojects.99acres.com/projects/gowra_ventures/gowra_fountainhead/images/6qesetew_optOrig.jpg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/-iUumsAEQp4"
+            ],
+            "otherDetails": {
+                "possessionDate": "JAN-2021"
+            }
+        }
+    ]
+}

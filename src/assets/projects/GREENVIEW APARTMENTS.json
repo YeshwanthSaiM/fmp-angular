@@ -1,0 +1,50 @@
+{
+    "projectName": "GREENVIEW APARTMENTS",
+    "promoterName": "RAMKY INTEGRATED TOWNSHIP LIMITED",
+    "tsrera": "P02400000009",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "RAMKY DISCOVERY CITY",
+        "district": "Ranga Reddy District",
+        "Mandal": "Maheshwaram",
+        "colony": "SARASWATHIGUDA RD",
+        "pincode": 501359
+    },
+    "locationHighlights": [
+        "Near to the Hyderabad IT hub"
+    ],
+    "amenities": [],
+    "description": "Wonderful flat",
+    "projectImageUrl": "https://newprojects.99acres.com/projects/ramky_group/ramky_greenview_apartments/images/nyrhmz92_optOrig.jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/Pe2v6-R4kwM",
+    "noOfFloors": 5,
+    "type":"residential",
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "2, 3 BHK",
+            "size": 980,
+            "sizeType": "sft",
+            "sizes": [
+                980,
+                2060
+            ],
+            "unitPrice": 4300,
+            "totalPrice": 4200000,
+            "imageUrls": [
+                "https://newprojects.99acres.com/projects/ramky_group/ramky_greenview_apartments/images/m0ohbl1k_optOrig.jpeg",
+                "https://newprojects.99acres.com/projects/ramky_group/ramky_greenview_apartments/images/c05gd7bb_optOrig.jpeg",
+                "https://newprojects.99acres.com/projects/ramky_group/ramky_greenview_apartments/construction/lionweo3.jpeg",
+                "https://newprojects.99acres.com/projects/ramky_group/ramky_greenview_apartments/construction/821thmic.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/Pe2v6-R4kwM",
+                "https://www.youtube.com/embed/UMXeTyk5AVY"
+            ],
+            "otherDetails": {
+                "possessionDate": "MAR-2022"
+            }
+        }
+    ]
+}

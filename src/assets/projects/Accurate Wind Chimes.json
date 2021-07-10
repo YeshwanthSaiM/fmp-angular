@@ -1,0 +1,69 @@
+{
+    "projectName": "Accurate Wind Chimes",
+    "promoterName": "Accurate Green Meadows",
+    "tsrera": "P02400000042",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Narsingi",
+        "district": "Ranga Reddy",
+        "Mandal": "Gandipet",
+        "colony": "Mehdipatnam Main Road",
+        "pincode": 500089
+    },
+    "locationHighlights": [
+        "10 minutes to financial district",
+        "10 minutes to DPS / Oakridge School",
+        "15 minutes to Hitec City",
+        "30 minutes to Jubilee Hills",
+        "30 minutes to Banjara Hills",
+        "30 minutes to Rajiv Gandhi International Airport"
+    ],
+    "amenities": [
+        "Internal Roads  Footpaths",
+        "Water Supply",
+        "Sewerage",
+        "Storm Water Drains",
+        "Green Strip park",
+        "Street Lighting",
+        "Community Buildings",
+        "Treatment And Disposal Of Sewage And Sullage Water",
+        "Solid Waste Management And Disposal",
+        "Water Conservation Rain water Harvesting",
+        "Energy management",
+        "Fire Protection And Fire Safety Requirements",
+        "Electrical Meter Room SubStation Receiving Station",
+        "Aggregate area of recreational Open Space"
+    ],
+    "description": "Accurate Wind Chimes is India's 1st child-focused 2 BHK, 2.5 BHK and 3BHK premium apartments for community living. It is located at West Hyderabad’s fast growing location in Gachibowli –Narsingi. This strategic location advantage makes it minutes’ drive from IT Hub, education, recreation and many lifestyle destinations.",
+    "projectImageUrl": "https://accuratewindchimes.in/LuxuryHomes/images/Gallery-9.png",
+    "projectVideoUrl": "https://www.youtube.com/embed/M8SC0x90RIg",
+    "noOfFloors": 12,
+    "type":"residential",
+    "properties": [
+        {
+            "type": "gated community flats ",
+            "unit": "2 BHK, 2.5BHK, 3 BHK",
+            "size": 1090,
+            "sizeType": "sft",
+            "sizes": [
+                1090,
+                1725
+            ],
+            "unitPrice": 6190,
+            "totalPrice": 6747100,
+            "imageUrls": [
+                "https://accuratewindchimes.in/LuxuryHomes/images/Gallery-9.png",
+                "https://accuratewindchimes.in/LuxuryHomes/images/Gallery-6.png",
+                "https://accuratewindchimes.in/LuxuryHomes/images/Gallery-5.png"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/M8SC0x90RIg",
+                "https://www.youtube.com/embed/DxuD1NGXX-4"
+            ],
+            "otherDetails": {
+                "possessionDate": "DEC-2022"
+            }
+        }
+    ]
+}

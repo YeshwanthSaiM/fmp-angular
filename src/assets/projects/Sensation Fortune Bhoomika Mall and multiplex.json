@@ -1,0 +1,64 @@
+{
+    "projectName": "Sensation Fortune Bhoomika Mall and multiplex",
+    "promoterName": "SENSATION INFRACON PRIVATE LIMITED",
+    "tsrera": "P02400001798",
+    "type": "commercial",
+    "locationHighlights": [
+        "Near to Narsingi Sub registrar"
+    ],
+    "amenities": [
+        "Internal Roads & Footpaths",
+        "Water Supply",
+        "Sewerage (Chamber, Lines, Septic Tank , STP)",
+        "Storm Water Drains",
+        "Green Strip/TOT LOT/Park",
+        "Street Lighting",
+        "Community Buildings",
+        "Treatment And Disposal Of Sewage And Sullage Water ",
+        "Energy management and power backup",
+        "Fire Protection And Fire Safety Requirements",
+        "Electrical Meter Room, Sub-Station, Receiving Station",
+        "Aggregate area of recreational Open Space"
+    ],
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Gandipet",
+        "district": "Ranga Reddy",
+        "Mandal": "Gandipet",
+        "colony": "Narsingi",
+        "pincode": 500086
+    },
+    "description": "Sensation Fortune Bhoomika Mall & Multiplex by Fortune Group Builders And Developers is one of the popular residential project in Narsingi, Hyderabad. It has lavish yet thoughtfully designed 1 Towers.",
+    "projectImageUrl": "http://sensationbhoomikamall.com/wp-content/uploads/2020/05/19a35edd-5110-4637-baaa-da57a21fd375.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/F5l3-g4tenA",
+    "noOfFloors": 6,
+    "properties": [
+        {
+            "type": "commercial",
+            "unit": "commercial space",
+            "size": 600,
+            "sizeType": "sft",
+            "sizeRange": [
+                400,
+                600
+            ],
+            "sizes": [
+                400,
+                600
+            ],
+            "unitPrice": 1500,
+            "totalPrice": 6000000,
+            "imageUrls": [
+                "http://sensationbhoomikamall.com/wp-content/uploads/2020/05/19a35edd-5110-4637-baaa-da57a21fd375.jpg",
+                "http://sensationbhoomikamall.com/wp-content/uploads/2021/05/GalleriaShops_20190520151714-1024x707.jpg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/5vW2A0U1vZY"
+            ],
+            "otherDetails": {
+                "possessionDate": "MAR-2022"
+            }
+        }
+    ]
+}

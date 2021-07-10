@@ -1,0 +1,54 @@
+{
+    "projectName": "Ashoo Towers",
+    "promoterName": "RAMI REDDY CONSTRUCTIONS",
+    "tsrera": "P02400000017",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Attapur",
+        "district": "Ranga Reddy District",
+        "Mandal": "Rajendranagar",
+        "colony": "Somi Reddy Nagar",
+        "pincode": 500048
+    },
+    "locationHighlights": [
+        "Just near Asian Cinemas (M Cube Mall)",
+        "Near Swagath Grand Hotel"
+    ],
+    "amenities": [
+        "Closed Car Parking",
+        "Water Supply",
+        "Storm Water Drains"
+    ],
+    "description": "Finding the perfect apartment in Hyderabad will no more be difficult, now that Ashoo Towers is here. One of the finest residential developments in this city of the Nawabs, it will offer you with all the regal comforts that you desire. And all of it at a very competitive price point that is sure to lure many potential investors like you.",
+    "projectImageUrl": "https://is1-2.housingcdn.com/4f2250e8/f146d62b2812ea6af9ce150e689d2723/v0/fs/rami_reddy_ashoo_towers-attapur-hyderabad-rami_reddy_constructions.jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/L25M7Nj0lT4",
+    "noOfFloors": 30,
+    "type":"residential",
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "2, 3 BHK",
+            "size": 1104,
+            "sizeType": "sft",
+            "sizes": [
+                1104,
+                1956
+            ],
+            "unitPrice": 5000,
+            "totalPrice": 5500000,
+            "imageUrls": [
+                "https://is1-3.housingcdn.com/012c1500/f23513c4b1efb618caa9044b94534c72/v0/fs/rami_reddy_ashoo_towers-attapur-hyderabad-rami_reddy_constructions.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/60263b56f939a1058036c7f5052b3065/v0/fs/rami_reddy_ashoo_towers-attapur-hyderabad-rami_reddy_constructions.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/0dfdcc4ed091b24bb3f429150f1c04fd/v0/fs/rami_reddy_ashoo_towers-attapur-hyderabad-rami_reddy_constructions.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/6c72570d6c70fef759d2578ba5182959/v0/fs/rami_reddy_ashoo_towers-attapur-hyderabad-rami_reddy_constructions.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/L25M7Nj0lT4"
+            ],
+            "otherDetails": {
+                "possessionDate": "MAR-2020"
+            }
+        }
+    ]
+}

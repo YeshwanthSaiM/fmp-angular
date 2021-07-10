@@ -1,0 +1,119 @@
+{
+    "projectName": "MS VESSELLA MEADOWS",
+    "promoterName": "M/S.VESSELLA MEADOWS",
+    "tsrera": "P02500000031",
+    "type": "residential",
+    "amenities": [
+        "Internal Roads & Footpaths",
+        "Water Supply",
+        "Sewerage (Chamber, Lines, Septic Tank , STP)",
+        "Storm Water Drains",
+        "Green Strip/TOT LOT/Park",
+        "Street Lighting",
+        "Community Buildings",
+        "Treatment And Disposal Of Sewage And Sullage Water ",
+        "Solid Waste Management And Disposal",
+        "Water Conservation, Rain water Harvesting",
+        "Energy management",
+        "Fire Protection And Fire Safety Requirements",
+        "Electrical Meter Room, Sub-Station, Receiving Station",
+        "Aggregate area of recreational Open Space"
+    ],
+    "locationHighlights": [
+        "NEXT DOOR TO NARSINGI JUNCTION",
+        "10MIS DRIVE TO HYDERABAD GOLF ASSOCIATION",
+        "20MINS TO DRIVE FILMNAGAR"
+    ],
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "IBRAHIMBAGH",
+        "district": "Hyderabad",
+        "colony": "IBRAHIMBAGH",
+        "pincode": 500031
+    },
+    "description": "Nested in nature’s lap, the expansive project welcomes you to picturesque landscapes, glorious architecture and a grand villa that complement your lifestyle quotient. Every Villa boasts of a unique style statement. The perfect balance of sophistication and seamless luxury is achieved through polished interior designing.",
+    "projectImageUrl": "https://is1-3.housingcdn.com/4f2250e8/6ec86b0c4555a4f83e0ea77c552db2a0/v0/large/vessella_meadows-narsingi-hyderabad-vessella_group.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/J820jEXnsTg",
+    "noOfFloors": 0,
+    "properties": [
+        {
+            "type": "residential VILLAS",
+            "unit": "3 BHK Vilas",
+            "size": 2900,
+            "sizeType": "sft",
+            "sizes": [
+                2900,
+                2908,
+                3560,
+                3647,
+                4444,
+                4464
+            ],
+            "unitPrice": 15000,
+            "totalPrice": 43500000,
+            "imageUrls": [
+                "https://is1-3.housingcdn.com/4f2250e8/6ec86b0c4555a4f83e0ea77c552db2a0/v0/large/vessella_meadows-narsingi-hyderabad-vessella_group.jpg",
+                "https://is1-3.housingcdn.com/012c1500/03fb00bf0f31e0193c95781cb6a4399f/v0/fs.jpg",
+                "https://is1-2.housingcdn.com/012c1500/77767b2fdecb6e2387de44f6e6025e85/v0/fs.jpg",
+                "https://is1-3.housingcdn.com/012c1500/6d605697b3dcf8232e1d4b72dbcee8ba/v0/fs.jpg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/0C1yNP-inF8",
+                "https://www.youtube.com/embed/VSZb7fz9lVg"
+            ],
+            "otherDetails": {
+                "possessionDate": "JAN-2021"
+            }
+        },
+        {
+            "type": "residential villas",
+            "unit": "4 BHK",
+            "size": 3560,
+            "sizeType": "sft",
+            "sizeRange": [
+                3560,
+                4464
+            ],
+            "sizes": [],
+            "unitPrice": 15000,
+            "totalPrice": 53400000,
+            "estimatedEmi": 216000,
+            "noOfFloors": 1,
+            "amenities": [
+                "Club House",
+                "Intercom 24 X 7 Security",
+                "Car Parking",
+                "CCTV",
+                "Green Strip",
+                "TOT LOT",
+                "Park Entry",
+                "Exit Ramps For Basement",
+                "Gas Bank Party",
+                "Lawn With Mound",
+                "Food Court",
+                "Medical Centre",
+                "Creche/Day Care",
+                "Grocery Shop",
+                "Lawn Tennis Court",
+                "Paved Compound Table Tennis",
+                "Shuttle Court",
+                "Senior Citizen Park Convenience"
+            ],
+            "images": [
+                "vesella meadows"
+            ],
+            "videos": [
+                "https://youtu.be/0C1yNP-inF8"
+            ],
+            "otherDetails": {
+                "possessionDate": "2021",
+                "approvals": [
+                    "HMDA",
+                    "Rera"
+                ]
+            },
+            "description": "Vessella Meadows in Narsingi, Hyderabad by Vessella Group is a residential project. The project offers Villa with perfect combination of contemporary architecture and features to provide comfortable living"
+        }
+    ]
+}

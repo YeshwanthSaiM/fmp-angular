@@ -1,0 +1,52 @@
+{
+    "projectName": "PRASIDDH NIVAS",
+    "promoterName": "TEJA HOMES PVT LTD",
+    "tsrera": "P02400000005",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "KONDAPUR",
+        "district": "Ranga Reddy District",
+        "Mandal": "Serilingampally",
+        "colony": "MASIJD BANDA",
+        "pincode": 500032
+    },
+    "locationHighlights": [
+        "Near to Kondapur business Hub"
+    ],
+    "amenities": [
+        "Closed Car Parking",
+        "Water Supply",
+        "Fire safety"
+    ],
+    "description": "The project is part of the Kondapur, Hyderabad. This venture offers 2 BHK and 3 BHK Apartments. Teja Prasiddh Nivas consists of apartments of various sizes. The area of Units available in this project comprises 0.56 acres of land with 45 units. This project hosts all amenities that a contemporary property buyer would aspire to have such as Lift, Car Parking, Security and Fire Fighting System. Teja Prasiddh Nivas is linked to nearby localities by wide roads. Residents of the locality have easy access to community utilities like schools, colleges, hospitals, recreational areas and parks. The facilities within the complex are thoughtfully created.",
+    "projectImageUrl": "https://im.proptiger.com/1/1908205/6/prasiddh-nivas-elevation-104452158.jpeg?width=1336&height=768",
+    "projectVideoUrl": "https://www.youtube.com/embed/RdmTYnNN9eg",
+    "noOfFloors": 5,
+    "type":"residential",
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "2,3 BHK",
+            "size": 1215,
+            "sizeType": "sft",
+            "sizes": [
+                1215
+            ],
+            "unitPrice": 5500,
+            "totalPrice": 6900000,
+            "imageUrls": [
+                "https://im.proptiger.com/1/1908205/6/prasiddh-nivas-elevation-104452158.jpeg",
+                "https://im.proptiger.com/1/1908205/6/prasiddh-nivas-elevation-104452156.jpeg",
+                "https://im.proptiger.com/1/1908205/6/prasiddh-nivas-elevation-104452157.jpeg",
+                "https://im.proptiger.com/1/1908205/6/prasiddh-nivas-images-for-project-40143126.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/RdmTYnNN9eg"
+            ],
+            "otherDetails": {
+                "possessionDate": "JAN-2021"
+            }
+        }
+    ]
+}

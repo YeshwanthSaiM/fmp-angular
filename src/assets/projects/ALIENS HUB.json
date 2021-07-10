@@ -1,0 +1,76 @@
+{
+    "projectName": "ALIENS HUB",
+    "promoterName": "ALIENS SMART CITY PVT LTD",
+    "tsrera": " P02400002497",
+    "locationHighlights": [
+        "4kms lingampally MMTS",
+        "1.4KMS to wipro circle",
+        "0.7kms to delhi public school"
+    ],
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Tellapur",
+        "district": "RANGA REDDY",
+        "Mandal": "Thalakondapally",
+        "colony": "Tellapur",
+        "pincode": 509206
+    },
+    "amenities": [
+        "Mini Theatre",
+        "Swimming Pool",
+        "Golf Course",
+        "ATM",
+        "Barbecue",
+        "Restaurant",
+        "Sauna",
+        "Spa",
+        "Creche/Day care",
+        "sky garden",
+        "1km of walking corridor",
+        "27 feet height Lobby",
+        "Double-Height Car Parking",
+        "High speed Lifts",
+        "More than 2 Lacs sft Clubhouse & Amenities",
+        "Glass Walls",
+        "Personalized Corridors",
+        "Helipad- for safety",
+        "45 Acres Natural Lake",
+        "Planetarium on the 30th Floor",
+        "1.7km Jogging & Bicycle Track",
+        "34 Sky Gardens"
+    ],
+    "description": "Space Station Township is a luxury residential township based out of Hyderabad. Cassini, Epsilon, Alcantara, Hubble, Aurora, Orion, Venera, Vostac, Euclid, Salyut, Atrex, Soyuz and Atlantic are projects within the Space Station Township for which bookings are currently open. Deliveries have started for Cassini and deliveries will start within 1year for Epsilon.",
+    "projectImageUrl": "https://is1-2.housingcdn.com/4f2250e8/05b3fe0e13389db52c4e8d88e0fb21c6/v3/large/aliens_space_station-gachibowli-hyderabad-aliens_group.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/URNonpXr33c",
+    "noOfFloors": 12,
+    "type": "residential",
+    "properties": [
+        {
+            "type": "residential apartments",
+            "unit": "2, 3 BHK and Duplex",
+            "size": 1687,
+            "sizeType": "sft",
+            "sizes": [
+                1687,
+                1874,
+                2150,
+                2191
+            ],
+            "unitPrice": 5450,
+            "totalPrice": 12000000,
+            "imageUrls": [
+                "https://accuratewindchimes.in/LuxuryHomes/images/Gallery-9.png",
+                "https://accuratewindchimes.in/LuxuryHomes/images/Gallery-6.png",
+                "https://accuratewindchimes.in/LuxuryHomes/images/Gallery-5.png"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/M8SC0x90RIg",
+                "https://www.youtube.com/embed/DxuD1NGXX-4"
+            ],
+            "otherDetails": {
+                "possessionDate": "DEC-2022"
+            }
+        }
+    ]
+}

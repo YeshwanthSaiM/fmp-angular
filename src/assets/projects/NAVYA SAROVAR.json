@@ -1,0 +1,57 @@
+{
+    "projectName": "NAVYA SAROVAR",
+    "promoterName": "NAVYA DEVELOPERS",
+    "tsrera": "P01100000202",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "RAMESHWAR BANDA",
+        "district": "Sangareddy District",
+        "Mandal": "PATANCHERU",
+        "colony": "RAMESHWAR BANDA",
+        "pincode": 502319
+    },
+    "locationHighlights": [
+        "Close to Outer Ring Road",
+        "Oakdale International School",
+        "BHEL Township",
+        "Ellanki engineeing College",
+        "Volvo Bus Body Building Unit"
+    ],
+    "amenities": [
+        "Grand Entrance Arch",
+        "40 feet & 30 feet Black Top Roads",
+        "Under Ground Drainage"
+    ],
+    "description": "Sarovar is a residential development on the land estate with proposed villas in Patancheru in Hyderabad. It has been developed over a wide area. The project is located at a good place which would offer you a peaceful and prosperous settlement in a mixture of simpleness and lavishness at the same time.",
+    "projectImageUrl": "https://is1-2.housingcdn.com/4f2250e8/2998df4e9b625f6dd4e10ee1c9b7b73c/v0/large/navya_sarovar-patancheru-hyderabad-navya_developers.jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/_E74e-XJTDU",
+    "noOfFloors": 0,
+    "type":"open land",
+    "properties": [
+        {
+            "type": "open land",
+            "unit": "open land",
+            "size": 1962,
+            "sizeType": "sft",
+            "sizes": [
+                1962,
+                26348
+            ],
+            "unitPrice": 2780,
+            "totalPrice": 4000000,
+            "imageUrls": [
+                "https://is1-3.housingcdn.com/012c1500/830e1da5b96bd871e34f470264d0d64d/v0/fs/navya_sarovar_ii-indresham-hyderabad-navya_developers.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/c49f902e4234cb828838ad74ca5a449c/v0/fs/navya_sarovar_ii-indresham-hyderabad-navya_developers.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/21daf55495a1c3a46b6feae1df395972/v0/fs/navya_sarovar_ii-indresham-hyderabad-navya_developers.png",
+                "https://is1-3.housingcdn.com/012c1500/0656590fbe49e344e342d6c62285d3f3/v0/fs/navya_sarovar_ii-indresham-hyderabad-navya_developers.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/_E74e-XJTDU"
+            ],
+            "otherDetails": {
+                "possessionDate": "JUN-2022"
+            }
+        }
+    ]
+}

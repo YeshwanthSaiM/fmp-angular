@@ -1,0 +1,52 @@
+{
+    "projectName": "JADE PARK",
+    "promoterName": "DHANASHREE INFRA",
+    "tsrera": "P02500000826",
+    "location": {
+        "state": "Telangana",
+        "city": "TILAK NAGAR",
+        "locality": "TILAK NAGAR",
+        "district": "Hyderabad",
+        "Mandal": "Amberpet",
+        "colony": "SHIVAM ROAD",
+        "pincode": 500013
+    },
+    "locationHighlights": [
+        "1.25 km Hospital 2nd Life Nature Actupuntute clinic",
+        "1.23 km School Unison International School"
+    ],
+    "amenities": [
+        "Closed Car Parking",
+        "Electrical Meter Room",
+        "Sub-Station, Receiving Station",
+        "Fire Protection And Fire Safety Requirements",
+        "Sewerage (Chamber, Lines, Septic Tank STP)",
+        "Storm Water Drains",
+        "Water Conservation, Rain water Harvesting",
+        "Water Supply",
+        "CCTV",
+        "Children's play area",
+        "Power Backup"
+    ],
+    "description": "Wonderful flats",
+    "projectImageUrl": "https://is1-2.housingcdn.com/4f2250e8/e0f416cb13b5e87d0ca690f42a764e2d/v0/fs/dhanashree_jade_park-amberpet-hyderabad-dhanashree_infra.jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/-04J_XPL2G4",
+    "noOfFloors": 5,
+    "type":"residential",
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "3 BHK",
+            "size": 1850,
+            "sizeType": "sft",
+            "sizes": [1850],
+            "unitPrice": 6500,
+            "totalPrice": 12025000,
+            "imageUrls": ["https://is1-2.housingcdn.com/4f2250e8/e0f416cb13b5e87d0ca690f42a764e2d/v0/fs/dhanashree_jade_park-amberpet-hyderabad-dhanashree_infra.jpeg"],
+            "videoUrls": ["https://www.youtube.com/embed/-04J_XPL2G4"],
+            "otherDetails": {
+                "possessionDate": "JUL-2024"
+            }
+        }
+    ]
+}

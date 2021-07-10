@@ -1,0 +1,64 @@
+{
+    "projectName": "NIHARIKA LANDMARK",
+    "promoterName": "Niharika Projects",
+    "tsrera": "P02400000259",
+    "type": "residential",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Nallagandla and Serinallagandla",
+        "district": "Ranga Reddy",
+        "Mandal": "Serilingampally",
+        "colony": "RC PURAM,HUDA Trade Center",
+        "pincode": 500019
+    },
+    "locationHighlights": [
+        "very close to HITEC City",
+        "Wipro",
+        "Delhi Publice School",
+        "Hyderabad Central University",
+        "CARE Super Speciality Hospital"
+    ],
+    "amenities": [
+        "Swimming Pool With Kids Pool",
+        "Pool Lounges With Pergola",
+        "Children Play Area",
+        "Seating Decks",
+        "Badminton Court",
+        "Jogging Track",
+        "Temple",
+        "Entrance Lounge with Reception",
+        "Multipurpose Hall",
+        "Indoor Games",
+        "Contemporary Gym",
+        "Maintenance Office"
+    ],
+    "description": "Wonderful flat",
+    "projectImageUrl": "https://www.niharikaprojects.com/images/projects/landmark/niharika-elevation1.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/Nag3DyAjkfA",
+    "noOfFloors": "2 basements + Stilt 12 floors all 3BHK flats",
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "3 BHK",
+            "size": 1595,
+            "sizeType": "sft",
+            "sizes": [
+                1595,
+                1995
+            ],
+            "unitPrice": 5900,
+            "totalPrice": 9410500,
+            "imageUrls": [
+                "https://www.niharikaprojects.com/images/projects/landmark/niharika-elevation2.jpg",
+                "https://www.niharikaprojects.com/images/projects/landmark/niharika-elevation6.jpg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/Nag3DyAjkfA"
+            ],
+            "otherDetails": {
+                "possessionDate": "feb-2024"
+            }
+        }
+    ]
+}

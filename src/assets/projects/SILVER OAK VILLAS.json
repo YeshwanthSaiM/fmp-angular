@@ -1,0 +1,67 @@
+{
+    "projectName": "SILVER OAK VILLAS",
+    "promoterName": "SILVER OAK VILLAS LLP",
+    "tsrera": " P02200000668",
+    "type": "residential",
+    "locationHighlights": [
+        "10 minutes drive from ECIL cross roads  5 kms",
+        "15 minutes drive from Neredmet cross roads 9 kms",
+        "20 minutes drive from Hubsiguda cross roads 11 kms",
+        "20 minutes drive from Tirumalgiri cross roads  12 kms"
+    ],
+    "amenities": [
+        "Internal Roads & Footpaths",
+        "Water SupplY",
+        "Sewerage (Chamber, Lines, Septic Tank , STP)",
+        "Storm Water Drains",
+        "Green Strip/TOT LOT/Park",
+        "Street Lighting",
+        "Community Buildings",
+        "Treatment And Disposal Of Sewage And Sullage Water",
+        "Solid Waste Management And Disposal",
+        "Water Conservation, Rain water Harvesting",
+        "Energy management",
+        "Fire Protection And Fire Safety Requirements",
+        "Electrical Meter Room, Sub-Station, Receiving Station",
+        "Aggregate area of recreational Open Space"
+    ],
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Cherlapally",
+        "district": "Medchal-Malkajgiri",
+        "Mandal": "Kapra",
+        "colony": "venkat reddy colony",
+        "pincode": 501301
+    },
+    "description": "Silver Oak Villas is a premium residential project launched by the prolific builders Modi Properties. The real estate builders are reputed and have a strong presence in the twin cities of Hyderabad and Secunderabad. They have completed 19 projects, and Silver Oak Villas is yet another masterpiece added to their kitty. Spread over an expanse area of 4.67 acres of land, this project will be complete and available for possession by May 2023. Offering spacious 2 BHK and 4 BHK apartments ranging from a built-up area of 1098 sq.ft. 2045 sq.ft, these fully-loaded heavenly abodes scream luxury. They have been planned with the aid of talented interior designers with luxe furnishings and long-lasting accessories and appliances.",
+    "projectImageUrl": "https://is1-3.housingcdn.com/4f2250e8/be861965a3812263a6bcbf000179c02e/v0/large/modi_silver_oak_villas-cherlapalli-hyderabad-modi_properties_%26_investments_pvt._ltd..jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/gE9twg0KCPo",
+    "noOfFloors": 1,
+    "properties": [
+        {
+            "type": "residential villas",
+            "unit": "2, 3, 4 BHK Villa",
+            "size": 1100,
+            "sizeType": "sft",
+            "sizes": [
+                1100,
+                2040
+            ],
+            "unitPrice": 4180,
+            "totalPrice": 4598000,
+            "imageUrls": [
+                "https://is1-2.housingcdn.com/012c1500/52fddc77f03f36413ab3e53d5db877d2/v0/fs/modi_silver_oak_villas-cherlapalli-hyderabad-modi_properties_%26_investments_pvt._ltd..jpeg",
+                "https://is1-2.housingcdn.com/012c1500/4e04b6393ee418e9a8ce2f4a55a1c583/v0/fs/modi_silver_oak_villas-cherlapalli-hyderabad-modi_properties_%26_investments_pvt._ltd..jpeg",
+                "https://modiproperties.com/images/projects/1581139040_SOV%20Elivation.jpg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/YK7Rfv6J4JM",
+                "https://www.youtube.com/embed/gE9twg0KCPo"
+            ],
+            "otherDetails": {
+                "possessionDate": "MAY-2023"
+            }
+        }
+    ]
+}

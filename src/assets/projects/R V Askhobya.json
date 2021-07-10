@@ -1,0 +1,62 @@
+{
+    "projectName": "R V Askhobya",
+    "tsrera": "P02400000016",
+    "type": "residential",
+    "locationHighlights": [
+        "20kms for SHANKARPALLY",
+        "directly linked to ORR",
+        "22kms to RGIA",
+        "Near Kondapur PS",
+        "Back side of beauty lake"
+    ],
+    "location": {
+        "state": "Telangana",
+        "city": "hyderabad",
+        "locality": "bandlaguda jagir",
+        "district": "Ranga reddy",
+        "Mandal": "gandipet",
+        "colony": "shridi saibaba colony",
+        "pincode": 500030
+    },
+    "description": "RV Akshobhya is a magnificent residential project located in (Bandlaguda jagir) one of the rapidly developing Area. RV AKSHOBHYA brings you all the happiness of the world as soon as you step in. The project is spread across the acres of land where you experience serenity and stillness in great form. RV AKSHOBHYA has good ventilation and well-spaced rooms, which are thoughtfully planned and designed to experience a blissful life. Here, you will discover an infinite feeling of optimism and peace. AKSHOBHYA ensures you and your family lead a healthy and comfortable lifestyle.This project presents spacious and skillfully designed homes. It is well-equipped with all the essential amenities to facilitate the needs of the residents. Every single thing of the flats are crafted with precision and perfection. Natura Homes is the perfect home for a lifetime of delighted moments with your family.",
+    "projectImageUrl": "https://is1-3.housingcdn.com/4f2250e8/5894c50bf0976aed2e7c1d30ba84fc9e/v0/large/rv_akshobhya-bandlaguda-hyderabad-r.v._developers.jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/0ybELU4n4d8",
+    "noOfFloors": 5,
+    "properties": [
+        {
+            "type": "residential apartment",
+            "unit": "2 BHK / 3 BHK",
+            "size": 1530,
+            "sizeType": "sft",
+            "sizeRange": [
+                920,
+                1530
+            ],
+            "sizes": [
+                921,
+                1099,
+                1100,
+                1125,
+                1397,
+                1414,
+                1420,
+                1492,
+                1521
+            ],
+            "unitPrice": 4600,
+            "totalPrice": 4236600,
+            "imageUrls": [
+                "https://is1-2.housingcdn.com/012c1500/7a3e1a538bf3a88801e8e69c9a864384/v0/fs/rv_akshobhya-bandlaguda-hyderabad-r.v._developers.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/2506cf1b73c27c2ff5a69cfc8610f60e/v0/fs/rv_akshobhya-bandlaguda-hyderabad-r.v._developers.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/99a7bf7b51b2ed6bed8e4d7f9fe17961/v0/fs/rv_akshobhya-bandlaguda-hyderabad-r.v._developers.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/644b178b8f61e7d6019d3042cac11057/v0/fs/rv_akshobhya-bandlaguda-hyderabad-r.v._developers.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/0ybELU4n4d8"
+            ],
+            "otherDetails": {
+                "possessionDate": "OCT-2021"
+            }
+        }
+    ]
+}

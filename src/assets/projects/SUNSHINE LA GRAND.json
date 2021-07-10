@@ -1,0 +1,58 @@
+{
+    "projectName": "SUNSHINE LA GRAND",
+    "promoterName": "SUNSHINE INFRA PVT LTD",
+    "tsrera": "P02400000125",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "NARSINGI",
+        "district": "Ranga Reddy District",
+        "Mandal": "NARSINGI",
+        "colony": "NARSINGI",
+        "pincode": 500075
+    },
+    "locationHighlights": [
+        "Near to ORR",
+        "Direct connectivity to Manikonda"
+    ],
+    "amenities": [
+        "Waiting Lounge",
+        "2 Level Car Parking",
+        "Party Lawn",
+        "Conference Hall",
+        "Senior Citizen Sitting Area",
+        "Swimming Pool"
+    ],
+    "description": "Wonderful flat",
+    "projectImageUrl": "https://is1-3.housingcdn.com/4f2250e8/3f55505fc8983f3d0020ebcb31402dcc/v0/large/sunshine_la_grand-narsingi-hyderabad-sunshine_infra_pvt_ltd.jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/VrVZ15r2j-w",
+    "noOfFloors": 6,
+    "type":"residential",
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "2 , 3 BHK",
+            "size": 1260,
+            "sizeType": "sft",
+            "sizes": [
+                1260,
+                1500,
+                1765,
+                1835
+            ],
+            "unitPrice": 5500,
+            "totalPrice": 7182000,
+            "imageUrls": [
+                "https://is1-3.housingcdn.com/4f2250e8/3f55505fc8983f3d0020ebcb31402dcc/v0/large/sunshine_la_grand-narsingi-hyderabad-sunshine_infra_pvt_ltd.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/f6fdc78d12650b04646e7c5424ae395c/v0/fs/sunshine_la_grand-narsingi-hyderabad-sunshine_infra_pvt_ltd.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/f592ec9a3adae5c7aa6571d7154539d2/v0/fs/sunshine_la_grand-narsingi-hyderabad-sunshine_infra_pvt_ltd.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/fb13eebcd7da7c511e81b93a18bc37ad/v0/fs/sunshine_la_grand-narsingi-hyderabad-sunshine_infra_pvt_ltd.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/9ab47b0afa9bc6783c00f302342f4a8b/v0/fs/sunshine_la_grand-narsingi-hyderabad-sunshine_infra_pvt_ltd.jpeg"
+            ],
+            "videoUrls": ["https://www.youtube.com/embed/VrVZ15r2j-w"],
+            "otherDetails": {
+                "possessionDate": "JAN-2021"
+            }
+        }
+    ]
+}

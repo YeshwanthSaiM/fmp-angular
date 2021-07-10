@@ -1,0 +1,51 @@
+{
+    "projectName": "GALAXY TOWERS",
+    "promoterName": "SURYA CONSTRUCTIONS",
+    "tsrera": "P02200000061",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "POCHARAM",
+        "district": "Medchal-Malkajgiri",
+        "Mandal": "Ghatkesar",
+        "colony": "POCHARAM",
+        "pincode": 500088
+    },
+    "locationHighlights": [
+        "Near Srividhya nikethan School"
+    ],
+    "amenities": [
+        "Closed Car Parking",
+        "Street Lighting",
+        "Water Supply"
+    ],
+    "description": "Galaxy Towers is set in the splendid Pocharam, Hyderabad and magnificently blends with the environment making it luxurious living experience for residents. Ready for possession in Mar, 2022n, this is a project is a great investment in the entire vicinity. Stunning landscape, beautiful internal roads and first-class amentias, Galaxy Towers can make a regular day feel like a vacation. The project has been offered by Surya Constructions Habsiguda.",
+    "projectImageUrl": "https://is1-3.housingcdn.com/4f2250e8/840b516fc228048d58cd0bbba5100481/v0/large/surya_galaxy_towers-pocharam_telangana-hyderabad-surya_constructions.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/sQyreyOyRGA",
+    "noOfFloors": 6,
+    "type":"residential",
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "2, 3 BHK",
+            "size": 1211,
+            "sizeType": "sft",
+            "sizes": [1211,1513],
+            "unitPrice": 3800,
+            "totalPrice": 4600000,
+            "imageUrls": [
+                "https://is1-3.housingcdn.com/4f2250e8/840b516fc228048d58cd0bbba5100481/v0/fs/surya_galaxy_towers-pocharam_telangana-hyderabad-surya_constructions.jpg",
+                "https://is1-2.housingcdn.com/012c1500/2ccdb3a52079c17785eb93ee1cef85d3/v0/fs/surya_galaxy_towers-pocharam_telangana-hyderabad-surya_constructions.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/d3f1ef7c0706c885a5bd7bdf4469a08b/v0/fs/surya_galaxy_towers-pocharam_telangana-hyderabad-surya_constructions.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/308698a14b5bf19ed75c1d1e3b2cf58b/v0/fs/surya_galaxy_towers-pocharam_telangana-hyderabad-surya_constructions.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/aaa6678a3435ec1bc52a6378ede43ff9/v0/fs/surya_galaxy_towers-pocharam_telangana-hyderabad-surya_constructions.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/sQyreyOyRGA"
+            ],
+            "otherDetails": {
+                "possessionDate": "MAR-2022"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "projectName": "NAVYA THE GRAND",
+    "promoterName": "NAVYA DEVELOPERS",
+    "tsrera": "P01100000340",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "PATANCHERUVU ORRGC",
+        "district": "Sangareddy District",
+        "Mandal": "PATANCHERU",
+        "colony": "PATANCHERUVU ORRGC",
+        "pincode": 502319
+    },
+    "locationHighlights": [
+        "Near to Gachibowli"
+    ],
+    "amenities": [
+        "Children Play Area",
+        "Power Backup",
+        "Garden"
+    ],
+    "description": "Looking for budget-friendly residential plots located in Patanchzeru, Hyderabad? The Grand is your perfect destination if you are looking for residential plots for investment or to build your own home. Located at Patanchzeru, Hyderabad The Grand is a good project offered by Navya",
+    "projectImageUrl": "https://is1-3.housingcdn.com/4f2250e8/d8416cd03de8255c233ba8c43cee22b4/v0/large/navya_the_grand-rameshwaram_banda-hyderabad-navya_developers.jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/eAfWwbeJrvg",
+    "noOfFloors": 0,
+    "type":"open land",
+    "properties": [
+        {
+            "type": "open land",
+            "unit": "open land",
+            "size": 1551,
+            "sizeType": "sft",
+            "sizes": [
+                1551,
+                2500,
+                8099
+            ],
+            "unitPrice": 3890,
+            "totalPrice": 6000000,
+            "imageUrls": [
+                "https://is1-3.housingcdn.com/4f2250e8/d8416cd03de8255c233ba8c43cee22b4/v0/large/navya_the_grand-rameshwaram_banda-hyderabad-navya_developers.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/940afeda32bffbec88f7ca22dbddca84/v0/fs/navya_the_grand-rameshwaram_banda-hyderabad-navya_developers.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/924c6ef757119db6954f28cdcb9b3f8a/v0/fs/navya_the_grand-rameshwaram_banda-hyderabad-navya_developers.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/eAfWwbeJrvg"
+            ],
+            "otherDetails": {
+                "possessionDate": "JUN-2023"
+            }
+        }
+    ]
+}

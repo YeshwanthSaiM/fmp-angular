@@ -1,0 +1,69 @@
+{
+    "projectName": "Sunray Township",
+    "promoterName": "Pudami Developers",
+    "tsrera": "LRS/SHZ/PLG/HMDA/2008",
+    "type": "open land",
+    "locationHighlights": [
+        "Near to Sadhashivpet",
+        "Near to mumbai highway",
+        "Walkable distance to Woxen University",
+        "Adjacent to beautiful river lake"
+    ],
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Sadhashivpet",
+        "district": "Ranga Reddy",
+        "Mandal": "Munipali",
+        "colony": "Lingampally village",
+        "pincode": 502345
+    },
+    "amenities": [
+        "Internal Roads & Footpaths",
+        "Water Supply",
+        "Sewerage (Chamber, Lines, Septic Tank , STP)",
+        "Storm Water Drains",
+        "Green Strip/TOT LOT/Park",
+        "Street Lighting",
+        "Community Buildings",
+        "Treatment And Disposal Of Sewage And Sullage Water ",
+        "Energy management and power backup",
+        "Fire Protection And Fire Safety Requirements",
+        "Electrical Meter Room, Sub-Station, Receiving Station",
+        "Aggregate area of recreational Open Space"
+    ],
+    "description": "Wonderful investment oppurtunity",
+    "projectImageUrl": "https://pudamidevelopers.com/wp-content/uploads/2018/07/logo-pudami.png",
+    "projectVideoUrl": "https://www.youtube.com/embed/GrCFqEsGmJk",
+    "noOfFloors": 0,
+    "properties": [
+        {
+            "type": "open land",
+            "unit": "open space",
+            "size": 1350,
+            "sizeType": "sft",
+            "sizeRange": [
+                1350
+            ],
+            "sizes": [
+                792,
+                837,
+                1350,
+                2223,
+                2250
+            ],
+            "unitPrice": 555,
+            "totalPrice": 750000,
+            "imageUrls": [
+                "https://pudamidevelopers.com/wp-content/uploads/2019/05/sunr.png",
+                "https://pudamidevelopers.com/wp-content/uploads/2018/07/logo-pudami.png"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/GrCFqEsGmJk"
+            ],
+            "otherDetails": {
+                "possessionDate": "JUNE-2021"
+            }
+        }
+    ]
+}

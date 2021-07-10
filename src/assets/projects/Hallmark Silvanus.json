@@ -1,0 +1,55 @@
+{
+    "projectName": "Hallmark Silvanus",
+    "promoterName": "HALLMARK BUILDERS",
+    "tsrera": "P02400000253",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "NEKANMPUR",
+        "district": "Ranga Reddy District",
+        "Mandal": "Gandipet",
+        "colony": "ALAKAPOOR TOWNSHIP",
+        "pincode": 500089
+    },
+    "locationHighlights": [],
+    "amenities": [],
+    "description": "Hallmark Silvanus by Hallmark Builder situated in Manikonda, Hyderabad. The project is made for your comfort in a luxury living. Make life a good experience with nice equipped relaxation and entertainment facilities. The pleasure of living here would make your mind and soul feel",
+    "projectImageUrl": "https://is1-2.housingcdn.com/4f2250e8/961eaf498dbc2cedecf47d2bd6bac7e5/v2/large/hallmark_silvanus-manikonda-hyderabad-hallmark_builders.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/-gjNEDrolh8",
+    "noOfFloors": 5,
+    "type":"residential",
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "2, 2.5, 3 BHK",
+            "size": 1149,
+            "sizeType": "sft",
+            "sizes": [
+                1149,
+                1170,
+                1240,
+                1248,
+                1350,
+                2627
+            ],
+            "unitPrice": 5500,
+            "totalPrice": 6300000,
+            "imageUrls": [
+                "https://is1-2.housingcdn.com/012c1500/4a3aa27d70a1f6518d65536674cdd515/v2/fs/hallmark_silvanus-manikonda-hyderabad-hallmark_builders.jpg",
+                "https://is1-3.housingcdn.com/012c1500/7eb51be82dad62e4397fe0411caeb319/v2/fs/hallmark_silvanus-manikonda-hyderabad-hallmark_builders.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/a210d75924323ef8a209f9c19b939acf/v2/fs/hallmark_silvanus-manikonda-hyderabad-hallmark_builders.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/2968cd8109bfa45abf6ba94f23088500/v2/fs/hallmark_silvanus-manikonda-hyderabad-hallmark_builders.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/736c068e4f0560a1d078306c47c376a9/v2/fs/hallmark_silvanus-manikonda-hyderabad-hallmark_builders.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/6d574fd3f4040d3cf934d5f8c46bdec0/v2/fs/hallmark_silvanus-manikonda-hyderabad-hallmark_builders.jpeg",
+                "https://is1-2.housingcdn.com/91aba65c/0633ef4849a79fde2406c0e22bf07b0e/v0/fs.jpg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/-gjNEDrolh8",
+                "https://www.youtube.com/embed/L_DHL1dLZIY"
+            ],
+            "otherDetails": {
+                "possessionDate": "JUNE-2019"
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "projectName": "KAMALA CASTLE",
+    "promoterName": "SAI VARSHITH CONSTRUCTIONS",
+    "tsrera": "P02400000060",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "DEFENCE COLONY",
+        "district": "Ranga Reddy",
+        "Mandal": "Saroornagar",
+        "colony": "Karmanghat",
+        "pincode": 500079
+    },
+    "locationHighlights": [
+        "1.2 kms from BVK Multiplex",
+        "South india shopping mall kothapet"
+    ],
+    "amenities": [
+        "Children Play Area",
+        "Power Backup",
+        "Lift"
+    ],
+    "description": "Kamala Castle is a up to date lifestyle project offered by the well-known Sai Varshith Constructions. The project offers 2 and 3 BHK configurations which are skillfully designed and offer great spaces. The project is located in Saroor Nagar, Hyderabad which is one of the most",
+    "projectImageUrl": "https://is1-2.housingcdn.com/4f2250e8/3e7dbd40d80a7af5100f321d4d9ca20a/v0/large/sai_varshith_kamala_castle-karmanghat-hyderabad-sai_varshith_constructions.jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/BrK075tDkak",
+    "noOfFloors": 5,
+    "type":"residential",
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "2 , 3 BHK",
+            "size": 1175,
+            "sizeType": "sft",
+            "sizes": [
+                1175,
+                1700
+            ],
+            "unitPrice": 4500,
+            "totalPrice": 6500000,
+            "imageUrls": [
+                "https://is1-3.housingcdn.com/012c1500/0e8ab836a90050850ee2e0a96a1a0693/v0/fs/sai_varshith_kamala_castle-karmanghat-hyderabad-sai_varshith_constructions.jpeg",
+                "https://is1-2.housingcdn.com/4f2250e8/3e7dbd40d80a7af5100f321d4d9ca20a/v0/fs/sai_varshith_kamala_castle-karmanghat-hyderabad-sai_varshith_constructions.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/BrK075tDkak"
+            ],
+            "otherDetails": {
+                "possessionDate": "NOV-2023"
+            }
+        }
+    ]
+}

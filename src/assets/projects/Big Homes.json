@@ -1,0 +1,60 @@
+{
+    "projectName": "Big Homes",
+    "promoterName": "POOJA CRAFTED HOMES PRIVATE LIMITED",
+    "tsrera": "P02400000089",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Adjoining Sagar Hills Layout, Budvel",
+        "district": "Ranga Reddy District",
+        "Mandal": "Rajendranagar",
+        "colony": "Rajendranagar",
+        "pincode": 500030
+    },
+    "locationHighlights": [
+        "8kms to Falaknama Railway Station",
+        "10kms from Huppuguda Railway Station",
+        "100 mts ATMS, Parks ect",
+        "300 mts Apiculture Training Center"
+    ],
+    "amenities": [
+        "24Hrs Water Supply",
+        "CCTV Cameras",
+        "Club House",
+        "Compound",
+        "Gym",
+        "Landscaped Garden",
+        "Play Area",
+        "Rain Water Harvesting",
+        "24Hrs Backup Electricity"
+    ],
+    "description": "Pooja Crafted Homes Pvt Ltd, a trusted name in the real estate industry has been developing and growing in the domain ever since inception (2001). The group has focused its business area in cities like Hyderabad,Bangalore, Mangalore & Vijayawada. The company has an objective of transforming the lifestyle of their clients and they believe in providing the excellent quality construction in every case. Pooja Crafted Homes has a vast experience of constructing landmark properties and the company always updates their technological skill to offer the best service to their customers. Integrity is the characteristic feature of the company that has made its base stronger.",
+    "projectImageUrl": "https://www.rajapushpa.in/projects/residential/images/eterna/slider-1.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/3QB_ut1AIRE",
+    "noOfFloors": 1,
+    "type":"residential",
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "5 BHK Vila",
+            "size": 12000,
+            "sizeType": "sft",
+            "sizes": [19360,35919],
+            "unitPrice": 8330,
+            "totalPrice": 160000000,
+            "imageUrls": [
+                "https://teja12.kuikr.com/is/a/f/1280x800/gallery_images/original/cf5c7cf569059f9.gif",
+                "https://teja13.kuikr.com/is/a/f/800x600/gallery_images/original/cf5c7cf557d7fdf.gif",
+                "https://teja13.kuikr.com/is/a/f/1280x800/gallery_images/original/cf5c7cf56936ad3.gif",
+                "https://teja12.kuikr.com/is/a/f/800x600/public/plan-images/India/Hyderabad/PoojaCraftedBigHomes/cf5c7cf57480b24.gif"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/3QB_ut1AIRE",
+                "https://www.youtube.com/embed/NXkrHp0OCmg"
+            ],
+            "otherDetails": {
+                "possessionDate": "FEB-2023"
+            }
+        }
+    ]
+}

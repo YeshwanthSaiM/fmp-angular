@@ -1,0 +1,38 @@
+{
+    "projectName": "Blueprint Projects",
+    "promoterName": "Blueprint Projects LLP",
+    "tsrera": "P02400001385",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Near Ikea",
+        "district": "Ranga Reddy District",
+        "Mandal": "Serilingampally",
+        "colony": "Serilingampally",
+        "pincode": 500032
+    },
+    "locationHighlights": [],
+    "amenities": [],
+    "description": "Blueprint Projects is a commercial development in Serilingampally, Hyderabad. The project is built by Blueprint Projects LLP. They provide office space with all necessities. It is approved by Telangana RERA.",
+    "projectImageUrl":"https://www.rajapushpa.in/projects/residential/images/eterna/slider-1.jpg",
+    "projectVideoUrl":"https://www.youtube.com/embed/-04J_XPL2G4",
+    "noOfFloors": 11,
+    "type":"commercial",
+    "properties": [
+        {
+            "type": "commercial",
+            "unit": "office space",
+            "size": 200,
+            "sizeType": "sft",
+            "sizes": [200,400,600,10000],
+            "unitPrice": 4500,
+            "totalPrice": 900000,
+            "imageUrls": [],
+            "videoUrls": [],
+            "otherDetails": {
+                "possessionDate": "MAR-2023"
+            }
+        }
+    ]
+
+}

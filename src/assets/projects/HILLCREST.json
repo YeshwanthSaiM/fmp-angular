@@ -1,0 +1,60 @@
+{
+    "projectName": "HillCREST",
+    "promoterName": "Pacifica India Projects Pvt Ltd",
+    "tsrera": ": P02500000189",
+    "type": "residential",
+    "locationHighlights": [
+        "0.5 Kms from ORR",
+        "Hotel - Hayyat Gachibowli : 1 km.",
+        "Continental Hospitals : 1 km.",
+        "Tata Consulting Services : 1.5 km.",
+        "Microsoft : 3 km."
+    ],
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "financial district",
+        "district": "Hyderabad",
+        "colony": "GACHIBOWLI",
+        "pincode": 500048
+    },
+    "description": "Pacifica Companies presents HILLCREST an integrated township project divided into 6 Phases. This prestigious venture comprising multi-storey towers with 532 units of high rise apartments in Phase I. This upcoming project in Hyderabad presents modern and better living. These elegant buildings are designed with amenities like club house, park , gymnasium , multi court jogging track and many more. Burt- Hill Stantec one of the most reputed architect consultants of the world have designed and planned this project . HILLCREST is located centrally at Financial District Gachibowli, Hyderabad with multiple accesses of 100 feet and 80 feet Approved Master Plan roads with the proximity to New Outer Ring Road.",
+    "projectImageUrl": "https://img.staticmb.com/mbimages/project/2019/10/21/Project-Photo-21-Pacifica-Hillcrest-Hyderabad-5051468_345_1366.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/RBg40b-wh2A",
+    "noOfFloors": 18,
+    "properties": [
+        {
+            "type": "residential apartment",
+            "unit": "2, 3, 4 BHK",
+            "size": 787,
+            "sizeType": "sft",
+            "sizes": [
+                787,
+                789,
+                800,
+                808,
+                866,
+                886,
+                920,
+                940,
+                1199,
+                1209,
+                1215
+            ],
+            "unitPrice": 6900,
+            "totalPrice": 5430300,
+            "imageUrls": [
+                "https://img.staticmb.com/mbimages/project/Project-Photo-17-Pacifica-Hillcrest-Hyderabad-5051468_600_800.jpg",
+                "https://img.staticmb.com/mbimages/project/2019/02/27/Master-Plan-14-Pacifica-Hillcrest-Hyderabad-5051468_467_740.jpg",
+                "https://img.staticmb.com/mbimages/project/Project-Photo-62-Pacifica-Hillcrest-Hyderabad-5051468_600_800.jpg",
+                "https://img.staticmb.com/mbimages/project/2019/10/21/Project-Photo-21-Pacifica-Hillcrest-Hyderabad-5051468_345_1366.jpg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/UcCmRvfeb2M"
+            ],
+            "otherDetails": {
+                "possessionDate": "DEC-2025"
+            }
+        }
+    ]
+}

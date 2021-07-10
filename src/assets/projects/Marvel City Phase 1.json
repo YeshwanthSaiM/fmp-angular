@@ -1,0 +1,55 @@
+{
+    "projectName": "Marvel City Phase 1",
+    "promoterName": "Shubamastu Group",
+    "tsrera": "P02400000777",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Yadadri",
+        "district": "Yadadri Bhuvanagiri District",
+        "Mandal": "Yadagiripally",
+        "colony": "Yadadri",
+        "pincode": 508115
+    },
+    "locationHighlights": [
+        "Just beside Yadadri Temple",
+        "2 km Yadadri Temple City"
+    ],
+    "amenities": [
+        "Car parking",
+        "Fully Furnished",
+        "High tech amenities",
+        "24 hours water",
+        "Security"
+    ],
+    "description": "Marvel City is first ever Suit rooms project available inside heart of Yadadri temple city",
+    "projectImageUrl": "https://cf-cdn.cityinfoservices.com/public/uploads/projectBanner/large/G%20Square%201__1679052924.jpg",
+    "projectVideoUrl": "https://is1-2.housingcdn.com/4f2250e8/8006a44def095f34a6024aa5ee330a3a/v0/fs/subhamasthu_marvel_city-yadagirigutta_1-hyderabad-subhamasthu_townships_pvt_ltd.jpeg",
+    "noOfFloors": 8,
+    "type":"commercial",
+    "properties": [
+        {
+            "type": "commercial",
+            "unit": "1 RK and 2 RK Suit rooms",
+            "size": 1000,
+            "sizeType": "sft",
+            "sizes": [
+                1000
+            ],
+            "unitPrice": 1900,
+            "totalPrice": 1900000,
+            "imageUrls": [
+                "https://is1-2.housingcdn.com/4f2250e8/8006a44def095f34a6024aa5ee330a3a/v0/fs/subhamasthu_marvel_city-yadagirigutta_1-hyderabad-subhamasthu_townships_pvt_ltd.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/547613f42b632ecf961989d3afd754e7/v0/fs/subhamasthu_marvel_city-yadagirigutta_1-hyderabad-subhamasthu_townships_pvt_ltd.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/35063b24e80d2b86e37b752b4b599103/v0/fs/subhamasthu_marvel_city-yadagirigutta_1-hyderabad-subhamasthu_townships_pvt_ltd.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/09b5efb8b30e716bbd1e73f50cb49c0e/v0/fs/subhamasthu_marvel_city-yadagirigutta_1-hyderabad-subhamasthu_townships_pvt_ltd.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/aX3nJs3MCbk"
+            ],
+            "otherDetails": {
+                "possessionDate": "JAN-2023"
+            }
+        }
+    ]
+}

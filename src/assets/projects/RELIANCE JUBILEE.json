@@ -1,0 +1,56 @@
+{
+    "projectName": "RELIANCE JUBILEE",
+    "promoterName": "RELIANCE BUILDERS",
+    "tsrera": "P02500000025",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Shaikpet",
+        "district": "Hyderabad",
+        "Mandal": "Shaikpet Village",
+        "colony": "Tolichowki",
+        "pincode": 500008
+    },
+    "locationHighlights": [
+        "Near Ramanaidu Dubbing Theatre",
+        "2.5 Kms from Kbr National Park"
+    ],
+    "amenities": [
+        "Internet",
+        "Gym",
+        "Children Play Area",
+        "Power Backup",
+        "Cycling & Jogging Track"
+    ],
+    "description": "Reliance Jubilee is a residential project by Reliance Builders located at Hakimpet in Hyderabad. The key amenities of the project include Internet / Wi Fi, Landscaped Garden, Power Backup, Cycling & Jogging Track and Gymnasium. Owing to its location, facilities such as schools, hospitals, ATMs, and markets are available at a close distance from Reliance Jubilee. An extensive network of public transports in the close vicinity makes the project accessible.",
+    "projectImageUrl": "https://is1-3.housingcdn.com/4f2250e8/62d626c4f4bc87f5b32c2e4dd9f90435/v0/fs/reliance_jubilee-hakimpet_hyderabad-hyderabad-reliance_builders.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/25zic9Os_c4",
+    "noOfFloors": 8,
+    "type":"residential",
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "2,3 BHK",
+            "size": 1091,
+            "sizeType": "sft",
+            "sizes": [
+                1091,
+                1878
+            ],
+            "unitPrice": 5000,
+            "totalPrice": 5100000,
+            "imageUrls": [
+                "https://is1-3.housingcdn.com/012c1500/23087fb445a2159b501422ac159b6021/v2/fs/reliance_jubilee-hakimpet_hyderabad-hyderabad-reliance_builders.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/0221f2bb3a4e5bae058a0e975f38ae22/v2/fs/reliance_jubilee-hakimpet_hyderabad-hyderabad-reliance_builders.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/b8888899f039e135402ada9d87822edf/v2/fs/reliance_jubilee-hakimpet_hyderabad-hyderabad-reliance_builders.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/038ba90013ca2e8e93f4f86b05061b20/v2/fs/reliance_jubilee-hakimpet_hyderabad-hyderabad-reliance_builders.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/25zic9Os_c4"
+            ],
+            "otherDetails": {
+                "possessionDate": "MAR-2021"
+            }
+        }
+    ]
+}

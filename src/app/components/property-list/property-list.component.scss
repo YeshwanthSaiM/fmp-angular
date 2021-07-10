@@ -21,8 +21,8 @@
     }
 
     .details {
-        display        : flex;
-        justify-content: space-around;
+        width: 50%;
+        text-align: center;
     }
 }
 
@@ -35,7 +35,24 @@
 @media only screen and (max-width: 600px) {
     .main-content {
         place-items: center;
-        display: grid;
-
+        display: flex;
+        flex-direction: column;
     }
+}
+
+.mat-button {
+    color: white !important;
+    background-color: #3f51b5 !important;
+}
+
+.mat-card {
+    margin: 25px;
+    border: 0.5px solid;
+    box-shadow: 5px 10px #888888;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
 }

@@ -1,0 +1,61 @@
+{
+    "projectName": "Elemental Earthwoods",
+    "promoterName": "ELEMENTAL REALTY",
+    "tsrera": "P02400000387",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "KOKAPET",
+        "district": "Ranga Reddy District",
+        "Mandal": "Gandipet",
+        "colony": "GOLDEN MILE ROAD",
+        "pincode": 500075
+    },
+    "locationHighlights": [
+        "2.3 Kms from Continental Hospitals"
+    ],
+    "amenities": [
+        "Sports Area",
+        "Swimming Pool",
+        "Indoor Game Room",
+        "Gym",
+        "Basketball Court",
+        "Rainwater Harvesting"
+    ],
+    "description": "Elemental Earthwoods, by Elemental Realty, offers apartments at Kokapet in Hyderabad. These lavish apartments come in 2 BHK and 3 BHK configurations ranging from 1,230 square foot and 2,083 square foot in size. The project offers a gymnasium, swimming pool, indoor games area and kids play area. The project also offers a clubhouse and banquet hall are also available. A landscaped garden offers open space and greenery to the area. This locality is well-connected by public transport. The Hitech City railway station is about 20 kilometres and Rajiv Gandhi International Airport is about 31 kilometres away from this area. Many educational institutes, hospitals, schools, parks and other entertainment facilities are available in the neighborhood.",
+    "projectImageUrl": "https://img.staticmb.com/mbimages/project/Project-Photo-1-Elemental-Earthwoods-Hyderabad-5099457_345_1366.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/2SPapMPJahg",
+    "noOfFloors": 10,
+    "type":"residential",
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "2,3 BHK",
+            "size": 1029,
+            "sizeType": "sft",
+            "sizes": [
+                1029,
+                1093,
+                1230,
+                1236,
+                1354,
+                1747,
+                1850,
+                2083
+            ],
+            "unitPrice": 6500,
+            "totalPrice": 8000000,
+            "imageUrls": [
+                "https://im.proptiger.com/1/1614294/6/elemental-earthwoods-images-for-elevation-of-elemental-reality-earthwoods-13179495.jpeg",
+                "https://im.proptiger.com/1/1614294/6/elemental-earthwoods-images-for-elevation-of-elemental-reality-earthwoods-13179497.jpeg",
+                "https://im.proptiger.com/1/1614294/80/elemental-earthwoods-images-for-amenities-of-elemental-reality-earthwoods-13179576.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/2SPapMPJahg"
+            ],
+            "otherDetails": {
+                "possessionDate": "JUN-2019"
+            }
+        }
+    ]
+}

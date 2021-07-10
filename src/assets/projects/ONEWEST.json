@@ -1,0 +1,62 @@
+{
+    "projectName": "ONE WEST",
+    "promoterName": "Terminus KG Ventures PVT LTD",
+    "tsrera": "P02400000497",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Nanakaramguda",
+        "district": "Ranga Reddy District",
+        "Mandal": "Serilingampally",
+        "colony": "Sri Ram Universal school Road",
+        "pincode": 500008
+    },
+    "amenities": [
+        "Cafeteria",
+        "Security",
+        "Clud house",
+        "24/7 Power backup",
+        "Gym",
+        "Car parking",
+        "Fire safety"
+    ],
+    "locationHighlights": [
+        "10 min from Oakridge International school",
+        "10 kms from SunShine Hospital Gachibowli"
+    ],
+    "description": "SLN One West is a commercial development in Nanakramguda, Hyderabad. The project is built by SLN Builders. They provide office spac and office space with all necessities. It is approved by Telangana RERA",
+    "projectImageUrl": "https://newprojects.99acres.com/projects/sln_builders/sln_one_west/images/wwea2uvg_optOrig.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/EpeOaIHu9qs",
+    "noOfFloors": 23,
+    "type":"commercial",
+    "properties": [
+        {
+            "type": "commercial",
+            "unit": "office space",
+            "size": 42670,
+            "sizeType": "sft",
+            "sizes": [
+                400,
+                42670,
+                50913
+            ],
+            "unitPrice": 4688,
+            "totalPrice": 390000000,
+            "amenities": [],
+            "imageUrls": [
+                "https://newprojects.99acres.com/projects/sln_builders/sln_one_west/images/p73nalhq_optOrig.jpg",
+                "https://newprojects.99acres.com/projects/sln_builders/sln_one_west/maps/3k17gm36.jpg",
+                "https://teja10.kuikr.com//r1/20200327/ak_1920_1407077827-1585288472_700x700.jpeg",
+                "https://teja10.kuikr.com//r1/20200327/ak_2500_1405010013-1585288503_700x700.jpeg",
+                ""
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/EpeOaIHu9qs",
+                "https://www.youtube.com/embed/TX-Iw79zx0k"
+            ],
+            "otherDetails": {
+                "possessionDate": "APR-2021"
+            }
+        }
+    ]
+}

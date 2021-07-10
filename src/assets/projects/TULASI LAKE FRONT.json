@@ -1,0 +1,64 @@
+{
+    "projectName": "TULASI LAKE FRONT",
+    "promoterName": "TULASI CONSTRUCTIONS",
+    "tsrera": " P01100000008",
+    "type": "residential",
+    "locationHighlights": [
+        "Opposite to Malla reddy hospital"
+    ],
+    "amenities": [
+        "Internal Roads & Footpaths",
+        "Water Supply",
+        "Sewerage (Chamber, Lines, Septic Tank , STP)",
+        "Storm Water Drains",
+        "Green Strip/TOT LOT/Park",
+        "Street Lighting",
+        "Community Buildings",
+        "Treatment And Disposal Of Sewage And Sullage Water ",
+        "Solid Waste Management And Disposal",
+        "Water Conservation, Rain water Harvesting",
+        "Energy management",
+        "Fire Protection And Fire Safety Requirements",
+        "Electrical Meter Room, Sub-Station, Receiving Station",
+        "Aggregate area of recreational Open Space"
+    ],
+    "description": "Green Tulasi Lake Front in Suraram, Hyderabad by Green Metro is a residential project. The project offers Apartment with perfect combination of contemporary architecture and features to provide comfortable living. The Apartment are of the following configurations: 2BHK and 3BHK The size of the Apartment ranges in between 90.58 Sq. mt and 126.81 Sq. mt",
+    "projectImageUrl": "https://is1-2.housingcdn.com/012c1500/2747f4289686578c201c5ce46ede471c/v0/fs/tulasi_lake_front-suraram-hyderabad-tulasi_constructions.jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/N_HO080gvdo",
+    "noOfFloors": 5,
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "SURARAM VILLAGE-1",
+        "district": "Medchal-Malkajgiri",
+        "Mandal": "Qutballapur",
+        "colony": "SURARAM VILLAGE-1",
+        "pincode": 500015
+    },
+    "properties": [
+        {
+            "type": "residential apartment",
+            "unit": "2 BHK",
+            "size": 1149,
+            "sizeType": "sft",
+            "sizes": [
+                1149,
+                1365
+            ],
+            "unitPrice": 3500,
+            "totalPrice": 3500000,
+            "imageUrls": [
+                "https://is1-2.housingcdn.com/012c1500/2747f4289686578c201c5ce46ede471c/v0/fs/tulasi_lake_front-suraram-hyderabad-tulasi_constructions.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/225029d982dc1997f26dc7234ad35cf0/v0/fs/tulasi_lake_front-suraram-hyderabad-tulasi_constructions.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/f7c18cd058910e72d24c3865c85053c6/v0/fs/tulasi_lake_front-suraram-hyderabad-tulasi_constructions.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/43f731182a50204a318523cf735ec778/v0/fs/tulasi_lake_front-suraram-hyderabad-tulasi_constructions.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/I-7DXCzf4Zo"
+            ],
+            "otherDetails": {
+                "possessionDate": "JAN-2021"
+            }
+        }
+    ]
+}

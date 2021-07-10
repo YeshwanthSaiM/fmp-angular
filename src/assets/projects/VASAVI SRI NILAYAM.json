@@ -1,0 +1,59 @@
+{
+    "projectName": "VASAVI SRI NILAYAM",
+    "promoterName": "VASAVI DEVELOPERS LLP",
+    "tsrera": "P02500000026",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "SAROOR NAGAR",
+        "district": "Ranga Reddy District",
+        "Mandal": "SAROOR NAGAR",
+        "colony": "KARMANGHAT VILLAGE",
+        "pincode": 501510
+    },
+    "locationHighlights": [
+        "Very near to LB Nagar market road.",
+        "Surrounded with many Hospitals and schools"
+    ],
+    "amenities": [
+        "24/7 Power Backup",
+        "Club house",
+        "Jogging track",
+        "Badminton Court",
+        "Party lawn"
+    ],
+    "description": "Flats for sale in LB Nagar Hyderabad with 773 lifestyle apartments spread over 11 acres at Chintalkunta. Tower No’s: 1, 2, 6, 7, 8, 9, 10 are having 2 cellars + Stilt + 9 Floors. Tower No’s: 3, 4, 5, & 11 are having 2 cellars + Stilt + 10 Floors. Fully Equipped Club House approx 36,000 sft. 2 BHK Flats in LB Nagar | Range 1165sft – 1255sft 3 BHK Flats in LB Nagar | Range 1535sft – 1890sft",
+    "projectImageUrl": "https://im.proptiger.com/1/1679274/6/sri-nilayam-images-for-elevation-of-vasavi-sri-nilayam-28385670.jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/Y97bceXOqAU",
+    "noOfFloors": 10,
+    "type":"residential",
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "2 ,3 BHK",
+            "size": 0,
+            "sizeType": "sft",
+            "sizes": [
+                1165,
+                1255,
+                1535,
+                1890
+            ],
+            "unitPrice": 3500,
+            "totalPrice": 6400000,
+            "imageUrls": [
+                "https://im.proptiger.com/1/1679274/6/sri-nilayam-elevation-103909241.jpeg",
+                "https://im.proptiger.com/1/1679274/6/sri-nilayam-elevation-103909240.jpeg",
+                "https://im.proptiger.com/1/1679274/6/sri-nilayam-elevation-103909239.jpeg",
+                "https://im.proptiger.com/1/1679274/80/sri-nilayam-landscaped-gardens-103909343.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/Y97bceXOqAU",
+                "https://www.youtube.com/embed/qFSHfgGXiVs"
+            ],
+            "otherDetails": {
+                "possessionDate": "APR-2024"
+            }
+        }
+    ]
+}

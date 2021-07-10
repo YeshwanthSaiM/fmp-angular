@@ -1,0 +1,60 @@
+{
+    "projectName": "Vertex Premio",
+    "promoterName": "Vertex Homes Private Limited",
+    "tsrera": "P02200000845",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Hydernagar",
+        "district": "Medchal-Malkajgiri",
+        "Mandal": "Kukatpally",
+        "colony": "Hydernagar",
+        "pincode": 500072
+    },
+    "locationHighlights": [
+        "Near Kukatpally market hub"
+    ],
+    "amenities": [
+        "Badminton Court",
+        "Billiards",
+        "Cafeteria",
+        "CCTV Cameras",
+        "Club House",
+        "Covered Car Parking",
+        "Cricket Court"
+    ],
+    "description": "Vertex Homes Pvt. Ltd. is a property development enterprise which specializes in residential, commercial and premium plotting development. It has been around for more than 24 years. Vertex Homes, started with Hyderabad as a core area and over time has established a very strong foot print in Vijayawada market with equal distribution among all micro-markets of Vijayawada.",
+    "projectImageUrl": "https://is1-2.housingcdn.com/4f2250e8/bf4ade8198c6a029c425720ff5c40224/v0/fs/vertex_premio-nizampet-hyderabad-vertex_homes.jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/qXLmOVEkGTg",
+    "noOfFloors": 6,
+    "type":"residential",
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "2, 3 BHK",
+            "size": 1156,
+            "sizeType": "sft",
+            "sizes": [
+                1156,
+                1690
+            ],
+            "unitPrice": 5500,
+            "totalPrice": 6800000,
+            "imageUrls": [
+                "https://teja14.kuikr.com/is/a/f/800x600/gallery_images/original/cf5ccbdca414613.gif",
+                "https://is1-2.housingcdn.com/012c1500/6cffbb07a4e59afed957d578b8a40ed1/v0/fs/vertex_premio-nizampet-hyderabad-vertex_homes.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/1a79096f45541a25e77d482523b5227e/v0/fs/vertex_premio-nizampet-hyderabad-vertex_homes.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/7eb67b709bd489e172fd5586a890e05b/v0/fs/vertex_premio-nizampet-hyderabad-vertex_homes.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/b3766a8e023080af1b3c8f502e9fff50/v0/fs/vertex_premio-nizampet-hyderabad-vertex_homes.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/qXLmOVEkGTg",
+                "https://www.youtube.com/embed/PKCzmn3rQT0",
+                "https://www.youtube.com/embed/CPzHPZeJMqs"
+            ],
+            "otherDetails": {
+                "possessionDate": "AUG-2024"
+            }
+        }
+    ]
+}

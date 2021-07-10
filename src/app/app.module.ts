@@ -16,7 +16,6 @@ import { FooterComponent } from './components/footer/footer.component';
 import { ContactComponent } from './components/contact/contact.component';
 import { BlogComponent } from './components/blog/blog.component';
 import { LoginComponent } from './components/login/login.component';
-import { RegisterComponent } from './components/register/register.component';
 import { HttpClientModule } from '@angular/common/http';
 import { MatCarouselModule } from '@ngbmodule/material-carousel';
 import {MatDialogModule} from '@angular/material/dialog';
@@ -31,7 +30,14 @@ import { DetailsComponent } from './components/details/details.component';
 
 import {MatSlideToggleModule} from '@angular/material/slide-toggle';
 
-import { Routes, RouterModule } from '@angular/router';
+import { RouterModule } from '@angular/router';
+import { GalleryComponent } from './components/gallery/gallery.component';
+import { SafePipeModule } from 'safe-pipe';
+import { FormsModule } from '@angular/forms';
+import { Ng2SearchPipeModule } from 'ng2-search-filter';
+import { PropertyService } from './services/property.service';
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -41,9 +47,9 @@ import { Routes, RouterModule } from '@angular/router';
     ContactComponent,
     BlogComponent,
     LoginComponent,
-    RegisterComponent,
     PropertyListComponent,
     DetailsComponent,
+    GalleryComponent,
   ],
   imports: [
     BrowserModule,
@@ -65,9 +71,12 @@ import { Routes, RouterModule } from '@angular/router';
     MatListModule,
     MatDialogModule,
     HttpClientModule,
-    MatCarouselModule.forRoot()
+    MatCarouselModule.forRoot(),
+    SafePipeModule,
+    FormsModule,
+    Ng2SearchPipeModule     
   ],
-  providers: [],
+  providers: [PropertyService],
   bootstrap: [AppComponent],
   schemas: [CUSTOM_ELEMENTS_SCHEMA]
 })

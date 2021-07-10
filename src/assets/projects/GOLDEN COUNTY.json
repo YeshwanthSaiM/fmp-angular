@@ -1,0 +1,56 @@
+{
+    "projectName": "GOLDEN COUNTY",
+    "promoterName": "MODI BUILDERS & INFRASTRUCTURES PRIVATE LIMITED",
+    "tsrera": "P02200000242",
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "RAMPALLY",
+        "district": "Medchal-Malkajgiri District",
+        "Mandal": "Keesara",
+        "colony": "RAMPALLY",
+        "pincode": 501301
+    },
+    "locationHighlights": [
+        "Near to 100 acres Raheja IT Park (Mindspace)",
+        "450 acres Infosys Campus",
+        "Near to Srinidhi Engineering College"
+    ],
+    "amenities": [
+        "Fully equipped club house",
+        "CC Roads with underground cabling",
+        "supermarket / cafeteria / laundry",
+        "24x7 Security with CC TV monitoring.",
+        "Swimming Pool"
+    ],
+    "description": "Golden County is a project with over 413 villas and state of the art amenities. It has a fully equipped clubhouse, a swimming pool, a gymnasium, a play area and several other facilities spread over an area of about 30 acres. It is situated at Rampally near Infosys Campus, Ghatkesar and is in close proximity to Singapore Township and Raheja Mind space IT Park.",
+    "projectImageUrl": "https://www.rajapushpa.in/projects/residential/images/eterna/slider-1.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/k0ygdRIxS-c",
+    "noOfFloors": 30,
+    "type":"residential",
+    "properties": [
+        {
+            "type": "residential",
+            "unit": "3 BHK Villa",
+            "size": 1642,
+            "sizeType": "sft",
+            "sizes": [
+                1642,
+                2387
+            ],
+            "unitPrice": 5500,
+            "totalPrice": 7000000,
+            "imageUrls": [
+                "https://im.proptiger.com/1/505557/6/golden-county-elevation-4469170.jpeg",
+                "https://im.proptiger.com/1/505557/6/golden-county-elevation-4469171.jpeg",
+                "https://im.proptiger.com/1/505557/80/golden-county-club-house-4469252.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/k0ygdRIxS-c"
+            ],
+            "otherDetails": {
+                "possessionDate": "JAN-2021"
+            }
+        }
+    ]
+}

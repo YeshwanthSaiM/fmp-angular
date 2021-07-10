@@ -1,0 +1,71 @@
+{
+    "projectName": "MY HOME KRISHE",
+    "promoterName": "MY Home Constructions PVT. Ltd.",
+    "tsrera": "P02400000003",
+    "type": "residential",
+    "locationHighlights": [
+        "Karachi Bakery",
+        "KS Bakers",
+        "Angara Restaurant"
+    ],
+    "location": {
+        "state": "Telangana",
+        "city": "Hyderabad",
+        "locality": "Ranga Reddy",
+        "district": "Hyderabad",
+        "colony": "biodiversity X road",
+        "pincode": "Gandipet"
+    },
+    "amenities": [
+        "Internal Roads & Footpaths",
+        "Water Supply",
+        "Sewerage (Chamber, Lines, Septic Tank , STP)",
+        "Storm Water Drains",
+        "Green Strip/TOT LOT/Park",
+        "Street Lighting",
+        "Community Buildings",
+        "Treatment And Disposal Of Sewage And Sullage Water ",
+        "Solid Waste Management And Disposal",
+        "Water Conservation, Rain water Harvesting",
+        "Energy management",
+        "Fire Protection And Fire Safety Requirements",
+        "Electrical Meter Room, Sub-Station, Receiving Station",
+        "Aggregate area of recreational Open Space"
+    ],
+    "description": "My Home Constructions presents a housing project located in Gachibowli, Hyderabad. The project comes equipped with all the basic facilities necessary to meet daily requirements of the modern urban lifestyle of its residents, including Tennis Court, Landscaped Gardens, Others, Internal Roads, Amphitheater. In Krishe, the interiors are thoughtfully designed to provide adequate space, light and ventilation to the residential units. Gachibowli is well-connected to other parts of the city via an extensive road.",
+    "projectImageUrl": "https://myhomeconstructions.com/wp-content/themes/sdna/images/banners/jpg/krishe.jpg",
+    "projectVideoUrl": "https://www.youtube.com/embed/SsD7edBIZgM",
+    "noOfFloors": 25,
+    "properties": [
+        {
+            "type": "residential apartment",
+            "unit": "2 BHK",
+            "size": 1274,
+            "sizeType": "sft",
+            "sizes": [
+                920,
+                1530,
+                1739,
+                1834,
+                2159,
+                2779
+            ],
+            "unitPrice": 6900,
+            "totalPrice": 8798000,
+            "imageUrls": [
+                "https://myhomeconstructions.com/wp-content/themes/sdna/images/banners/jpg/krishe.jpg",
+                "https://is1-3.housingcdn.com/012c1500/10cf2aef7d69b06c9bc4c47a04bbb7a5/v0/fs.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/4295871820e2292461c4639d3b210451/v0/fs.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/acef255d695ea525b92daf354aba1510/v0/fs.jpeg",
+                "https://is1-3.housingcdn.com/012c1500/18d7c6cea23c9e33a15b028adf150da4/v0/fs.jpeg"
+            ],
+            "videoUrls": [
+                "https://www.youtube.com/embed/0C1yNP-inF8",
+                "https://www.youtube.com/embed/0PUYidfDrh8"
+            ],
+            "otherDetails": {
+                "possessionDate": "JAN-2021"
+            }
+        }
+    ]
+}
