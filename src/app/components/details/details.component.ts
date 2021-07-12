@@ -120,9 +120,11 @@ export class DetailsComponent implements OnInit {
 
   async mapInit() {
     $(() => {
+     
       $('body').append(`
      
-      <script type='text/javascript' async>        
+      <script type='text/javascript'> 
+      function GetMap(){       
         var mapCenter = new Microsoft.Maps.Location(17.43294347294238,78.3137395);
         var map = new Microsoft.Maps.Map('#myMap', {
           credentials: 'Al0BEFJS2vf1KrgjcK1FSitkQ9qqqvKFda5SaDFSHvUgU4513o8c6C62leKvhrxM',
@@ -283,8 +285,10 @@ export class DetailsComponent implements OnInit {
               icon:icon
             });
             map.entities.push(marker);}
-        });              
+        }); 
+      }             
         </script>
+         <script type = 'text/javascript' src = 'http://www.bing.com/api/maps/mapcontrol?callback=GetMap&key=Al0BEFJS2vf1KrgjcK1FSitkQ9qqqvKFda5SaDFSHvUgU4513o8c6C62leKvhrxM' defer > </script>
        
        `)
 
