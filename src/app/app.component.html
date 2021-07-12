@@ -33,7 +33,10 @@
       <button type="button" aria-label="Toggle sidenav" mat-icon-button (click)="sidenav.toggle()">
         <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
       </button>
-      <span>Find My Properties</span>
+      <div class="action-btn">
+        <button class="buy" mat-raised-button color="primary" (click)="buy()">Buy</button>
+        <button class="login" mat-raised-button color="primary" (click)="openDialog()">Login</button>
+      </div>
     </mat-toolbar>
     <router-outlet></router-outlet>
   </mat-sidenav-content>

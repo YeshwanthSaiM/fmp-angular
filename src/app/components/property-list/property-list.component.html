@@ -32,11 +32,14 @@
             <mat-card-content>
                 <div class="main-content">
                     <div class="main-content">
-                        <img class="image" [src]="project.projectImageUrl">
-                        <iframe frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen="" class="iframe" title="https://www.youtube.com/embed/3KKK2ufykos"
-                            src="https://www.youtube.com/embed/3KKK2ufykos"></iframe>
+                        <div class="media-box">
+                            <img class="image" [src]="project.projectImageUrl">
+                            <iframe frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen="" class="iframe" title="https://www.youtube.com/embed/3KKK2ufykos"
+                                src="https://www.youtube.com/embed/3KKK2ufykos"></iframe>
+                        </div>
+                        
                         <div class="content">
                             <div style="display: flex;width: 100%;">
                                 <div style="width: 50%;">
@@ -60,7 +63,7 @@
                             </p>
                             <div class="actions">
 
-                                <button mat-stroked-button color="primary" mat-button>CALL AGENT</button>
+                                <button mat-stroked-button (click)="openGallery(project?.projectName)" color="primary" mat-button>3D TOUR</button>
                                 <button mat-stroked-button color="primary" mat-button>BUY</button>
                                 <button mat-stroked-button color="primary" (click)="details(project)"
                                     mat-button>DETAILS</button>
@@ -95,11 +98,14 @@
             <mat-card-content>
                 <div class="main-content">
                     <div class="main-content">
-                        <img class="image" [src]="project.projectImageUrl">
-                        <iframe frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen="" class="iframe" title="https://www.youtube.com/embed/3KKK2ufykos"
-                            src="https://www.youtube.com/embed/3KKK2ufykos"></iframe>
+                        <div class="media-box">
+                            <img class="image" [src]="project.projectImageUrl">
+                            <iframe frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen="" class="iframe" title="https://www.youtube.com/embed/3KKK2ufykos"
+                                src="https://www.youtube.com/embed/3KKK2ufykos"></iframe>
+                        </div>
+                        
                         <div class="content">
                             <div style="display: flex;width: 100%;">
                                 <div style="width: 50%;">
@@ -123,7 +129,7 @@
                             </p>
                             <div class="actions">
 
-                                <button mat-stroked-button color="primary" mat-button>CALL AGENT</button>
+                                <button mat-stroked-button (click)="openGallery(project?.projectName)" color="primary" mat-button>3D TOUR</button>
                                 <button mat-stroked-button color="primary" mat-button>BUY</button>
                                 <button mat-stroked-button color="primary" (click)="details(project)"
                                     mat-button>DETAILS</button>
@@ -158,11 +164,14 @@
             <mat-card-content>
                 <div class="main-content">
                     <div class="main-content">
-                        <img class="image" [src]="project.projectImageUrl">
-                        <iframe frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen="" class="iframe" title="https://www.youtube.com/embed/3KKK2ufykos"
-                            src="https://www.youtube.com/embed/3KKK2ufykos"></iframe>
+                        <div class="media-box">
+                            <img class="image" [src]="project.projectImageUrl">
+                            <iframe frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen="" class="iframe" title="https://www.youtube.com/embed/3KKK2ufykos"
+                                src="https://www.youtube.com/embed/3KKK2ufykos"></iframe>
+                        </div>
+                        
                         <div class="content">
                             <div style="display: flex;width: 100%;">
                                 <div style="width: 50%;">
@@ -186,7 +195,7 @@
                             </p>
                             <div class="actions">
 
-                                <button mat-stroked-button color="primary" mat-button>CALL AGENT</button>
+                                <button mat-stroked-button (click)="openGallery(project?.projectName)" color="primary" mat-button>3D TOUR</button>
                                 <button mat-stroked-button color="primary" mat-button>BUY</button>
                                 <button mat-stroked-button color="primary" (click)="details(project)"
                                     mat-button>DETAILS</button>

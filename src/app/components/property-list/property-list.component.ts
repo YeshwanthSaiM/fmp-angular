@@ -115,6 +115,11 @@ export class PropertyListComponent implements OnInit, OnDestroy {
     this.route.navigateByUrl(`/details/${name}`);
   }
 
+  openGallery(projectName: any) {
+    projectName = projectName.split(' ').join('-')
+    this.route.navigate([`/gallery/${projectName}`]);
+  }
+
 }
 
 export enum StarRatingColor {

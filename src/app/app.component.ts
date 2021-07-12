@@ -2,8 +2,9 @@ import { Breakpoints, BreakpointObserver } from '@angular/cdk/layout';
 import { Component, EventEmitter, Output } from '@angular/core';
 import { Observable } from 'rxjs';
 import { map, shareReplay } from 'rxjs/operators';
-import {MatDialog} from '@angular/material/dialog';
+import { MatDialog } from '@angular/material/dialog';
 import { LoginComponent } from './components/login/login.component';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-root',
@@ -13,19 +14,27 @@ import { LoginComponent } from './components/login/login.component';
 export class AppComponent {
   title = 'findmyproperties';
 
-  constructor(private breakpointObserver: BreakpointObserver,public dialog: MatDialog) { }
+  constructor(
+    private breakpointObserver: BreakpointObserver,
+    public dialog: MatDialog,
+    private router: Router
+  ) { }
 
   isHandset$: Observable<boolean> = this.breakpointObserver.observe(Breakpoints.Handset)
     .pipe(
       map(result => result.matches),
       shareReplay()
     );
-  
+
   openDialog() {
     const dialogRef = this.dialog.open(LoginComponent);
 
     dialogRef.afterClosed().subscribe(result => {
       console.log(`Dialog result: ${result}`);
     });
+  }
+
+  buy() {
+    this.router.navigate(['/properties']);
   }
 }

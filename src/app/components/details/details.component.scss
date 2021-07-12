@@ -23,3 +23,14 @@
 .map-view{
     padding: 20px;
 }
+
+.title {
+    text-align: center;
+    height: 59px;
+    box-shadow: 3px 3px 5px 6px #ccc;
+
+    h3 {
+        padding-top: 16px;
+        font-size: 35px;
+    }
+}

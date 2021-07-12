@@ -300,6 +300,10 @@ export class DetailsComponent implements OnInit {
     this.router.navigate([`/gallery/${projectName}`]);
   }
 
+  back() {
+    this.router.navigate([`/properties`]);
+  }
+
 }
 export enum StarRatingColor {
   primary = "primary",

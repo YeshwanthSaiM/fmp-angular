@@ -1,17 +1,26 @@
-<div>
-    <h3 style="text-align: center; margin: 10px;">{{project.projectName}}</h3>
-    <div style="margin: 35px;">
-        <span mat-icon-button style="color:gold" *ngFor="let ratingId of ratingArr;index as i" [id]="'star_'+i"
-            (click)="onClick(i+1)" matTooltipPosition="above">
-            <mat-icon>
-                {{showIcon(i)}}
-            </mat-icon>
-        </span>
-        <span style="float: right;">
-            <button (click)="openGallery(project?.projectName)" mat-raised-button color="primary">3D Tour</button>
-        </span>
-
+<div style="margin-top: 100px;">
+    <div>
+        <div class="title">
+            <h3 >{{project.projectName}}</h3>
+        </div>
+        <div style="margin: 35px;">
+            <span mat-icon-button style="color:gold" *ngFor="let ratingId of ratingArr;index as i" [id]="'star_'+i"
+                (click)="onClick(i+1)" matTooltipPosition="above">
+                <mat-icon>
+                    {{showIcon(i)}}
+                </mat-icon>
+            </span>
+        </div>
+        <div style="margin: 35px;">
+            <button mat-raised-button color="primary" (click)="back()">Back</button>
+            <span style="float: right;">
+                <button (click)="openGallery(project?.projectName)" mat-raised-button color="primary">3D Tour</button>
+            </span>
+    
+        </div>
     </div>
+    
+    
     <div style="margin: 35px;">
         <mat-carousel timings="250ms ease-in" [autoplay]="true" [loop]="true" [hideArrows]="false"
             [hideIndicators]="false" [useKeyboard]="true" [useMouseWheel]="false" orientation="ltr">
