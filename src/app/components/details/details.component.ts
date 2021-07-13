@@ -2,6 +2,7 @@ import { Component, OnInit, Input, Output, EventEmitter, ViewEncapsulation } fro
 import { MatSnackBar } from '@angular/material/snack-bar';
 
 import { ActivatedRoute, Router, RouterModule } from '@angular/router';
+import { PropertyService } from 'src/app/services/property.service';
 
 declare var $: any;
 
@@ -19,13 +20,17 @@ export class DetailsComponent implements OnInit {
 
   constructor(
     private snackBar: MatSnackBar,
-    private router: Router
+    private router: Router,
+    private route: ActivatedRoute,
+    private propertyService: PropertyService
   ) { }
 
-  view = false
+  view = false;
   snackBarDuration: number = 2000;
-  ratingArr: any
-  project: any
+  ratingArr: any;
+  project: any;
+  projectName!: string;
+
   changeView() {
     this.view = !this.view
     this.mapInit()
@@ -37,68 +42,10 @@ export class DetailsComponent implements OnInit {
     for (let index = 0; index < this.starCount; index++) {
       this.ratingArr.push(index);
     }
-    // this.projectName = this.route.snapshot.params['projectName'];
-    this.project = {
-      "projectName": "APARNA ONE",
-      "promoterName": "APARNA INFRAHOUSING PRIVATE LIMITED",
-      "tsrera": "P02500000269",
-      "type": "residential",
-      "location": {
-        "state": "Telangana",
-        "city": "Hyderabad",
-        "locality": "SHEIKPET",
-        "district": "Hyderabad",
-        "Mandal": "Shaikpet",
-        "colony": "Old Bombay Highway",
-        "pincode": 500019
-      },
-      "locationHighlights": [
-        "Near to Raheja Mindspace IT Park ",
-        "6 km International Tech Park",
-        "Near Cyber Pearl"
-      ],
-      "amenities": [
-        "club house",
-        "Sports Area",
-        "Swimming Pool",
-        "Spa",
-        "Gym",
-        "Children Play Area"
-      ],
-      "description": "There are various amenities in Aparna One with to name a few. Located close to prominent suburbs of Hyderabad, the area of Hyderabad District has prominent schools and hospitals within a close distance.",
-      "projectImageUrl": "https://is1-3.housingcdn.com/4f2250e8/bb953b1c0fc92691cdf5565ac0609fcb/v0/large/aparna_one-shaikpet-hyderabad-aparna_constructions_and_estates_pvt._ltd..jpeg",
-      "projectVideoUrl": "https://www.youtube.com/embed/3KKK2ufykos",
-      "noOfFloors": 30,
-      "properties": [
-        {
-          "type": "residential",
-          "unit": "3,4 BHK",
-          "size": 2635,
-          "sizeType": "sft",
-          "sizes": [
-            2635,
-            2875,
-            4155,
-            5216
-          ],
-          "unitPrice": 11999,
-          "totalPrice": 35000000,
-          "imageUrls": [
-            "https://is1-3.housingcdn.com/012c1500/e8df6d6d6b12c313caef241a2d2429bc/v0/fs/aparna_one-shaikpet-hyderabad-aparna_constructions_and_estates_pvt._ltd..jpeg",
-            "https://is1-3.housingcdn.com/012c1500/bfa29b92763577efa38a5f433649cf3e/v0/fs/aparna_one-shaikpet-hyderabad-aparna_constructions_and_estates_pvt._ltd..jpeg",
-            "https://is1-3.housingcdn.com/012c1500/08b170ef8e5949b84ad70201163b3099/v0/fs/aparna_one-shaikpet-hyderabad-aparna_constructions_and_estates_pvt._ltd..jpeg",
-            "https://is1-2.housingcdn.com/012c1500/d13d980cd3d1cb45bee6dcf5c8ba5940/v0/fs/aparna_one-shaikpet-hyderabad-aparna_constructions_and_estates_pvt._ltd..jpeg"
-          ],
-          "videoUrls": [
-            "https://www.youtube.com/embed/3KKK2ufykos"
-          ],
-          "otherDetails": {
-            "possessionDate": "MAR-2023"
-          }
-        }
-      ]
-    }
-    console.log(this.project.properties)
+    this.projectName = this.route.snapshot.params['projectName'].split('-').join(' ').toLocaleUpperCase();
+    this.propertyService.getByName(this.projectName).subscribe(res => {
+      this.project = res;
+    });
   }
 
   onClick(rating: number) {
@@ -120,7 +67,7 @@ export class DetailsComponent implements OnInit {
 
   async mapInit() {
     $(() => {
-     
+
       $('body').append(`
      
       <script type='text/javascript'> 
@@ -296,7 +243,7 @@ export class DetailsComponent implements OnInit {
   }
 
   openGallery(projectName: any) {
-    projectName = projectName.split(' ').join('-')
+    projectName = projectName.split(' ').join('-').toLocaleLowerCase();
     this.router.navigate([`/gallery/${projectName}`]);
   }
 

@@ -111,12 +111,12 @@ export class PropertyListComponent implements OnInit, OnDestroy {
   }
 
   details(response: any) {
-    const name = response.projectName
-    this.route.navigateByUrl(`/details/${name}`);
+    const projectName = response.projectName.split(' ').join('-').toLocaleLowerCase();
+    this.route.navigateByUrl(`/details/${projectName}`);
   }
 
   openGallery(projectName: any) {
-    projectName = projectName.split(' ').join('-')
+    projectName = projectName.split(' ').join('-').toLocaleLowerCase();
     this.route.navigate([`/gallery/${projectName}`]);
   }
 

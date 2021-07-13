@@ -16,7 +16,7 @@ export class GalleryComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
-    this.projectName = this.route.snapshot.paramMap.get('projectName')?.split('-').join(' ');
+    this.projectName = this.route.snapshot.paramMap.get('projectName');
 
     if (this.projectName.toLowerCase() === 'mount bay') {
       this.iFrameModel = 'https://www.klapty.com/tour/tunnel/Fpu0P7qcMs';
