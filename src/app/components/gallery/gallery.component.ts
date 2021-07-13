@@ -36,6 +36,11 @@ export class GalleryComponent implements OnInit {
       this.iFrameModel = 'https://www.klapty.com/tour/tunnel/Fpu0P7qcMs';
     }
   }
+  isLoaded = false;
+
+  loaded($event:any){
+      this.isLoaded = true;
+  }
 
   navigateTodetails() {
     this.router.navigate([`/details/${this.projectName}`]);
