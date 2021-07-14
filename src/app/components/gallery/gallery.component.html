@@ -22,5 +22,5 @@
       <!-- <img id="boxTexture" src="../../../assets/models/textured_output.png">  -->
     </a-assets>
     <!-- <a-box src="#boxTexture" position="3 -2 -5" rotation="0 45 45" scale="2 2 2"></a-box> -->
-    <a-entity   rotation="0 0 0" *ngIf="isLoaded"  orbit-controls="initialPosition: 5 0 0"  scale="0.1 0.1 0.1" gltf-model="#model"></a-entity>
+    <a-entity   *ngIf="isLoaded" position="0 1.7 -0.5" rotation="75 0 0" orbit-controls="initialPosition: 0 0 0"  scale="0.025 0.025 0.025" gltf-model="#model"></a-entity>
   </a-scene>
