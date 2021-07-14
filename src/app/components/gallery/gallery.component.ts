@@ -46,4 +46,8 @@ export class GalleryComponent implements OnInit {
     this.router.navigate([`/details/${this.projectName}`]);
   }
 
+  navigateTo3dModel() {
+    this.router.navigate([`/gallery-model/${this.projectName}`]);
+  }
+
 }

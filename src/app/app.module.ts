@@ -36,6 +36,7 @@ import { SafePipeModule } from 'safe-pipe';
 import { FormsModule } from '@angular/forms';
 import { Ng2SearchPipeModule } from 'ng2-search-filter';
 import { PropertyService } from './services/property.service';
+import { GalleryModelComponent } from './components/gallery-model/gallery-model.component';
 
 
 @NgModule({
@@ -50,6 +51,7 @@ import { PropertyService } from './services/property.service';
     PropertyListComponent,
     DetailsComponent,
     GalleryComponent,
+    GalleryModelComponent,
   ],
   imports: [
     BrowserModule,

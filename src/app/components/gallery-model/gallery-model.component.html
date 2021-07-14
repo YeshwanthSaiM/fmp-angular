@@ -1,0 +1,17 @@
+<section class="content-title">
+    <div class="back-button">
+        <button mat-raised-button color="primary" (click)="navigateToGallery()">Back</button>
+    </div>
+    <div style="width: 100%;">
+        <h4>
+            3D Model View
+        </h4>
+    </div>
+</section>
+<a-scene embedded>
+    <a-assets (loaded)="loaded($event)">
+        <a-asset-item id="model" src="../../../assets/models/model.gltf"></a-asset-item>
+    </a-assets>
+    <a-entity *ngIf="isLoaded" position="0 1.7 -0.5" rotation="75 0 0" orbit-controls="initialPosition: 0 0 0"
+        scale="0.025 0.025 0.025" gltf-model="#model"></a-entity>
+</a-scene>
