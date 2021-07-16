@@ -72,15 +72,6 @@ export class DetailsComponent implements OnInit {
      
       <script type='text/javascript'> 
       function GetMap(){       
-        var mapCenter = new Microsoft.Maps.Location(17.43294347294238,78.3137395);
-        var map = new Microsoft.Maps.Map('#myMap', {
-          credentials: 'Al0BEFJS2vf1KrgjcK1FSitkQ9qqqvKFda5SaDFSHvUgU4513o8c6C62leKvhrxM',
-             center: mapCenter,
-            zoom: 10,
-            allowHidingLabelsOfRoad: true
-
-        });
-        map.setView({ labelOverlay: Microsoft.Maps.LabelOverlay.hidden});
         var locations = [{
           "projectName": "ALIENS HUB",
           "type": "residential",
@@ -220,6 +211,16 @@ export class DetailsComponent implements OnInit {
           }
         }
         ] 
+        var mapCenter = new Microsoft.Maps.Location(17.43294347294238,78.3137395);
+        var map = new Microsoft.Maps.Map('#myMap', {
+          credentials: 'Al0BEFJS2vf1KrgjcK1FSitkQ9qqqvKFda5SaDFSHvUgU4513o8c6C62leKvhrxM',
+             center: mapCenter,
+            zoom: 10,
+            allowHidingLabelsOfRoad: true
+
+        });
+        map.setView({ labelOverlay: Microsoft.Maps.LabelOverlay.hidden});
+       
         console.log(${this.view})    
         locations.forEach((location) => {
          if((location.type=='residential' && ${this.view})||(location.type!='residential' && ${!this.view})){ var icon=''          
@@ -231,9 +232,21 @@ export class DetailsComponent implements OnInit {
               title: location.projectName, 
               icon:icon
             });
-            map.entities.push(marker);}
+            // var pushpin = new Microsoft.Maps.Pushpin(map.getCenter(), null);
+            // map.entities.push(pushpin);
+            // Binding the events
+            Microsoft.Maps.Events.addHandler(marker, 'click', function () { highlight(location.projectName); });
+        
+            
+            map.entities.push(marker);
+          }
         }); 
-      }             
+      }          
+      function highlight(id) {
+        const projectName = id.split(' ').join('-').toLocaleLowerCase();
+      window.location.href='details/'+projectName  
+      // ${this.router.navigate(['/details/id'])}
+    }   
         </script>
          <script type = 'text/javascript' src = 'http://www.bing.com/api/maps/mapcontrol?callback=GetMap&key=Al0BEFJS2vf1KrgjcK1FSitkQ9qqqvKFda5SaDFSHvUgU4513o8c6C62leKvhrxM' defer > </script>
        
