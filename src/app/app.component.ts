@@ -5,7 +5,7 @@ import { map, shareReplay } from 'rxjs/operators';
 import { MatDialog } from '@angular/material/dialog';
 import { LoginComponent } from './components/login/login.component';
 import { Router } from '@angular/router';
-
+import {PropertyService } from "./services/property.service"
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -15,10 +15,13 @@ export class AppComponent {
   title = 'findmyproperties';
 
   constructor(
+    private propertyService:PropertyService,
     private breakpointObserver: BreakpointObserver,
     public dialog: MatDialog,
     private router: Router
-  ) { }
+  ) {
+    console.log(propertyService.getIp())
+   }
 
   isHandset$: Observable<boolean> = this.breakpointObserver.observe(Breakpoints.Handset)
     .pipe(
