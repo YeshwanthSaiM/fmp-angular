@@ -1,24 +1,20 @@
 {
-    "projectName": "Green West",
-    "promoterName": "Pavan Life Space",
+    "projectName": "True Gold Hills",
+    "promoterName": "Find My Properties",
     "tsrera": "LRS/SHZ/PLG/HMDA/2008",
     "type": "open land",
     "locationHighlights": [
-        "Just beside Gitam University",
-        "Near to mumbai highway",
-        "Walkable from Gitam University Boys Hostel",
-        "IIT Kandi",
-        "Near Maheshwara Medical College",
-        "30 mins from Financial District"
+        "Near shadnagar",
+        "Near to NATCO"
     ],
     "location": {
         "state": "Telangana",
         "city": "Hyderabad",
-        "locality": "Rudraram",
-        "district": "Sangareddy district",
-        "Mandal": "Patancheru",
-        "colony": "Rudraram",
-        "pincode": 502329
+        "locality": "Shadnagar",
+        "district": "Ranga Reddy district",
+        "Mandal": "Shadnagar",
+        "colony": "Shadnagar",
+        "pincode": 509216
     },
     "amenities": [
         "Internal Roads & Footpaths",
@@ -35,8 +31,8 @@
         "Aggregate area of recreational Open Space"
     ],
     "description": "Affordable yet best property at Rudraram and wonderful amenities and development. Just walkable distance from Gitam University Boys hostel . Very near to residential township. Flawless Roads with avenue plantations. 100% Vastu compliant plots. All-round compound walls ensure security to residents.",
-    "projectImageUrl": "../../assets/images/thumbnail/Green West.jpg",
-    "projectVideoUrl": "https://www.youtube.com/embed/zpgUEMjaHsc",
+    "projectImageUrl": "https://is1-2.housingcdn.com/4f2250e8/1a693533b9843ed30153d749610e9f90/v0/fs/building_true_gold_hills-hemajipur-hyderabad-building_blocks_projects_india_pvt_ltd.jpeg",
+    "projectVideoUrl": "https://www.youtube.com/embed/Nkfz6uR4ZCM",
     "noOfFloors": 0,
     "properties": [
         {
@@ -51,20 +47,18 @@
                 275,
                 600
             ],
-            "unitPrice": 19000,
-            "totalPrice": 5200000,
+            "unitPrice": 5500,
+            "totalPrice": 1500000,
             "imageUrls": [
-                "../../assets/2d images/Green West/1.jpg",
-                "../../assets/2d images/Green West/2.jpg",
-                "../../assets/2d images/Green West/3.jpg",
-                "../../assets/2d images/Green West/4.jpg",
-                "../../assets/2d images/Green West/5.jpg"
+                "https://is1-2.housingcdn.com/4f2250e8/1a693533b9843ed30153d749610e9f90/v0/fs/building_true_gold_hills-hemajipur-hyderabad-building_blocks_projects_india_pvt_ltd.jpeg",
+                "https://is1-2.housingcdn.com/012c1500/59b629dcaa80e1e9eaa9b548e68dbe1f/v0/fs/building_true_gold_hills-hemajipur-hyderabad-building_blocks_projects_india_pvt_ltd.jpeg"
+                
             ],
             "videoUrls": [
-                "https://www.youtube.com/embed/zpgUEMjaHsc"
+                "https://www.youtube.com/embed/Nkfz6uR4ZCM"
             ],
             "otherDetails": {
-                "possessionDate": "JUNE-2021"
+                "possessionDate": "JAN-2021"
             }
         }
     ]

@@ -42,7 +42,7 @@ export class DetailsComponent implements OnInit {
     for (let index = 0; index < this.starCount; index++) {
       this.ratingArr.push(index);
     }
-    this.projectName = this.route.snapshot.params['projectName'].split('-').join(' ').toLocaleUpperCase();
+    this.projectName = this.route.snapshot.params['projectName'].split('-').join(' ');
     this.propertyService.getByName(this.projectName).subscribe(res => {
       this.project = res;
     });
@@ -243,7 +243,7 @@ export class DetailsComponent implements OnInit {
   }
 
   openGallery(projectName: any) {
-    projectName = projectName.split(' ').join('-').toLocaleLowerCase();
+    projectName = projectName.split(' ').join('-');
     this.router.navigate([`/gallery/${projectName}`]);
   }
 

@@ -13,10 +13,10 @@ export class HomeComponent implements OnInit {
   ngOnInit(): void {
 
     this.bestProperties = [
-      '../../../assets/360 images/commercial.jpg',
-     '../../../assets/360 images/open land.jpg',
-     '../../../assets/360 images/residential.jpg',
-     '../../../assets/360 images/sample.jpg'
+      '../../../assets/images/thumbnail/Chandhana Gardens.jpg',
+      '../../../assets/images/thumbnail/Dazzler City.jpg',
+      '../../../assets/images/thumbnail/Green West.jpg',
+   
     ];
   }
 

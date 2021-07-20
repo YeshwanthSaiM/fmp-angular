@@ -11,7 +11,15 @@ export class PropertyService {
   project: any;
 
   projectNames: any[] = [
+    "Rhomes",
+    "DazzlerCity",
+    "Green West",
+    "True Gold Hills",
+    "Marvel City Phase 1",
+    "Marvel City Phase 2",
     "APARNA ONE",
+    "Sunray Township",
+    "N Square Oxigen",
     "Accurate Wind Chimes",
     "APR PRAVEENS LUXURIA",
     "ASHOKA TOWNSHIP",
@@ -59,13 +67,7 @@ export class PropertyService {
     "TULASI LAKE FRONT",
     "VESSELLA WOODS",
     "Nilaya Aravalli",
-    "NIHARIKA LANDMARK",
-    "Rhomes",
-    "DazzlerCity",
-    "Green West",
-    "Sunray Township",
-    "Marvel City Phase 1",
-    "Marvel City Phase 2"
+    "NIHARIKA LANDMARK"
   ];
 
   private endpoint = "assets/projects"
