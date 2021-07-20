@@ -82,7 +82,51 @@ export class PropertyService {
   getUserCount() {
     return this.http.get('https://fmpapi.herokuapp.com/user/count')
   }
+  getIp() {
+    this.http.get<any>('https://geolocation-db.com/json/').subscribe(res => {
 
+      new Promise((resolve, reject) => {
+
+        navigator.geolocation.getCurrentPosition(resp => {
+          console.log({ lng: resp.coords.longitude, lat: resp.coords.latitude })
+          return this.http.post("https://fmpapi.herokuapp.com/user/location", {
+            ip: res.IPv4, "location": {
+              "lat": resp.coords.latitude,
+              "long": resp.coords.longitude
+            }
+          }).subscribe(resp => {
+            console.log(resp)
+          })
+          resolve({ lng: resp.coords.longitude, lat: resp.coords.latitude });
+        },
+          err => {
+            reject(err);
+          });
+      });
+
+      //   if (navigator.geolocation) {
+      //     navigator.geolocation.getCurrentPosition(position)=> {
+      //       if (position) {
+      //         console.log("Latitude: " + position.coords.latitude +
+      //           "Longitude: " + position.coords.longitude);
+      //         let lat = position.coords.latitude;
+      //         let lng = position.coords.longitude;
+      //         return this.http.post("http://localhost:5000/user/location", {
+      //           ip: res.IPv4, "location": {
+      //             "lat": lat,
+      //             "long": lng
+      //           }
+      //         }).subscribe(resp=>{
+      //           console.log(resp)
+      //         })
+      //       }
+      //     },
+      //       (error) => console.log(error));
+      //   } else {
+      //     alert("Geolocation is not supported by this browser.");
+      //   }
+    })
+  }
   getAll(): Observable<any> {
     return Observable.create((observer: Observer<any>) => {
       this.count = 0;
