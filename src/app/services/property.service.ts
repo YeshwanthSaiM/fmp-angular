@@ -79,6 +79,9 @@ export class PropertyService {
     const url = `../../assets/projects/${name}.json`;
     return this.http.get<T>(url);
   }
+  getUserCount() {
+    return this.http.get('https://fmpapi.herokuapp.com/user/count')
+  }
 
   getAll(): Observable<any> {
     return Observable.create((observer: Observer<any>) => {

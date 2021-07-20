@@ -1,15 +1,16 @@
 import { Component, OnInit } from '@angular/core';
 import { MatIconRegistry } from '@angular/material/icon';
 import { DomSanitizer } from '@angular/platform-browser';
-
+import { PropertyService } from '../../services/property.service'
 @Component({
   selector: 'app-footer',
   templateUrl: './footer.component.html',
   styleUrls: ['./footer.component.scss']
 })
 export class FooterComponent implements OnInit {
-
+  count:number=1000
   constructor(
+    private propertyService: PropertyService,
     private matIconRegistry: MatIconRegistry,
     private domSanitizer: DomSanitizer
   ) {
@@ -32,8 +33,10 @@ export class FooterComponent implements OnInit {
   }
 
   ngOnInit(): void {
+    this.propertyService.getUserCount().subscribe((res: any) => {
+     this.count+=res.count
+    })
 
-    
   }
 
 }
