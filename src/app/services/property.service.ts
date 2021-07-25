@@ -11,6 +11,7 @@ export class PropertyService {
   project: any;
 
   projectNames: any[] = [
+    "Bloom City 2",
     "Rhomes",
     "DazzlerCity",
     "Green West",

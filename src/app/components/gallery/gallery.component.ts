@@ -36,14 +36,16 @@ export class GalleryComponent implements OnInit {
       this.iFrameModel = "https://www.klapty.com/tour/tunnel/Lsd03PguIB";
     } else if (this.projectName === 'True Gold Hills') {
       this.iFrameModel = "https://www.klapty.com/tour/LSE0MbSBef";
+    } else if (this.projectName === 'Bloom City 2') {
+      this.iFrameModel = "https://www.klapty.com/tour/LJ90BsNmT5";
     }
     else {
       this.iFrameModel = 'https://www.klapty.com/tour/tunnel/Fpu0P7qcMs';
     }
   }
-  
-  loaded($event:any){
-      this.isLoaded = true;
+
+  loaded($event: any) {
+    this.isLoaded = true;
   }
 
   navigateTodetails() {
