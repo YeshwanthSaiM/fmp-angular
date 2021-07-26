@@ -37,6 +37,7 @@ import { FormsModule } from '@angular/forms';
 import { Ng2SearchPipeModule } from 'ng2-search-filter';
 import { PropertyService } from './services/property.service';
 import { GalleryModelComponent } from './components/gallery-model/gallery-model.component';
+import { VacancyComponent } from './components/vacancy/vacancy.component';
 
 
 @NgModule({
@@ -52,6 +53,7 @@ import { GalleryModelComponent } from './components/gallery-model/gallery-model.
     DetailsComponent,
     GalleryComponent,
     GalleryModelComponent,
+    VacancyComponent,
   ],
   imports: [
     BrowserModule,
