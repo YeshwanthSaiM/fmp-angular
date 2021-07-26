@@ -23,24 +23,30 @@ export class VacancyComponent implements OnInit,AfterViewInit {
   ngOnInit(): void {
     
     
-    const imageContainer = $('.img-container');
-    const paths = $('path');
-    const desc =$('.desc-container')
-    paths.forEach((el:any) => {
-      el.addEventListener('mouseover', (e:any) => {
-        desc.innerHTML = e.target.dataset.desc;
-      }, false)
-      el.addEventListener('mouseout', (e:any) => {
-        desc.innerHTML = "";
-      }, false)
-    })
+  
     
   }
 
   ngAfterViewInit():void {
     //const ele = this._elementRef.nativeElement.querySelector('img-container');
-    console.log("The element");
-    console.log(this.child);
+    const imageContainer = $('.img-container');
+    let paths = $('.path');
+    const desc =$('.desc-container')
+    desc.text("modified")
+    $( ".path" ).bind( "mouseover", function(event:any) {
+      desc.text("modified")
+    });
+    $( ".path" ).bind( "mouseout", function() {
+      desc.text("")
+    });
+    // paths.forEach((el:any) => {
+    //   el.addEventListener('mouseover', (e:any) => {
+    //     desc.text = e.target.dataset.desc;
+    //   }, false)
+    //   el.addEventListener('mouseout', (e:any) => {
+    //     desc.text = "";
+    //   }, false)
+    // })
   }
 
 }
