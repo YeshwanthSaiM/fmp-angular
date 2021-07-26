@@ -3,6 +3,7 @@
   }
   .img-container {
   flex: 1;
+  background-image:url('map.jpg');
   }
   .desc-container{
     position: absolute;
@@ -26,5 +27,5 @@
     fill: red;
   }
   #one:hover {
-    stroke: white;
+    stroke: rgb(235, 27, 27);
   }

@@ -7,6 +7,22 @@
             <path class="path" id="one" data-desc="Plot 5 owned by Hari" d="M 530,435 580,455 630,295 580,275 Z" />
         </svg>
     </div>
+    <div class="desc-container" style="top:240px; left:530px;">
+        Sample desc
+    </div>
 </div>
 <div class="desc-container" style="top:240px; left:530px;">
+    <script>
+        const imageContainer = document.querySelector('.img-container');
+        const paths = imageContainer.querySelectorAll('path');
+        const desc = document.querySelector('.desc-container')
+        paths.forEach(el => {
+            el.addEventListener('mouseover', (e) => {
+                desc.innerHTML = "Sample owned";
+            }, false)
+            el.addEventListener('mouseout', (e) => {
+                desc.innerHTML = "";
+            }, false)
+        })
+    </script>
 </div>
