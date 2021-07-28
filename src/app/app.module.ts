@@ -18,17 +18,17 @@ import { BlogComponent } from './components/blog/blog.component';
 import { LoginComponent } from './components/login/login.component';
 import { HttpClientModule } from '@angular/common/http';
 import { MatCarouselModule } from '@ngbmodule/material-carousel';
-import {MatDialogModule} from '@angular/material/dialog';
-import {MatCardModule} from '@angular/material/card';
-import {MatTabsModule} from '@angular/material/tabs';
-import {MatFormFieldModule } from '@angular/material/form-field';
+import { MatDialogModule } from '@angular/material/dialog';
+import { MatCardModule } from '@angular/material/card';
+import { MatTabsModule } from '@angular/material/tabs';
+import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 import { PropertyListComponent } from './components/property-list/property-list.component';
-import {MatDividerModule} from '@angular/material/divider';
-import {MatSnackBarModule} from '@angular/material/snack-bar';
+import { MatDividerModule } from '@angular/material/divider';
+import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { DetailsComponent } from './components/details/details.component';
 
-import {MatSlideToggleModule} from '@angular/material/slide-toggle';
+import { MatSlideToggleModule } from '@angular/material/slide-toggle';
 
 import { RouterModule } from '@angular/router';
 import { GalleryComponent } from './components/gallery/gallery.component';
@@ -60,7 +60,7 @@ import { VacancyComponent } from './components/vacancy/vacancy.component';
     MatSnackBarModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-    MatInputModule ,
+    MatInputModule,
     MatDividerModule,
     LayoutModule,
     MatSlideToggleModule,
@@ -78,7 +78,7 @@ import { VacancyComponent } from './components/vacancy/vacancy.component';
     MatCarouselModule.forRoot(),
     SafePipeModule,
     FormsModule,
-    Ng2SearchPipeModule     
+    Ng2SearchPipeModule
   ],
   providers: [PropertyService],
   bootstrap: [AppComponent],

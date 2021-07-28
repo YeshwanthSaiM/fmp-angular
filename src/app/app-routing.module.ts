@@ -20,7 +20,7 @@ const routes: Routes = [
   { path: 'details/:projectName', component: DetailsComponent },
   { path: 'gallery/:projectName', component: GalleryComponent },
   { path: 'gallery-model/:projectName', component: GalleryModelComponent },
-  { path: 'vacancy', component: VacancyComponent }
+  { path: 'vacancy/:projectName', component: VacancyComponent }
 ];
 
 @NgModule({

@@ -5,7 +5,8 @@ import { map, shareReplay } from 'rxjs/operators';
 import { MatDialog } from '@angular/material/dialog';
 import { LoginComponent } from './components/login/login.component';
 import { Router } from '@angular/router';
-import {PropertyService } from "./services/property.service"
+import {PropertyService } from "./services/property.service";
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',

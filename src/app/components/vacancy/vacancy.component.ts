@@ -1,9 +1,12 @@
-import { AfterViewInit,Component,Directive, OnInit } from '@angular/core';
-import { ElementRef, ViewChild} from '@angular/core';
+import { AfterViewInit, Component, Directive, OnInit } from '@angular/core';
+import { ElementRef, ViewChild, TemplateRef } from '@angular/core';
+import { MatDialog } from '@angular/material/dialog';
+import { ActivatedRoute, Router } from '@angular/router';
+import { HttpClient } from "@angular/common/http";
 
 declare var $: any;
 
-@Directive({selector: 'child-directive'})
+@Directive({ selector: 'child-directive' })
 class ChildDirective {
 }
 
@@ -12,41 +15,65 @@ class ChildDirective {
   templateUrl: './vacancy.component.html',
   styleUrls: ['./vacancy.component.scss']
 })
-export class VacancyComponent implements OnInit,AfterViewInit {
+export class VacancyComponent implements OnInit, AfterViewInit {
 
   @ViewChild(ChildDirective) child!: ChildDirective;
-  
+  @ViewChild('available', { read: TemplateRef }) available!: TemplateRef<any>;
+  @ViewChild('booked', { read: TemplateRef }) booked!: TemplateRef<any>;
 
-  constructor(private _elementRef : ElementRef) { }
-
-
+  constructor(
+    private _elementRef: ElementRef,
+    public dialog: MatDialog,
+    private route: ActivatedRoute,
+    private httpClient: HttpClient) { }
+  projectName: any;
+  mapPath: any;
+  vacancyPath: any;
+  vacancy :any ;
+ 
   ngOnInit(): void {
+    this.projectName = this.route.snapshot.paramMap.get('projectName');
+    this.mapPath = "../../../assets/vacancy/" + this.projectName + "/map.jpg";
+    this.vacancyPath = "../../../assets/vacancy/" + this.projectName + "/vacancy.json";
     
-    
-  
-    
+    console.log("project name")
+    console.log(this.projectName)
+    console.log("The map path")
+    console.log(this.mapPath)
+    this.httpClient.get(this.vacancyPath).subscribe(data =>{
+      console.log(data);
+      this.vacancy = data;
+    })
   }
 
-  ngAfterViewInit():void {
+  ngAfterViewInit(): void {
     //const ele = this._elementRef.nativeElement.querySelector('img-container');
     const imageContainer = $('.img-container');
     let paths = $('.path');
-    const desc =$('.desc-container')
-    desc.text("modified")
-    $( ".path" ).bind( "mouseover", function(event:any) {
-      desc.text("modified")
+    const desc = $('.desc-container')
+    $(".path").bind("mouseover", function (event: any) {
+      desc.text("Available")
     });
-    $( ".path" ).bind( "mouseout", function() {
+    $(".path").bind("mouseout", function () {
       desc.text("")
     });
-    // paths.forEach((el:any) => {
-    //   el.addEventListener('mouseover', (e:any) => {
-    //     desc.text = e.target.dataset.desc;
-    //   }, false)
-    //   el.addEventListener('mouseout', (e:any) => {
-    //     desc.text = "";
-    //   }, false)
-    // })
   }
 
+  getStatus(phase: any, plotno: any,status: any) {
+    // getStatus : Based on the selection, Shows a modal to know the 
+    // status whether the plot is available or booked.
+    console.log("Clicked inside svg path with plot no")
+    console.log(phase)
+    console.log(plotno)
+    console.log(status)
+    if (status == 'available'){
+      this.openModal(this.available);
+    }else{
+      this.openModal(this.booked);
+    }
+  }
+
+  openModal(templateRef: any) {
+    let dialogRef = this.dialog.open(templateRef, {});
+  }
 }
