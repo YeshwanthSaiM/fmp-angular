@@ -1,9 +1,11 @@
-import { Component, OnInit, Input, Output, EventEmitter, ViewEncapsulation, OnDestroy } from '@angular/core';
+import { Component,ViewChild, OnInit, TemplateRef,Input, Output, EventEmitter, ViewEncapsulation, OnDestroy } from '@angular/core';
 import { MatSnackBar } from '@angular/material/snack-bar';
 import { MatTabChangeEvent } from '@angular/material/tabs';
 import { Router, RouterModule } from '@angular/router';
 import { Observable, Subscription } from 'rxjs';
 import { PropertyService } from 'src/app/services/property.service';
+import { MatDialog } from '@angular/material/dialog';
+import { NullTemplateVisitor } from '@angular/compiler';
 
 @Component({
   selector: 'app-property-list',
@@ -16,6 +18,7 @@ export class PropertyListComponent implements OnInit, OnDestroy {
   @Input('starCount') private starCount: number = 5;
   @Input('color') private color: string = 'accent';
   @Output() private ratingUpdated = new EventEmitter();
+  
   snackBarDuration: number = 2000;
   ratingArr: any
   filterTerm!: string;
@@ -23,11 +26,16 @@ export class PropertyListComponent implements OnInit, OnDestroy {
   propertyType: string  = 'residential';
   propertyShow: any[] = [];
   subscription!: Subscription;
+  mobileno: string='';
+  name: string='';
 
+  @ViewChild('GetInfo') public GetInfo:any
   constructor(
     private snackBar: MatSnackBar,
     private route: Router,
     private propertyService: PropertyService,
+    public dialog: MatDialog,
+    
   ) { }
 
 
@@ -118,6 +126,26 @@ export class PropertyListComponent implements OnInit, OnDestroy {
   openGallery(projectName: any) {
     projectName = projectName.split(' ').join('-');
     this.route.navigate([`/gallery/${projectName}`]);
+  }
+  openModal(projectName: any){
+    let dialogRef = this.dialog.open(this.GetInfo);
+    dialogRef.afterClosed().subscribe(result => {
+        // Note: If the user clicks outside the dialog or presses the escape key, there'll be no result
+        if (result !== undefined) {
+            if (result === 'yes') {
+                // TODO: Replace the following line with your code.
+                console.log('User clicked yes.',this.mobileno,this.name,projectName);
+                this.propertyService.saveCustomerDetails({"projectName":projectName,"mobile":this.mobileno,"name":this.name}).subscribe(res=>{
+
+                })
+            } else if (result === 'no') {
+                // TODO: Replace the following line with your code.
+                this.mobileno=''
+                this.name=''
+                console.log('User clicked no.');
+            }
+        }
+    })
   }
 
 }

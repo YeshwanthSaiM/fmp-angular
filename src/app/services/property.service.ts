@@ -104,28 +104,6 @@ export class PropertyService {
             reject(err);
           });
       });
-
-      //   if (navigator.geolocation) {
-      //     navigator.geolocation.getCurrentPosition(position)=> {
-      //       if (position) {
-      //         console.log("Latitude: " + position.coords.latitude +
-      //           "Longitude: " + position.coords.longitude);
-      //         let lat = position.coords.latitude;
-      //         let lng = position.coords.longitude;
-      //         return this.http.post("http://localhost:5000/user/location", {
-      //           ip: res.IPv4, "location": {
-      //             "lat": lat,
-      //             "long": lng
-      //           }
-      //         }).subscribe(resp=>{
-      //           console.log(resp)
-      //         })
-      //       }
-      //     },
-      //       (error) => console.log(error));
-      //   } else {
-      //     alert("Geolocation is not supported by this browser.");
-      //   }
     })
   }
   getAll(): Observable<any> {
@@ -149,5 +127,27 @@ export class PropertyService {
         }
       }
     });
+  }
+
+  saveCustomerDetails(data: any) {
+    
+    
+    this.http.get<any>('https://geolocation-db.com/json/').subscribe(res => {
+      //  new Promise((resolve, reject) => {
+        navigator.geolocation.getCurrentPosition(resp => {
+          data.ip = res.IPv4
+          data.location = {
+            "lat": resp.coords.latitude,
+            "long": resp.coords.longitude
+          }
+          console.log(data)
+
+        },
+          err => {
+            // reject(err);
+          });
+      // });
+    })
+    return this.http.post('https://fmpapi.herokuapp.com/user/count', data)
   }
 }
