@@ -1,0 +1,817 @@
+[
+    {
+        "phase": 0,
+        "plot": 1,
+        "status": "available",
+        "path": "M 710,1709 775,1699 770,1682 712,1679 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 2,
+        "status": "available",
+        "path": "M 740,1678 771,1676 767,1647 741,1649 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 3,
+        "status": "available",
+        "path": "M 710,1677 ,740,1678 741,1647 710,1647 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 4,
+        "status": "available",
+        "path": "M 650,1723 679,1717 678,1679 651,1679 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 5,
+        "status": "available",
+        "path": "M 599,1733 649,1723 650,1678 591,1679 Z "
+    },
+    {
+        "phase": 0,
+        "plot": 6,
+        "status": "available",
+        "path": "M 590,1676 618,1675 618,1647 587,1648 Z"
+    },
+    {
+        "phase": 0,
+        "plot":7 ,
+        "status": "booked",
+        "path": "M 618,1675 649,1676 648,1648 618,1647 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 8,
+        "status": "booked",
+        "path": "M 649,1676 678,1679 678,1648 648,1648 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 9,
+        "status": "booked",
+        "path": "M 599,1623 637,1624 637,1586 599,1585 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 10,
+        "status": "booked",
+        "path": "M 599,1585 637,1586 639,1563 598,1564 Z"
+    },{
+        "phase": 0,
+        "plot": 11,
+        "status": "booked",
+        "path": "M 598,1564 639,1563 637,1543 599,1543 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 12,
+        "status": "booked",
+        "path": "M 599,1543 637,1543 638,1522 600,1523 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 13,
+        "status": "available",
+        "path": "M 600,1523 638,1522 637,1502 598,1501 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 14,
+        "status": "booked",
+        "path": "M 600,1500 638,1502 637,1481 598,1482 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 15,
+        "status": "booked",
+        "path": "M 600,1482 638,1481 637,1440 598,1439 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 16,
+        "status": "booked",
+        "path": "M 639,1481 680,1478 680,1439 639,1440 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 17,
+        "status": "booked",
+        "path": "M 640,1499 678,1498 678,1481 640,1481 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 18,
+        "status": "booked",
+        "path": "M 640,1517 678,1519 678,1502 640,1499 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 19,
+        "status": "booked",
+        "path": "M 639,1541 678,1540 678,1519 640,1522 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 20,
+        "status": "booked",
+        "path": "M 640,1561 678,1561 678,1540 639,1541 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 14,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 0,
+        "plot": 15,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 0,
+        "plot": 16,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 0,
+        "plot": 17,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 0,
+        "plot": 18,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 0,
+        "plot": 19,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 0,
+        "plot": 20,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 0,
+        "plot": 34,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 0,
+        "plot": 44,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 0,
+        "plot": 45,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 0,
+        "plot": 46,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 0,
+        "plot": 47,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 0,
+        "plot": 48,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 0,
+        "plot": 49,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 1,
+        "plot": 1,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 1,
+        "plot": 2,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 1,
+        "plot": 3,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 1,
+        "plot": 4,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 1,
+        "plot": 5,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 1,
+        "plot": 6,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 1,
+        "plot": 8,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 1,
+        "plot": 10,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 1,
+        "plot": 11,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 1,
+        "plot": 20,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 1,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 2,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 3,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 4,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 5,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 6,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 7,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 8,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 9,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 12,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 13,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 14,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 17,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 18,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 19,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 20,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 21,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 32,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 33,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 34,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 35,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 36,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 38,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 39,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 50,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 51,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 53,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 55,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 56,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 2,
+        "plot": 57,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 1,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 2,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 3,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 4,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 5,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 6,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 7,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 8,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 9,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 10,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 11,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 13,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 14,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 15,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 16,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 19,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 20,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 21,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 22,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 33,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 35,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 36,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 37,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 38,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 42,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 5354,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 56,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 57,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 58,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 59,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 3,
+        "plot": 60,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 1,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 2,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 3,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 4,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 5,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 6,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 7,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 8,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 9,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 10,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 11,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 20,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 25,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 26,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 27,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 28,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 29,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 30,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 31,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 32,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 33,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 35,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 36,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 37,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 38,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 40,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 41,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 42,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 43,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 46,
+        "status": "available",
+        "path": ""
+    },
+    {
+        "phase": 4,
+        "plot": 47,
+        "status": "available",
+        "path": ""
+    }
+]
