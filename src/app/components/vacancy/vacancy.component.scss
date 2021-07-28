@@ -3,18 +3,15 @@
   }
   .img-container {
   flex: 1;
-  background-image:url('map.jpg');
+  background-image:url('../../../assets/map.jpg');
+  background-size: cover;
   }
   .desc-container{
     position: absolute;
   }
-  
-  path:nth-of-type(1){
-      stroke-width: 5px;
-  }
-  path:nth-of-type(2){
+  path{
     stroke-width: 5px;
-}
+  }
   path {
     fill: transparent;
     transition: 1s;
@@ -27,5 +24,11 @@
     fill: red;
   }
   #one:hover {
-    stroke: rgb(235, 27, 27);
+    stroke: rgb(256, 256, 256);
+    stroke-width: 3px;
+  }
+
+  #two:hover {
+    stroke: rgb(70, 29, 252);
+    stroke-width: 3px;
   }

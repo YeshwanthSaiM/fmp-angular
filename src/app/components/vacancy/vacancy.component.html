@@ -1,16 +1,19 @@
 <div class="container">
-    <div id="img-id" class="img-container" style="background-image:url('map.jpg'); background-size: cover">
+    <div id="img-id" class="img-container">
         <svg viewBox="0 0 1200 1920" height="100%" width="100%" version="1.1">
-            <path class="path" id="one" data-desc="Plot 2  owned by Yeshwanth"
-                d="M 530,240 630,270 640,250 535,220 Z" />
+            <!--Available-->
+            <path class="path" id="one" data-desc="Booked" *ngFor="let path of paths" [attr.d]="path"
+                (click)="getStatus(1,1)" />
 
-            <path class="path" id="one" data-desc="Plot 5 owned by Hari" d="M 530,435 580,455 630,295 580,275 Z" />
         </svg>
-    </div>
-    <div class="desc-container" style="top:240px; left:530px;">
-        Sample desc
     </div>
 </div>
 <div class="desc-container" style="top:240px; left:530px;">
-  
+
 </div>
+<ng-template #available>
+    <h2>Available</h2>
+</ng-template>
+<ng-template #booked>
+    <h2>Booked</h2>
+</ng-template>
