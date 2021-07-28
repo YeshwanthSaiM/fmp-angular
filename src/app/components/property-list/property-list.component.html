@@ -151,7 +151,7 @@
                             <div class="actions">
 
                                 <button mat-stroked-button (click)="openGallery(project?.projectName)" color="primary" mat-button>3D TOUR</button>
-                                <button mat-stroked-button color="primary" mat-button>BUY</button>
+                                <button mat-stroked-button  (click)="openModal(project?.projectName)"  color="primary" mat-button>BUY</button>
                                 <button mat-stroked-button color="primary" (click)="details(project)"
                                     mat-button>DETAILS</button>
                             </div>
@@ -217,7 +217,7 @@
                             <div class="actions">
 
                                 <button mat-stroked-button (click)="openGallery(project?.projectName)" color="primary" mat-button>3D TOUR</button>
-                                <button mat-stroked-button color="primary" mat-button>BUY</button>
+                                <button mat-stroked-button  (click)="openModal(project?.projectName)"  color="primary" mat-button>BUY</button>
                                 <button mat-stroked-button color="primary" (click)="details(project)"
                                     mat-button>DETAILS</button>
                             </div>

@@ -1,12 +1,11 @@
-import { HttpClient } from '@angular/common/http';
-import { Injectable } from '@angular/core';
-import { Observable, Observer } from 'rxjs';
+import { HttpClient } from "@angular/common/http";
+import { Injectable } from "@angular/core";
+import { Observable, Observer } from "rxjs";
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: "root",
 })
 export class PropertyService {
-
   projects: any;
   project: any;
 
@@ -68,12 +67,12 @@ export class PropertyService {
     "TULASI LAKE FRONT",
     "VESSELLA WOODS",
     "Nilaya Aravalli",
-    "NIHARIKA LANDMARK"
+    "NIHARIKA LANDMARK",
   ];
 
-  private endpoint = "assets/projects"
+  private endpoint = "assets/projects";
 
-  constructor(private http: HttpClient) { }
+  constructor(private http: HttpClient) {}
 
   count: number = 0;
   getByName<T>(name: string): Observable<T> {
@@ -81,47 +80,53 @@ export class PropertyService {
     return this.http.get<T>(url);
   }
   getUserCount() {
-    return this.http.get('https://fmpapi.herokuapp.com/user/count')
+    return this.http.get("https://fmpapi.herokuapp.com/user/count");
   }
   getIp() {
-    this.http.get<any>('https://geolocation-db.com/json/').subscribe(res => {
-
+    this.http.get<any>("https://geolocation-db.com/json/").subscribe((res) => {
       new Promise((resolve, reject) => {
-
-        navigator.geolocation.getCurrentPosition(resp => {
-          console.log({ lng: resp.coords.longitude, lat: resp.coords.latitude })
-          return this.http.post("https://fmpapi.herokuapp.com/user/location", {
-            ip: res.IPv4, "location": {
-              "lat": resp.coords.latitude,
-              "long": resp.coords.longitude
-            }
-          }).subscribe(resp => {
-            console.log(resp)
-          })
-          resolve({ lng: resp.coords.longitude, lat: resp.coords.latitude });
-        },
-          err => {
+        navigator.geolocation.getCurrentPosition(
+          (resp) => {
+            console.log({
+              lng: resp.coords.longitude,
+              lat: resp.coords.latitude,
+            });
+            return this.http
+              .post("https://fmpapi.herokuapp.com/user/location", {
+                ip: res.IPv4,
+                location: {
+                  lat: resp.coords.latitude,
+                  long: resp.coords.longitude,
+                },
+              })
+              .subscribe((resp) => {
+                console.log(resp);
+              });
+            resolve({ lng: resp.coords.longitude, lat: resp.coords.latitude });
+          },
+          (err) => {
             reject(err);
-          });
+          }
+        );
       });
-    })
+    });
   }
   getAll(): Observable<any> {
     return Observable.create((observer: Observer<any>) => {
       this.count = 0;
       const self = this;
-      const name = this.projectNames[self.count]
-      self.count = self.count + 1
+      const name = this.projectNames[self.count];
+      self.count = self.count + 1;
 
-      const nextName = this.projectNames[this.count]
-      self.getByName(name).subscribe(res => onNext(res), observer.error);
+      const nextName = this.projectNames[this.count];
+      self.getByName(name).subscribe((res) => onNext(res), observer.error);
 
       function onNext(response: any) {
         observer.next(response);
         if (self.count < self.projectNames.length) {
-          const name = self.projectNames[self.count]
+          const name = self.projectNames[self.count];
           self.count = self.count + 1;
-          self.getByName(name).subscribe(res => onNext(res), observer.error);
+          self.getByName(name).subscribe((res) => onNext(res), observer.error);
         } else {
           observer.complete();
         }
@@ -130,24 +135,23 @@ export class PropertyService {
   }
 
   saveCustomerDetails(data: any) {
-    
-    
-    this.http.get<any>('https://geolocation-db.com/json/').subscribe(res => {
+    this.http.get<any>("https://geolocation-db.com/json/").subscribe((res) => {
       //  new Promise((resolve, reject) => {
-        navigator.geolocation.getCurrentPosition(resp => {
-          data.ip = res.IPv4
+      navigator.geolocation.getCurrentPosition(
+        (resp) => {
+          data.ip = res.IPv4;
           data.location = {
-            "lat": resp.coords.latitude,
-            "long": resp.coords.longitude
-          }
-          console.log(data)
-
+            lat: resp.coords.latitude,
+            long: resp.coords.longitude,
+          };
+          console.log(data);
         },
-          err => {
-            // reject(err);
-          });
+        (err) => {
+          // reject(err);
+        }
+      );
       // });
-    })
-    return this.http.post('https://fmpapi.herokuapp.com/user/count', data)
+    });
+    return this.http.post("https://fmpapi.herokuapp.com/customer/info", data);
   }
 }
