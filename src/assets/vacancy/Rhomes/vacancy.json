@@ -1,0 +1,596 @@
+[
+    {
+        "phase": 0,
+        "plot": 1,
+        "status": "available",
+        "path": "M 2270,1870 2396,1870 2270,1995 2394,1995 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 2,
+        "status": "available",
+        "path": "M 2270,1995 2394,1995 2270,2120 2394,2120 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 3,
+        "status": "available",
+        "path": "M 2270,2120 2394,2120 2270,2245 2394,2245 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 4,
+        "status": "available",
+        "path": "M 2270,2245 2394,2245 2270,2370 2394,2370 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 5,
+        "status": "available",
+        "path": "M 2270,2370 2394,2370 2270,2495 2394,2495 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 6,
+        "status": "available",
+        "path": "M 2270,2495 2394,2495 2270,2620 2394,2620 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 7,
+        "status": "available",
+        "path": "M 2270,2620 2394,2620 2270,2745 2394,2745 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 8,
+        "status": "available",
+        "path": "M 2270,2745 2394,2745 2270,2870 2394,2870 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 9,
+        "status": "available",
+        "path": "M 2270,2870 2394,2870 2270,2995 2394,2995 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 10,
+        "status": "available",
+        "path": "M 2395,1870 2521,1870 2395,1996 2520,1996 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 11,
+        "status": "available",
+        "path": "M 2395,1996 2520,1996 2395,2121 2520,2121 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 12,
+        "status": "available",
+        "path": "M 2395,2121 2520,2121 2395,2246 2520,2246 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 13,
+        "status": "available",
+        "path": "M 2395,2246 2520,2246 2395,2371 2520,2371 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 14,
+        "status": "available",
+        "path": "M 2395,2371 2520,2371 2395,2496 2520,2496 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 15,
+        "status": "available",
+        "path": "M 2395,2496 2520,2496 2395,2621 2520,2621 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 16,
+        "status": "available",
+        "path": "M 2395,2621 2520,2621 2395,2746 2520,2746 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 17,
+        "status": "available",
+        "path": "M 2395,2746 2520,2746 2395,2871 2520,2871 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 18,
+        "status": "available",
+        "path": "M 2395,2871 2520,2871 2395,2996 2520,2996 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 19,
+        "status": "available",
+        "path": "M 2532,1870 2657,1870 2332,1997 2655,1997 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 20,
+        "status": "available",
+        "path": "M 2332,1997 2655,1997 2332,2122 2655,2122 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 21,
+        "status": "available",
+        "path": "M 2332,2122 2655,2122 2332,2247 2655,2247 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 22,
+        "status": "available",
+        "path": "M 2332,2247 2655,2247 2332,2372 2655,2372 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 23,
+        "status": "available",
+        "path": "M 2332,2372 2655,2372 2332,2497 2655,2497 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 24,
+        "status": "available",
+        "path": "M 2332,2497 2655,2497 2332,2622 2655,2622 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 25,
+        "status": "available",
+        "path": "M 2332,2622 2655,2622 2332,2747 2655,2747 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 26,
+        "status": "available",
+        "path": "M 2332,2747 2655,2747 2332,2872 2655,2872 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 27,
+        "status": "available",
+        "path": "M 2657,1868 2780,1868 2657,1997 2780,1997 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 28,
+        "status": "available",
+        "path": "M 2657,1997 2780,1997 2657,2122 2780,2122 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 29,
+        "status": "available",
+        "path": "M 2657,2122 2780,2122 2657,2247 2780,2247 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 30,
+        "status": "available",
+        "path": "M 2657,2247 2780,2247 2657,2372 2780,2372 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 31,
+        "status": "available",
+        "path": "M 2657,2372 2780,2372 2657,2497 2780,2497 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 32,
+        "status": "available",
+        "path": "M 2657,2497 2780,2497 2657,2622 2780,2622 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 33,
+        "status": "available",
+        "path": "M 2657,2622 2780,2622 2657,2747 2780,2747 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 34,
+        "status": "available",
+        "path": "M 2657,2747 2780,2747 2657,2872 2780,2872 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 35,
+        "status": "available",
+        "path": "M 2792,1867 2914,1867 2792,1998 2914,1998 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 36,
+        "status": "available",
+        "path": "M 2792,1998 2914,1998 2792,2123 2914,2123 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 37,
+        "status": "available",
+        "path": "M 2792,2123 2914,2123 2792,2248 2914,2248 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 38,
+        "status": "available",
+        "path": "M 2792,2248 2914,2248 2792,2373 2914,2373 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 39,
+        "status": "available",
+        "path": "M 2792,2373 2914,2373 2792,2498 2914,2498 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 40,
+        "status": "available",
+        "path": "M 2792,2498 2914,2498 2792,2623 2914,2623 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 41,
+        "status": "available",
+        "path": "M 2792,2623 2914,2623 2792,2748 2914,2748 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 42,
+        "status": "available",
+        "path": "M 2792,2748 2914,2748 2792,2873 2914,2873 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 43,
+        "status": "available",
+        "path": "M 2914,1867 3029,1867 2914,1998 3029,1998 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 44,
+        "status": "available",
+        "path": "M 2914,1998 3029,1998 2914,2123 3029,2123 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 45,
+        "status": "available",
+        "path": "M 2914,2123 3029,2123 2914,2248 3029,2248 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 46,
+        "status": "available",
+        "path": "M 2914,2248 3029,2248 2914,2373 3029,2373 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 47,
+        "status": "available",
+        "path": "M 2914,2373 3029,2373 2914,2498 3029,2498 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 48,
+        "status": "available",
+        "path": "M 2914,2498 3029,2498 2914,2623 3029,2623 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 49,
+        "status": "available",
+        "path": "M 2914,2623 3029,2623 2914,2748 3029,2748 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 50,
+        "status": "available",
+        "path": "M 2914,2748 3029,2748 2914,2873 3029,2873 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 1,
+        "status": "available",
+        "path": "M 3041,1868 3155,1868 3041,1935 3155,1935 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 2,
+        "status": "available",
+        "path": "M 3041,1935 3155,1935 3041,2000 3155,2000 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 3,
+        "status": "available",
+        "path": "M 3041,2000 3155,2000 3041,2065 3155,2065 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 4,
+        "status": "available",
+        "path": "M 3041,2065 3155,2065 3041,2130 3155,2130 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 5,
+        "status": "available",
+        "path": "M 3041,2130 3155,2130 3041,2195 3155,2195 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 6,
+        "status": "available",
+        "path": "M 3041,2195 3155,2195 3041,2260 3155,2260 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 7,
+        "status": "available",
+        "path": "M 3041,2260 3155,2260 3041,2325 3155,2325 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 8,
+        "status": "available",
+        "path": "M 3041,2325 3155,2325 3041,2390 3155,2390 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 9,
+        "status": "available",
+        "path": "M 3041,2390 3155,2390 3041,2455 3155,2455 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 10,
+        "status": "available",
+        "path": "M 3041,2455 3155,2455 3041,2520 3155,2520 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 11,
+        "status": "available",
+        "path": "M 3041,2520 3155,2520 3041,2585 3155,2585 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 12,
+        "status": "available",
+        "path": "M 3041,2585 3155,2585 3041,2650 3155,2650 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 13,
+        "status": "available",
+        "path": "M 3041,2650 3155,2650 3041,2715 3155,2715 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 14,
+        "status": "available",
+        "path": "M 3041,2715 3155,2715 3041,2780 3155,2780 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 15,
+        "status": "available",
+        "path": "M 3041,2780 3155,2780 3041,2845 3155,2845 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 16,
+        "status": "available",
+        "path": "M 3155,1868 3270,1868 3155,1935 3270,1935 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 17,
+        "status": "available",
+        "path": "M 3155,1935 3269,1935 3155,2000 3270,2000 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 18,
+        "status": "available",
+        "path": "M 3155,2000 3270,2000 3155,2065 3270,2065 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 20,
+        "status": "available",
+        "path": "M 3155,2065 3270,2065 3155,2130 3270,2130 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 21,
+        "status": "available",
+        "path": "M 3155,2130 3270,2130 3155,2195 3270,2195 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 22,
+        "status": "available",
+        "path": "M 3155,2195 3270,2195 3155,2260 3270,2260 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 23,
+        "status": "available",
+        "path": "M 3155,2260 3270,2260 3155,2325 3270,2325 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 24,
+        "status": "available",
+        "path": "M 3155,2325 3270,2325 3155,2390 3270,2390 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 25,
+        "status": "available",
+        "path": "M 3155,2390 3270,2390 3155,2455 3270,2455 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 26,
+        "status": "available",
+        "path": "M 3155,2455 3270,2455 3155,2520 3270,2520 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 27,
+        "status": "available",
+        "path": "M 3155,2520 3270,2520 3155,2585 3270,2585 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 28,
+        "status": "available",
+        "path": "M 3155,2585 3270,2585 3155,2650 3270,2650 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 29,
+        "status": "available",
+        "path": "M 3155,2650 3270,2650 3155,2715 3270,2715 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 30,
+        "status": "available",
+        "path": "M 3155,2715 3270,2715 3155,2780 3270,2780 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 31,
+        "status": "available",
+        "path": "M 3155,2780 3270,2780 3155,2845 3270,2845 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 32,
+        "status": "available",
+        "path": "M 3155,2845 3270,2845 3155,2910 3270,2910 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 33,
+        "status": "available",
+        "path": "M 3155,2910 3270,2910 3155,2975 3270,2975 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 34,
+        "status": "available",
+        "path": "M 3155,2975 3270,2975 3155,3040 3270,3040 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 35,
+        "status": "available",
+        "path": "M 3155,3040 3270,3040 3155,3105 3270,3105 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 36,
+        "status": "available",
+        "path": "M 3155,3105 3270,3105 3155,3170 3270,3170 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 37,
+        "status": "available",
+        "path": "M 3155,3170 3270,3170 3155,3235 3270,3235 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 38,
+        "status": "available",
+        "path": "M 3155,3235 3270,3235 3155,3300 3270,3300 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 39,
+        "status": "available",
+        "path": "M 3155,3300 3270,3300 3155,3365 3270,3365 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 40,
+        "status": "available",
+        "path": "M 3155,3365 3270,3365 3155,3430 3270,3430 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 41,
+        "status": "available",
+        "path": "M 3155,3430 3270,3430 3155,3495 3270,3495 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 42,
+        "status": "available",
+        "path": "M 3155,3495 3270,3495 3155,3560 3270,3560 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 43,
+        "status": "available",
+        "path": "M 3281,1866 3397,1866 3281,1936 3397,1936 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 44,
+        "status": "available",
+        "path": "M 3281,1936 3397,1936 3281,2001 3397,2001 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 45,
+        "status": "available",
+        "path": "M 3281,2001 3397,2001 3281,2066 3397,2066 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 46,
+        "status": "available",
+        "path": "M 3281,2066 3397,2066 3281,2131 3397,2131 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 47,
+        "status": "available",
+        "path": "M 3281,2131 3397,2131 3281,2196 3397,2196 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 48,
+        "status": "available",
+        "path": "M 3281,2196 3397,2196 3281,2261 3397,2261 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 49,
+        "status": "available",
+        "path": "M 3281,2261 3397,2261 3281,2326 3397,2326 Z"
+    },
+    {
+        "phase": 1,
+        "plot": 50,
+        "status": "available",
+        "path": "M 3281,2326 3397,2326 3281,2391 3397,2391 Z"
+    }
+]

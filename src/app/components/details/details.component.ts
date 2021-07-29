@@ -247,7 +247,7 @@ export class DetailsComponent implements OnInit {
       window.location.href='details/'+projectName        
     }   
         </script>
-         <script type = 'text/javascript' src = 'http://www.bing.com/api/maps/mapcontrol?callback=GetMap&key=Al0BEFJS2vf1KrgjcK1FSitkQ9qqqvKFda5SaDFSHvUgU4513o8c6C62leKvhrxM' defer > </script>
+         <script type = 'text/javascript' src = 'https://www.bing.com/api/maps/mapcontrol?callback=GetMap&key=Al0BEFJS2vf1KrgjcK1FSitkQ9qqqvKFda5SaDFSHvUgU4513o8c6C62leKvhrxM' defer > </script>
        
        `)
 

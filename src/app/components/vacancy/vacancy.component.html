@@ -1,6 +1,6 @@
 <div class="container">
     <div id="img-id" class="img-container">
-        <svg viewBox="0 0 1200 1920" height="100%" width="100%" version="1.1"  [ngStyle]="{'background-image': 'url(' + mapPath + ')'}" style="background-size: cover">
+        <svg [attr.viewBox]= "viewBoxSize" height="100%" width="100%" version="1.1"  [ngStyle]="{'background-image': 'url(' + mapPath + ')'}" style="background-size: cover">
             <!--Available-->
             <path class="path" id="one" data-desc="Booked" *ngFor="let vacanyobj of vacancy" [attr.d]="vacanyobj.path"
                 (click)="getStatus(vacanyobj.phase,vacanyobj.plot,vacanyobj.status)" />

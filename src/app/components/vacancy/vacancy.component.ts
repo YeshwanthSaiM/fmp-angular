@@ -30,7 +30,8 @@ export class VacancyComponent implements OnInit, AfterViewInit {
   mapPath: any;
   vacancyPath: any;
   vacancy :any ;
- 
+  viewBoxSize : any;
+
   ngOnInit(): void {
     this.projectName = this.route.snapshot.paramMap.get('projectName');
     this.mapPath = "../../../assets/vacancy/" + this.projectName + "/map.jpg";
@@ -38,12 +39,22 @@ export class VacancyComponent implements OnInit, AfterViewInit {
     
     console.log("project name")
     console.log(this.projectName)
+    console.log("the json path");
+    console.log(this.vacancyPath);
     console.log("The map path")
     console.log(this.mapPath)
     this.httpClient.get(this.vacancyPath).subscribe(data =>{
       console.log(data);
       this.vacancy = data;
     })
+    // setting the view box
+    if(this.projectName == 'Rhomes'){
+      this.viewBoxSize = "0 0 4963 3509"
+    }else if(this.projectName == 'Bloom-City-2'){
+      this.viewBoxSize = "0 0 1200 1920"
+    }
+    console.log("View Box")
+    console.log(this.viewBoxSize);
   }
 
   ngAfterViewInit(): void {
@@ -66,6 +77,7 @@ export class VacancyComponent implements OnInit, AfterViewInit {
     console.log(phase)
     console.log(plotno)
     console.log(status)
+    // this.openModal(this.available);
     if (status == 'available'){
       this.openModal(this.available);
     }else{
