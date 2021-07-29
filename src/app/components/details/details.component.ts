@@ -244,8 +244,7 @@ export class DetailsComponent implements OnInit {
       }          
       function highlight(id) {
         const projectName = id.split(' ').join('-').toLocaleLowerCase();
-      window.location.href='details/'+projectName  
-      // ${this.router.navigate(['/details/id'])}
+      window.location.href='details/'+projectName        
     }   
         </script>
          <script type = 'text/javascript' src = 'http://www.bing.com/api/maps/mapcontrol?callback=GetMap&key=Al0BEFJS2vf1KrgjcK1FSitkQ9qqqvKFda5SaDFSHvUgU4513o8c6C62leKvhrxM' defer > </script>
