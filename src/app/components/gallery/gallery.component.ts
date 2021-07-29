@@ -31,7 +31,7 @@ export class GalleryComponent implements OnInit {
     } else if (this.projectName === 'Sunray Township') {
       this.iFrameModel = 'https://www.klapty.com/tour/tunnel/FO30Cj4PJb';
     } else if (this.projectName === 'Marvel City Phase 1') {
-      this.iFrameModel = 'https://www.klapty.com/tour/tunnel/Lsz0einTLQ';
+      this.iFrameModel = 'https://www.klapty.com/tour/hPT0i2HfWR';
     } else if (this.projectName === 'Marvel City Phase 2') {
       this.iFrameModel = "https://www.klapty.com/tour/tunnel/Lsd03PguIB";
     } else if (this.projectName === 'True Gold Hills') {

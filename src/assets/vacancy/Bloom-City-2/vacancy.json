@@ -120,57 +120,57 @@
     },
     {
         "phase": 0,
-        "plot": 14,
+        "plot": 21,
         "status": "available",
-        "path": ""
+        "path": "M 639,1583 679,1583 679,1563 640,1562 Z"
     },
     {
         "phase": 0,
-        "plot": 15,
+        "plot": 22,
         "status": "available",
-        "path": ""
+        "path": "M 640,1625 679,1623 679,1583 639,1583 Z"
     },
     {
         "phase": 0,
-        "plot": 16,
+        "plot": 23,
         "status": "available",
-        "path": ""
+        "path": "M 712,1480 739, 1478 739,1460 710,1461 Z"
     },
     {
         "phase": 0,
-        "plot": 17,
+        "plot": 24,
         "status": "available",
-        "path": ""
+        "path": "M 741,1480 772,1478 770,1461 741,1461 Z"
     },
     {
         "phase": 0,
-        "plot": 18,
+        "plot": 25,
         "status": "available",
-        "path": ""
+        "path": "M 741,1641 770,1460 769,1439 741,1439 Z"
     },
     {
         "phase": 0,
-        "plot": 19,
+        "plot": 26,
         "status": "available",
-        "path": ""
+        "path": "M 710,1461 739,1460 741,1439 710,1440 Z"
     },
     {
         "phase": 0,
-        "plot": 20,
+        "plot": 27,
         "status": "available",
-        "path": ""
+        "path": "M 712,1416 766,1415 765,1377 710,1376 Z"
     },
     {
         "phase": 0,
-        "plot": 34,
+        "plot": 28,
         "status": "available",
-        "path": ""
+        "path": "M 710,1376 765,1377 763,1356 709,1356 Z"
     },
     {
         "phase": 0,
-        "plot": 44,
+        "plot": 29,
         "status": "available",
-        "path": ""
+        "path": "M 709,1356 763,1356 760,1334 711,1335 Z"
     },
     {
         "phase": 0,
