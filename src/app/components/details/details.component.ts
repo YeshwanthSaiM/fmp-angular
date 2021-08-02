@@ -215,7 +215,7 @@ export class DetailsComponent implements OnInit {
         var map = new Microsoft.Maps.Map('#myMap', {
           credentials: 'Al0BEFJS2vf1KrgjcK1FSitkQ9qqqvKFda5SaDFSHvUgU4513o8c6C62leKvhrxM',
              center: mapCenter,
-            zoom: 10,
+            zoom: 12,
             allowHidingLabelsOfRoad: true
 
         });
@@ -223,8 +223,7 @@ export class DetailsComponent implements OnInit {
        
         console.log(${this.view})    
         locations.forEach((location) => {
-         if((location.type=='residential' && ${this.view})||(location.type!='residential' && ${!this.view})){ var icon=''          
-          if(location.type=='residential' && ${this.view})
+          if(location.type=='residential')
             icon='<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd"><path d="M1 22h2v-22h18v22h2v2h-22v-2zm7-3v4h3v-4h-3zm5 0v4h3v-4h-3zm-6-5h-2v2h2v-2zm8 0h-2v2h2v-2zm-4 0h-2v2h2v-2zm8 0h-2v2h2v-2zm-12-4h-2v2h2v-2zm8 0h-2v2h2v-2zm-4 0h-2v2h2v-2zm8 0h-2v2h2v-2zm-12-4h-2v2h2v-2zm8 0h-2v2h2v-2zm-4 0h-2v2h2v-2zm8 0h-2v2h2v-2zm-12-4h-2v2h2v-2zm8 0h-2v2h2v-2zm-4 0h-2v2h2v-2zm8 0h-2v2h2v-2z"/></svg>'
           else
             icon='<svg xmlns="http://www.w3.org/2000/svg" color="red" width="24" height="24" viewBox="0 0 24 24"> <g color="green"><circle r="25" cx="50" cy="50" stroke="currentcolor" fill="none" stroke-width="5" /></g><path d="M12 0c-4.198 0-8 3.403-8 7.602 0 4.198 3.469 9.21 8 16.398 4.531-7.188 8-12.2 8-16.398 0-4.199-3.801-7.602-8-7.602zm0 11c-1.657 0-3-1.343-3-3s1.343-3 3-3 3 1.343 3 3-1.343 3-3 3z"/></svg>'
@@ -239,7 +238,7 @@ export class DetailsComponent implements OnInit {
         
             
             map.entities.push(marker);
-          }
+          
         }); 
       }          
       function highlight(id) {
