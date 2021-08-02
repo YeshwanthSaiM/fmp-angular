@@ -146,7 +146,7 @@
         "phase": 0,
         "plot": 25,
         "status": "available",
-        "path": "M 741,1641 770,1460 769,1439 741,1439 Z"
+        "path": "M 741,1458 770,1460 769,1439 741,1439 Z"
     },
     {
         "phase": 0,
@@ -174,644 +174,140 @@
     },
     {
         "phase": 0,
+        "plot": 30,
+        "status": "available",
+        "path": "M 712,1332 762,1333 762,1314 710,1314 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 31,
+        "status": "available",
+        "path": "M 710,1314 762,1314 757,1293 711,1295 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 32,
+        "status": "available",
+        "path": "M 711,1295 757,1293 753,1272 711,1272 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 33,
+        "status": "available",
+        "path": "M 711,1272 753,1273 749,1252 710,1252 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 34,
+        "status": "available",
+        "path": "M 710,1252 749,1252 744,1232 710,1231 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 35,
+        "status": "available",
+        "path": "M 640,1251 680,1250 677,1232 638,1232 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 36,
+        "status": "available",
+        "path": "M 641,1270 679,1270 680,1250 640,1251 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 37,
+        "status": "available",
+        "path": "M 641,1292 681,1291 679,1270 641,1270 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 38,
+        "status": "available",
+        "path": "M 640,1311 677,1312 681,1291 641,1292 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 39,
+        "status": "available",
+        "path": "M 639,1333 680,1332 677,1312 640,1311 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 40,
+        "status": "available",
+        "path": "M 639,1354 678,1354 680,1332 639,1333 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 41,
+        "status": "available",
+        "path": "M 640,1375 678,1374 678,1354 639,1354 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 42,
+        "status": "available",
+        "path": "M 639,1416 679,1416 678,1374 640,1375 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 43,
+        "status": "available",
+        "path": "M 598,1416 638,1415 640,1375 599,1376 Z"
+    },
+    {
+        "phase": 0,
+        "plot": 44,
+        "status": "available",
+        "path": "M 598,1376 640,1375 637,1357 599,1357 Z"
+    },
+    {
+        "phase": 0,
         "plot": 45,
         "status": "available",
-        "path": ""
+        "path": "M 598,1357 637,1354 637,1320 599,1321 Z"
     },
     {
         "phase": 0,
         "plot": 46,
         "status": "available",
-        "path": ""
+        "path": "M 598,1321 637,1320 639,1298 599,1299 Z"
     },
     {
         "phase": 0,
         "plot": 47,
         "status": "available",
-        "path": ""
+        "path": "M 597,1299 637,1298 639,1273 599,1274 Z"
     },
     {
         "phase": 0,
         "plot": 48,
         "status": "available",
-        "path": ""
+        "path": "M 598,1274 638,1273 636,1253 599,1253 Z"
     },
     {
         "phase": 0,
         "plot": 49,
         "status": "available",
-        "path": ""
+        "path": "M 598,1253 636,1253 641,1231 599,1232 Z"
     },
     {
-        "phase": 1,
-        "plot": 1,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 1,
-        "plot": 2,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 1,
-        "plot": 3,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 1,
-        "plot": 4,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 1,
-        "plot": 5,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 1,
-        "plot": 6,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 1,
-        "plot": 8,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 1,
-        "plot": 10,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 1,
-        "plot": 11,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 1,
-        "plot": 20,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 1,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 2,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 3,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 4,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 5,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 6,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 7,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 8,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 9,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 12,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 13,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 14,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 17,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 18,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 19,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 20,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 21,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 32,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 33,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 34,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 35,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 36,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 38,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 39,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
+        "phase": 0,
         "plot": 50,
         "status": "available",
-        "path": ""
+        "path": "M 535,1249 571,1250 571,1232 535,1231 Z"
     },
     {
-        "phase": 2,
+        "phase": 0,
         "plot": 51,
         "status": "available",
-        "path": ""
+        "path": "M 535,1270 573,1271 571,1250 535,1249 Z"
     },
     {
-        "phase": 2,
-        "plot": 53,
+        "phase": 0,
+        "plot": 52,
         "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 55,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 56,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 2,
-        "plot": 57,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 1,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 2,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 3,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 4,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 5,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 6,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 7,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 8,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 9,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 10,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 11,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 13,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 14,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 15,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 16,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 19,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 20,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 21,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 22,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 33,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 35,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 36,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 37,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 38,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 42,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 5354,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 56,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 57,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 58,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 59,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 3,
-        "plot": 60,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 1,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 2,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 3,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 4,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 5,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 6,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 7,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 8,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 9,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 10,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 11,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 20,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 25,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 26,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 27,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 28,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 29,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 30,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 31,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 32,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 33,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 35,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 36,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 37,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 38,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 40,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 41,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 42,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 43,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 46,
-        "status": "available",
-        "path": ""
-    },
-    {
-        "phase": 4,
-        "plot": 47,
-        "status": "available",
-        "path": ""
+        "path": "M 534,1298 572,1297 573,1271 535,1270 Z"
     }
 ]

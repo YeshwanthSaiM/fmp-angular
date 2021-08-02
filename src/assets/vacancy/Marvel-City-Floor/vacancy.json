@@ -1,0 +1,90 @@
+[
+    {
+        "phase": 0,
+        "plot": 4,
+        "status": "available",
+        "path": "M 54,744 244,740 245,488 54,492 Z",
+        "details": "",
+        "link": ""
+    },
+    {
+        "phase": 0,
+        "plot": 3,
+        "status": "available",
+        "path": "M 54,492 245,488 245,333 55,333 Z",
+        "details": "",
+        "link": ""
+    },
+    {
+        "phase": 0,
+        "plot": 2,
+        "status": "available",
+        "path": "M 55,333 245,333 245,180 52,180  Z",
+        "details": "",
+        "link": ""
+    },
+    {
+        "phase": 0,
+        "plot": 1,
+        "status": "available",
+        "path": "M 52,180 245,180 245,38 52,39 Z",
+        "details": "",
+        "link": ""
+    },
+    {
+        "phase": 0,
+        "plot": 5,
+        "status": "available",
+        "path": "M 247,742 402,743 401,555 250,551 Z",
+        "details": "",
+        "link": ""
+    },
+    {
+        "phase": 0,
+        "plot": 6,
+        "status": "available",
+        "path": "M 402,743 557,743 558,555 401,555 Z",
+        "details": "",
+        "link": ""
+    },
+    {
+        "phase": 0,
+        "plot": 7,
+        "status": "available",
+        "path": "M 557,743 752,745 750,491 561,491 Z",
+        "details": "",
+        "link": ""
+    },
+    {
+        "phase": 0,
+        "plot": 8,
+        "status": "available",
+        "path": "M 561,491 750,491 750,336 560,336   Z",
+        "details": "",
+        "link": ""
+    },
+    {
+        "phase": 0,
+        "plot": 9,
+        "status": "available",
+        "path": "M 560,336 750,336 752,181 560,183  Z",
+        "details": "",
+        "link": ""
+    },
+    {
+        "phase": 0,
+        "plot": 10,
+        "status": "available",
+        "path": "M 560,183 752,181 752,36 559,37 Z",
+        "details": "",
+        "link": ""
+    },
+    {
+        "phase": 0,
+        "plot": 11,
+        "status": "available",
+        "path": "M 308,179 497,181 497,36 307,36 Z",
+        "details": "",
+        "link": ""
+    }
+]

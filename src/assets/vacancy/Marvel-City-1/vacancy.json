@@ -1,0 +1,43 @@
+[
+    {
+        "phase": 0,
+        "plot": 1,
+        "status": "available",
+        "path": "M 98,888 466,894 1067,877 1067,795 464,776 97,793 Z",
+        "details": "",
+        "link":""
+    },
+    {
+        "phase": 0,
+        "plot": 2,
+        "status": "available",
+        "path": "M 97,790 466,776 1067,795 1067,696 464,658 97,702 Z",
+        "details": "",
+        "link":""
+    },
+    {
+        "phase": 0,
+        "plot": 3,
+        "status": "available",
+        "path": "M 97,702 464,658 1067,696 1066,603 464,549 96,616 Z",
+        "details": "",
+        "link":""
+    },
+    {
+        "phase": 0,
+        "plot": 4,
+        "status": "available",
+        "path": "M 96,616 464,549 1066,603 1067,507 464,422 96,528 Z",
+        "details": "",
+        "link":""
+    },
+    {
+        "phase": 0,
+        "plot": 1,
+        "status": "available",
+        "path": "M 96,528 464,422 1067,507 1067,394 468,277 96,414 Z",
+        "details": "",
+        "link":""
+    }
+
+]
