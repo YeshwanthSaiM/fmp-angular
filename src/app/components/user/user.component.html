@@ -1,0 +1,93 @@
+<div class="search">
+    <mat-form-field style="width: 500px;" floatLabel="always">
+        <mat-label>Search</mat-label>
+        <mat-icon matSuffix>search</mat-icon>
+        <input matInput [(ngModel)]="filterTerm" placeholder="Search property by location / type / description" />
+    </mat-form-field>
+
+</div>
+<mat-card *ngFor="let project of propertyShow | filter:filterTerm">
+    <div class="header">
+        <div class="title">
+            <div>{{project.projectName}}</div>
+            <div class="subtitle">{{project.promoterName}}</div>
+        </div>
+        <div class="city">
+            <div> {{project.location.locality}}, {{project.location.city}}</div>
+            <div class="subtitle" style="margin: 5px 30px;">
+                <span class="type" [style.background]="project.type=='residential'?'green': project.type=='commercial'?'orangered':'grey'" >{{project.type}} </span><span style="color:red;position: absolute;">
+                    <mat-icon>favorite
+                    </mat-icon>
+                </span>
+            </div>
+        </div>
+    </div>
+
+    <mat-card-content>
+        <div class="main-content">
+            <div class="main-content">
+                <div class="media-box">
+                    <img class="image" [src]="project.projectImageUrl">
+                    <iframe frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen="" class="iframe" title="Best open lands / flats / offices videos"
+                        [src]="project.projectVideoUrl | safe: 'resourceUrl'"></iframe>
+                </div>
+
+                <div class="content">
+                    <div style="display: flex;width: 100%;">
+                        <div style="width: 50%;">
+                            <div>
+                                <b>
+                                    <h4>Location Highlights:</h4>
+                                </b>
+                            </div>
+                            <ul *ngFor="let highlight of project.locationHighlights">
+                                <li>{{highlight}}</li>
+                            </ul>
+                        </div>
+                        <div class="details" *ngFor="let property of project.properties">
+                            <h4>Unit : {{property.unit}}</h4>
+                            <h4>Size : {{property.size}} sft </h4>
+                            <h4>Price : {{property.totalPrice / 100000 | number:'1.0-0'}} Lacs</h4>
+                        </div>
+                    </div>
+
+                    <p>Description: {{project.description.substring(0,250)}}... Know more.
+                    </p>
+                    <div class="actions">
+
+                        <button mat-stroked-button (click)="openGallery(project?.projectName)" color="primary"
+                            mat-button>3D TOUR</button>
+                        <button mat-stroked-button (click)="openModal(project?.projectName)" color="primary"
+                            mat-button>BUY</button>
+                        <button mat-stroked-button color="primary" (click)="details(project)"
+                            mat-button>DETAILS</button>
+                    </div>
+                    <ng-template #GetInfo>
+                        <h4 matDialogTitle>Please give us your mobile number our experienced agents will give you all
+                            details.</h4>
+                        <!-- <div class="example-container">
+
+                            <mat-form-field appearance="fill">
+                                <mat-label>Enter your Phone Number</mat-label>
+                                <input [(ngModel)]="mobileno" matInput placeholder="Phone number" required>
+            
+                            </mat-form-field>
+                            <br>
+            
+                            <mat-form-field appearance="fill">
+                                <mat-label>Enter your Name</mat-label>
+                                <input [(ngModel)]="name"  placeholder="Name" matInput [type]="'text'" required>                                        
+                            </mat-form-field>
+                        </div>                             -->
+                        <mat-dialog-actions align="center">
+                            <button mat-button matDialogClose="no">Cancel</button>
+                            <button mat-button matDialogClose="yes">Submit</button>
+                        </mat-dialog-actions>
+                    </ng-template>
+                </div>
+            </div>
+        </div>
+    </mat-card-content>
+</mat-card>

@@ -35,7 +35,10 @@
       </button>
       <div class="action-btn">
         <button class="buy" mat-raised-button color="primary" (click)="buy()">Buy</button>
-        <button class="login" mat-raised-button color="primary" (click)="openDialog()">Login</button>
+        <button *ngIf="!user" class="login" mat-raised-button color="primary" (click)="openDialog()">Login</button>
+        <button *ngIf="user" class="login" mat-raised-button color="primary" (click)="logout()">Logout</button>
+
+
       </div>
     </mat-toolbar>
     <router-outlet></router-outlet>

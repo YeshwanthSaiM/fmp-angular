@@ -9,6 +9,7 @@ import { DetailsComponent } from './components/details/details.component'
 import { GalleryComponent } from './components/gallery/gallery.component';
 import { GalleryModelComponent } from './components/gallery-model/gallery-model.component';
 import { VacancyComponent } from './components/vacancy/vacancy.component';
+import { UserComponent } from  './components/user/user.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
@@ -20,7 +21,10 @@ const routes: Routes = [
   { path: 'details/:projectName', component: DetailsComponent },
   { path: 'gallery/:projectName', component: GalleryComponent },
   { path: 'gallery-model/:projectName', component: GalleryModelComponent },
-  { path: 'vacancy/:projectName', component: VacancyComponent }
+  { path: 'vacancy/:projectName', component: VacancyComponent },
+  { path: 'user/projects', component: UserComponent },
+
+  
 ];
 
 @NgModule({
